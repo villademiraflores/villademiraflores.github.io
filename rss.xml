@@ -1,11 +1,2785 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="https://villademiraflores.github.io/">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://acadimexport.localhost/">
   <channel>
-    <title>Drush Site-Install</title>
-    <link>https://villademiraflores.github.io/</link>
+    <title>Villa de Miraflores</title>
+    <link>http://acadimexport.localhost/</link>
     <description/>
-    <language>en</language>
+    <language>es</language>
     
-    
+    <item>
+  <title>Privacy Policy</title>
+  <link>http://acadimexport.localhost/privacy-policy</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Privacy Policy&lt;/span&gt;
+&lt;div class="paragraph-sections field field--name-field-page-section field--type-entity-reference-revisions field--label-hidden"&gt;
+        &lt;section id="paragraph-d_p_text_paged-464" class="wrapper-d_p_text_paged with-long-text"&gt;
+    &lt;div class="clearfix paragraph text-page paragraph--type--d-p-text-paged paragraph--view-mode--default"&gt;
+      &lt;div class="container"&gt;
+                  &lt;h2 class="field field--name-field-d-main-title field--type-string field--label-hidden"&gt;Privacy Policy&lt;/h2&gt;
+
+
+                    &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam dui libero, congue at pellentesque eu, porta sit amet dui. Sed at gravida nunc. Duis vitae quam metus. Aliquam ut ante at eros imperdiet varius. Curabitur sit amet aliquet leo. Etiam ante orci, tempus quis dapibus non, pulvinar ac est. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer maximus, ligula vel euismod condimentum, metus ligula vulputate erat, quis malesuada metus sapien sit amet arcu.&lt;/p&gt; &lt;p&gt;Integer egestas volutpat lectus vel elementum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque pharetra in dolor eu dictum. Phasellus ultrices, odio vel elementum molestie, justo mi volutpat neque, non porttitor urna dolor id velit. Nunc molestie erat et molestie semper. Nullam sagittis hendrerit sapien vel sagittis. Duis commodo lorem a dolor mattis, faucibus convallis turpis dapibus. Fusce ipsum urna, laoreet ut libero in, ultrices tincidunt lectus. Phasellus sollicitudin libero nec hendrerit ultricies. Proin et interdum lorem, id mollis dui. Vestibulum condimentum sem non bibendum interdum. Sed vitae sodales lectus, vitae tincidunt odio.&lt;/p&gt; &lt;p&gt;Proin a metus nisl. Quisque arcu nisl, consectetur et feugiat non, posuere eget urna. Integer blandit convallis varius. Curabitur diam lorem, consectetur at volutpat eu, gravida quis neque. Fusce tincidunt aliquam lacus, sit amet consequat enim malesuada quis. Etiam eu ullamcorper lacus, eu tempus magna. Donec magna enim, condimentum tristique urna ac, condimentum vehicula ligula. In hac habitasse platea dictumst.&lt;/p&gt;&lt;/div&gt;
+            
+              &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+  &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Anónimo (no verificado)&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Lun, 29/06/2020 - 23:32&lt;/span&gt;
+</description>
+  <pubDate>Mon, 29 Jun 2020 21:32:59 +0000</pubDate>
+    <dc:creator>Anónimo</dc:creator>
+    <guid isPermaLink="false">66 at http://acadimexport.localhost</guid>
+    </item>
+<item>
+  <title>Terms of Service</title>
+  <link>http://acadimexport.localhost/terms-of-service</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Terms of Service&lt;/span&gt;
+&lt;div class="paragraph-sections field field--name-field-page-section field--type-entity-reference-revisions field--label-hidden"&gt;
+        &lt;section id="paragraph-d_p_text_paged-463" class="wrapper-d_p_text_paged with-long-text"&gt;
+    &lt;div class="clearfix paragraph text-page paragraph--type--d-p-text-paged paragraph--view-mode--default"&gt;
+      &lt;div class="container"&gt;
+                  &lt;h2 class="field field--name-field-d-main-title field--type-string field--label-hidden"&gt;Terms of Service&lt;/h2&gt;
+
+
+                    &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam dui libero, congue at pellentesque eu, porta sit amet dui. Sed at gravida nunc. Duis vitae quam metus. Aliquam ut ante at eros imperdiet varius. Curabitur sit amet aliquet leo. Etiam ante orci, tempus quis dapibus non, pulvinar ac est. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer maximus, ligula vel euismod condimentum, metus ligula vulputate erat, quis malesuada metus sapien sit amet arcu.&lt;/p&gt; &lt;p&gt;Integer egestas volutpat lectus vel elementum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque pharetra in dolor eu dictum. Phasellus ultrices, odio vel elementum molestie, justo mi volutpat neque, non porttitor urna dolor id velit. Nunc molestie erat et molestie semper. Nullam sagittis hendrerit sapien vel sagittis. Duis commodo lorem a dolor mattis, faucibus convallis turpis dapibus. Fusce ipsum urna, laoreet ut libero in, ultrices tincidunt lectus. Phasellus sollicitudin libero nec hendrerit ultricies. Proin et interdum lorem, id mollis dui. Vestibulum condimentum sem non bibendum interdum. Sed vitae sodales lectus, vitae tincidunt odio.&lt;/p&gt; &lt;p&gt;Proin a metus nisl. Quisque arcu nisl, consectetur et feugiat non, posuere eget urna. Integer blandit convallis varius. Curabitur diam lorem, consectetur at volutpat eu, gravida quis neque. Fusce tincidunt aliquam lacus, sit amet consequat enim malesuada quis. Etiam eu ullamcorper lacus, eu tempus magna. Donec magna enim, condimentum tristique urna ac, condimentum vehicula ligula. In hac habitasse platea dictumst.&lt;/p&gt;&lt;/div&gt;
+            
+              &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+  &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Anónimo (no verificado)&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Lun, 29/06/2020 - 23:32&lt;/span&gt;
+</description>
+  <pubDate>Mon, 29 Jun 2020 21:32:59 +0000</pubDate>
+    <dc:creator>Anónimo</dc:creator>
+    <guid isPermaLink="false">65 at http://acadimexport.localhost</guid>
+    </item>
+<item>
+  <title>GDPR</title>
+  <link>http://acadimexport.localhost/gdpr</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;GDPR&lt;/span&gt;
+&lt;div class="paragraph-sections field field--name-field-page-section field--type-entity-reference-revisions field--label-hidden"&gt;
+        &lt;section id="paragraph-d_p_text_paged-462" class="wrapper-d_p_text_paged with-long-text"&gt;
+    &lt;div class="clearfix paragraph text-page paragraph--type--d-p-text-paged paragraph--view-mode--default"&gt;
+      &lt;div class="container"&gt;
+                  &lt;h2 class="field field--name-field-d-main-title field--type-string field--label-hidden"&gt;GDPR&lt;/h2&gt;
+
+
+                    &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam dui libero, congue at pellentesque eu, porta sit amet dui. Sed at gravida nunc. Duis vitae quam metus. Aliquam ut ante at eros imperdiet varius. Curabitur sit amet aliquet leo. Etiam ante orci, tempus quis dapibus non, pulvinar ac est. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer maximus, ligula vel euismod condimentum, metus ligula vulputate erat, quis malesuada metus sapien sit amet arcu.&lt;/p&gt; &lt;p&gt;Integer egestas volutpat lectus vel elementum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque pharetra in dolor eu dictum. Phasellus ultrices, odio vel elementum molestie, justo mi volutpat neque, non porttitor urna dolor id velit. Nunc molestie erat et molestie semper. Nullam sagittis hendrerit sapien vel sagittis. Duis commodo lorem a dolor mattis, faucibus convallis turpis dapibus. Fusce ipsum urna, laoreet ut libero in, ultrices tincidunt lectus. Phasellus sollicitudin libero nec hendrerit ultricies. Proin et interdum lorem, id mollis dui. Vestibulum condimentum sem non bibendum interdum. Sed vitae sodales lectus, vitae tincidunt odio.&lt;/p&gt; &lt;p&gt;Proin a metus nisl. Quisque arcu nisl, consectetur et feugiat non, posuere eget urna. Integer blandit convallis varius. Curabitur diam lorem, consectetur at volutpat eu, gravida quis neque. Fusce tincidunt aliquam lacus, sit amet consequat enim malesuada quis. Etiam eu ullamcorper lacus, eu tempus magna. Donec magna enim, condimentum tristique urna ac, condimentum vehicula ligula. In hac habitasse platea dictumst.&lt;/p&gt;&lt;/div&gt;
+            
+              &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+  &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Anónimo (no verificado)&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Lun, 29/06/2020 - 23:32&lt;/span&gt;
+</description>
+  <pubDate>Mon, 29 Jun 2020 21:32:59 +0000</pubDate>
+    <dc:creator>Anónimo</dc:creator>
+    <guid isPermaLink="false">64 at http://acadimexport.localhost</guid>
+    </item>
+<item>
+  <title>Aircraft Engines</title>
+  <link>http://acadimexport.localhost/aircraft-engines</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Aircraft Engines&lt;/span&gt;
+&lt;div class="paragraph-sections field field--name-field-page-section field--type-entity-reference-revisions field--label-hidden"&gt;
+      
+&lt;section id="paragraph-d_p_side_image-450" class="wrapper-d_p_side_image user-background-defined with-long-text theme-invert" style="background-color: #fff"&gt;
+  &lt;div class="clearfix paragraph d-p-side-image-banner paragraph--type--d-p-side-image paragraph--view-mode--default"&gt;
+    &lt;div class="image-side-right-wide d-p-side-image-banner-wrapper clearfix position-relative"&gt;
+      &lt;div data-id="paragraph-d_p_side_image-450" class="d-image h-100 col-md-6 col-lg-7"&gt;
+                    &lt;div class="d-media-background-wrapper"&gt;
+          
+
+                    &lt;div class="field field--name-field-d-media-background field--type-entity-reference field--label-hidden field__item"&gt;&lt;div&gt;
+  
+  
+
+                    &lt;div class="field field--name-field-media-image field--type-image field--label-hidden field__item"&gt;    &lt;picture&gt;
+                  &lt;source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_airplane_3.jpg?itok=HN8Z-aHk 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_engine_airplane_3.jpg?itok=IzpwGI6j 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_992/public/demo/d_demo_engine_airplane_3.jpg?itok=GIjJpzxp 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_engine_airplane_3.jpg?itok=GOsnkbpO 1x"&gt;&lt;/source&gt;
+                  
+  
+  
+&lt;img alt="Airplane" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_airplane_3.jpg?itok=HN8Z-aHk" typeof="foaf:Image" /&gt;
+
+  &lt;/picture&gt;
+
+&lt;/div&gt;
+            
+&lt;/div&gt;
+&lt;/div&gt;
+            
+  
+  &lt;/div&gt;
+              &lt;/div&gt;
+      &lt;div class="container"&gt;
+        &lt;div class="row"&gt;
+          &lt;div class="container-half col-md-6 col-lg-5"&gt;
+                  &lt;h1 class="field field--name-field-d-main-title field--type-string field--label-hidden"&gt;Aircraft engines&lt;/h1&gt;
+
+
+                    &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;Reliability and perfect quality. These are the engine features for aircraft manufactured by our company. We also provide a full range of support services.&lt;/p&gt;&lt;/div&gt;
+            
+  
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+
+        &lt;section id="paragraph-d_p_text_paged-451" class="wrapper-d_p_text_paged with-long-text"&gt;
+    &lt;div class="clearfix paragraph text-page paragraph--type--d-p-text-paged paragraph--view-mode--default"&gt;
+      &lt;div class="container"&gt;
+                  &lt;h2 class="field field--name-field-d-main-title field--type-string field--label-hidden"&gt;We are an expert in aircraft engines&lt;/h2&gt;
+
+
+                    &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;We have over 20 years of experience in the production of engines for the aviation industry.&lt;/p&gt;&lt;/div&gt;
+            
+              &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+      
+&lt;section id="paragraph-d_p_side_image-452" class="wrapper-d_p_side_image user-background-defined with-long-text theme-invert" style="background-color: #dddddd"&gt;
+  &lt;div class="clearfix paragraph d-p-side-image-banner paragraph--type--d-p-side-image paragraph--view-mode--default"&gt;
+    &lt;div class="image-side-left d-p-side-image-banner-wrapper clearfix position-relative"&gt;
+      &lt;div data-id="paragraph-d_p_side_image-452" class="d-image h-100 col-md-6"&gt;
+                    &lt;div class="d-media-background-wrapper"&gt;
+          
+
+                    &lt;div class="field field--name-field-d-media-background field--type-entity-reference field--label-hidden field__item"&gt;&lt;div&gt;
+  
+  
+
+                    &lt;div class="field field--name-field-media-image field--type-image field--label-hidden field__item"&gt;    &lt;picture&gt;
+                  &lt;source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_airplane_2.jpg?itok=6YVnoVi7 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_engine_airplane_2.jpg?itok=ToGD7E7R 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_992/public/demo/d_demo_engine_airplane_2.jpg?itok=pAcjBkz9 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_engine_airplane_2.jpg?itok=DX66Uuw9 1x"&gt;&lt;/source&gt;
+                  
+  
+  
+&lt;img alt="Event 3" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_airplane_2.jpg?itok=6YVnoVi7" typeof="foaf:Image" /&gt;
+
+  &lt;/picture&gt;
+
+&lt;/div&gt;
+            
+&lt;/div&gt;
+&lt;/div&gt;
+            
+  
+  &lt;/div&gt;
+              &lt;/div&gt;
+      &lt;div class="container"&gt;
+        &lt;div class="row"&gt;
+          &lt;div class="container-half col-md-6"&gt;
+                  
+
+                    &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;h3&gt; JetSpeed 5000 &lt;/h3&gt; &lt;p&gt;Excellent and powerful engine for medium-sized jets. Designed and created by a team of experienced mechanics, engineers and aviation experts.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Compact design&lt;/li&gt; &lt;li&gt;Excellent thrust-to-weight ratio, low power consumption&lt;/li&gt; &lt;li&gt;Max. thrust: 1,300 N*&lt;/li&gt; &lt;li&gt;Outer diameter: 272 mm&lt;/li&gt; &lt;li&gt;Length: 625 mm&lt;/li&gt; &lt;li&gt;Weight: 90.5 kg&lt;/li&gt; &lt;/ul&gt;&lt;/div&gt;
+            
+  
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+
+      
+
+  &lt;section id="paragraph-d_p_group_of_text_blocks-455" class="wrapper-d_p_group_of_text_blocks with-tiles theme-invert header-margin-none"&gt;
+    &lt;div class="clearfix paragraph d-p-group-of-text-blocks paragraph--type--d-p-group-of-text-blocks paragraph--view-mode--default"&gt;
+              &lt;div class="container d-p-group-of-text-blocks-header-wrapper"&gt;
+          &lt;h2 class="field field--name-field-d-main-title field--type-string field--label-hidden"&gt;Our services for aircraft engines&lt;/h2&gt;
+
+        &lt;/div&gt;
+                              &lt;div class="d-p-tiles-wrapper container expandable-content"&gt;
+            &lt;section&gt;
+        &lt;div class="field field--name-field-d-p-tb-block-reference field--type-entity-reference-revisions field--label-hidden subparagraphs-wrapper single-boxes-wrapper row"&gt;
+              &lt;div class="single-box-wrapper list-item-wrapper col-sm-6"&gt;
+  &lt;section id="paragraph-d_p_single_text_block-453" class="wrapper-d_p_single_text_block with-long-text theme-invert"&gt;
+                  &lt;div class="clearfix paragraph d-p-text-block paragraph--type--d-p-single-text-block paragraph--view-mode--default"&gt;
+                    
+
+                    &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt; &lt;li&gt;Parts and engine lease&lt;/li&gt; &lt;li&gt;Repair Management&lt;/li&gt; &lt;li&gt;Spare Parts Supply&lt;/li&gt; &lt;/ul&gt;&lt;/div&gt;
+            
+  
+      
+          &lt;/div&gt;
+  &lt;/section&gt;
+&lt;/div&gt;
+              &lt;div class="single-box-wrapper list-item-wrapper col-sm-6"&gt;
+  &lt;section id="paragraph-d_p_single_text_block-454" class="wrapper-d_p_single_text_block with-long-text theme-invert"&gt;
+                  &lt;div class="clearfix paragraph d-p-text-block paragraph--type--d-p-single-text-block paragraph--view-mode--default"&gt;
+                    
+
+                    &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt; &lt;li&gt;Basic servicing&lt;/li&gt; &lt;li&gt;Full annual servicing&lt;/li&gt; &lt;li&gt;Oil and filter changes&lt;/li&gt; &lt;/ul&gt;&lt;/div&gt;
+            
+  
+      
+          &lt;/div&gt;
+  &lt;/section&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+    &lt;/section&gt;
+
+          &lt;/div&gt;
+                            &lt;div class="container"&gt;
+          
+        &lt;/div&gt;
+          &lt;/div&gt;
+  &lt;/section&gt;
+
+      
+
+  &lt;section id="paragraph-d_p_group_of_text_blocks-459" class="wrapper-d_p_group_of_text_blocks full-width with-grid"&gt;
+    &lt;div class="clearfix paragraph d-p-group-of-text-blocks paragraph--type--d-p-group-of-text-blocks paragraph--view-mode--default"&gt;
+              &lt;div class="container d-p-group-of-text-blocks-header-wrapper"&gt;
+          &lt;h2 class="field field--name-field-d-main-title field--type-string field--label-hidden"&gt;Other products&lt;/h2&gt;
+
+        &lt;/div&gt;
+                              &lt;div class="d-p-tiles-wrapper container expandable-content"&gt;
+            &lt;section&gt;
+        &lt;div class="field field--name-field-d-p-tb-block-reference field--type-entity-reference-revisions field--label-hidden subparagraphs-wrapper single-boxes-wrapper row"&gt;
+              &lt;div class="col-sm-6 col-lg-4 single-box-wrapper list-item-wrapper"&gt;  &lt;div class="clearfix paragraph paragraph--type--d-p-node paragraph--view-mode--default"&gt;
+          
+
+                    &lt;div class="erd-list--d-small-box field field--name-field-d-node-reference field--type-entity-reference field--label-hidden field__item"&gt;
+&lt;div role="article" about="http://acadimexport.localhost/products/super-charged-engine-v12" class="small-box-wrapper clearfix"&gt;
+  &lt;div class="box-content-wrapper clearfix"&gt;
+    &lt;div class="box-image"&gt;
+        &lt;a href="http://acadimexport.localhost/products/super-charged-engine-v12"&gt;
+
+
+&lt;img src="http://acadimexport.localhost/sites/default/files/styles/small_box_image/public/demo/d_product_init_super-charged-engine-1.jpg?itok=Ozi3UjRT" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
+
+&lt;/a&gt;
+
+    &lt;/div&gt;
+    &lt;div class="box-text-content text-center"&gt;
+      &lt;a href="http://acadimexport.localhost/products/super-charged-engine-v12" class="link"&gt;
+        
+        &lt;h2 class="box-title"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Super Charged Engine v12&lt;/span&gt;
+&lt;/h2&gt;
+        
+      &lt;/a&gt;
+      &lt;a href="http://acadimexport.localhost/products/super-charged-engine-v12" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+            
+      &lt;/div&gt;
+&lt;/div&gt;
+              &lt;div class="col-sm-6 col-lg-4 single-box-wrapper list-item-wrapper"&gt;  &lt;div class="clearfix paragraph paragraph--type--d-p-node paragraph--view-mode--default"&gt;
+          
+
+                    &lt;div class="erd-list--d-small-box field field--name-field-d-node-reference field--type-entity-reference field--label-hidden field__item"&gt;
+&lt;div role="article" about="http://acadimexport.localhost/products/centurion-3000" class="small-box-wrapper clearfix"&gt;
+  &lt;div class="box-content-wrapper clearfix"&gt;
+    &lt;div class="box-image"&gt;
+        &lt;a href="http://acadimexport.localhost/products/centurion-3000"&gt;
+
+
+&lt;img src="http://acadimexport.localhost/sites/default/files/styles/small_box_image/public/demo/d_product_init_centurion-3000-1.jpg?itok=oxmesbQV" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
+
+&lt;/a&gt;
+
+    &lt;/div&gt;
+    &lt;div class="box-text-content text-center"&gt;
+      &lt;a href="http://acadimexport.localhost/products/centurion-3000" class="link"&gt;
+        
+        &lt;h2 class="box-title"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Centurion 3000&lt;/span&gt;
+&lt;/h2&gt;
+        
+      &lt;/a&gt;
+      &lt;a href="http://acadimexport.localhost/products/centurion-3000" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+            
+      &lt;/div&gt;
+&lt;/div&gt;
+              &lt;div class="col-sm-6 grid-row-end-item col-lg-4 single-box-wrapper list-item-wrapper"&gt;  &lt;div class="clearfix paragraph paragraph--type--d-p-node paragraph--view-mode--default"&gt;
+          
+
+                    &lt;div class="erd-list--d-small-box field field--name-field-d-node-reference field--type-entity-reference field--label-hidden field__item"&gt;
+&lt;div role="article" about="http://acadimexport.localhost/products/marine-xt-550" class="small-box-wrapper clearfix"&gt;
+  &lt;div class="box-content-wrapper clearfix"&gt;
+    &lt;div class="box-image"&gt;
+        &lt;a href="http://acadimexport.localhost/products/marine-xt-550"&gt;
+
+
+&lt;img src="http://acadimexport.localhost/sites/default/files/styles/small_box_image/public/demo/d_product_init_machine-xt-550-1.jpg?itok=D9xcJ9LC" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
+
+&lt;/a&gt;
+
+    &lt;/div&gt;
+    &lt;div class="box-text-content text-center"&gt;
+      &lt;a href="http://acadimexport.localhost/products/marine-xt-550" class="link"&gt;
+        
+        &lt;h2 class="box-title"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Marine-XT 550&lt;/span&gt;
+&lt;/h2&gt;
+        
+      &lt;/a&gt;
+      &lt;a href="http://acadimexport.localhost/products/marine-xt-550" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+            
+      &lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+    &lt;/section&gt;
+
+          &lt;/div&gt;
+                            &lt;div class="container"&gt;
+          
+
+                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="http://acadimexport.localhost/products" class="btn btn-primary mt-4"&gt;View All&lt;/a&gt;&lt;/div&gt;
+            
+        &lt;/div&gt;
+          &lt;/div&gt;
+  &lt;/section&gt;
+
+      
+
+    &lt;section id="paragraph-d_p_reference_content-460" class="wrapper-d_p_reference_content no-padding-top"&gt;
+        &lt;div class="clearfix paragraph d-p-reference-content paragraph--type--d-p-reference-content paragraph--view-mode--default"&gt;
+            &lt;div class="clearfix d-p-reference-content-wrapper"&gt;
+                &lt;h2 class="field field--name-field-d-main-title field--type-string field--label-visually_hidden container text-center"&gt;Related articles&lt;/h2&gt;
+
+
+
+    &lt;div class="field field--name-field-d-p-reference-content field--type-entity-reference field--label-visually_hidden"&gt;
+        &lt;div class="field__label visually-hidden"&gt;Reference content&lt;/div&gt;
+                &lt;div class="field field--name-field-d-p-reference-content field--type-entity-reference field--label-visually_hidden d-flex flex-wrap field--wrapper justify-content-between field__items"&gt;
+                                        &lt;div class="d-flex field__item--wrapper col-lg-3 col-sm-6 col-xs-12 field__item"&gt;
+
+&lt;article role="article" about="http://acadimexport.localhost/blog/centurion-v750-fastest-airplane-engine-planet-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
+    &lt;div class="d-flex flex-column box"&gt;
+                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="http://acadimexport.localhost/blog/centurion-v750-fastest-airplane-engine-planet-0"&gt;
+
+
+&lt;img width="320" height="240" alt="Mechanism" loading="lazy" class="lazyload image-style-gallery-thumbnail" data-src="/sites/default/files/styles/gallery_thumbnail/public/demo/d_demo_mechanism.jpg?itok=Hyo_0V5Q" typeof="foaf:Image" /&gt;
+
+&lt;/a&gt;
+&lt;/div&gt;
+      
+        &lt;div class="text-area"&gt;
+            &lt;h2 class="node__title"&gt;
+                &lt;a href="http://acadimexport.localhost/blog/centurion-v750-fastest-airplane-engine-planet-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Centurion V750 is the fastest airplane engine on the planet&lt;/span&gt;
+&lt;/a&gt;
+            &lt;/h2&gt;
+            
+
+                    &lt;div class="clearfix text-formatted field field--name-field-blog-teaser field--type-text-long field--label-hidden field__item"&gt;DrooplerEngines together with Airplanes Pro tested new aircraft engine Centurion V750 on Mojave desert in California, USA.&lt;/div&gt;
+            
+            &lt;a href="http://acadimexport.localhost/blog/centurion-v750-fastest-airplane-engine-planet-0" class="link"&gt;Learn more&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+&lt;/article&gt;
+&lt;/div&gt;
+                            &lt;div class="d-flex field__item--wrapper col-lg-3 col-sm-6 col-xs-12 field__item"&gt;
+
+&lt;article role="article" about="http://acadimexport.localhost/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
+    &lt;div class="d-flex flex-column box"&gt;
+                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="http://acadimexport.localhost/blog/abc-automotive-bought-10-000-engines-drooplerengines-0"&gt;
+
+
+&lt;img width="320" height="240" alt="New cars" loading="lazy" class="lazyload image-style-gallery-thumbnail" data-src="/sites/default/files/styles/gallery_thumbnail/public/demo/d_demo_new_cars.jpg?itok=20Dkow8z" typeof="foaf:Image" /&gt;
+
+&lt;/a&gt;
+&lt;/div&gt;
+      
+        &lt;div class="text-area"&gt;
+            &lt;h2 class="node__title"&gt;
+                &lt;a href="http://acadimexport.localhost/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;ABC Automotive bought 10 000 engines from DrooplerEngines&lt;/span&gt;
+&lt;/a&gt;
+            &lt;/h2&gt;
+            
+
+                    &lt;div class="clearfix text-formatted field field--name-field-blog-teaser field--type-text-long field--label-hidden field__item"&gt;ABC Automotive is world leader in car manufacturing. Our engines will be used in their new car models UMI 4S coupe.&lt;/div&gt;
+            
+            &lt;a href="http://acadimexport.localhost/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" class="link"&gt;Learn more&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+&lt;/article&gt;
+&lt;/div&gt;
+                            &lt;div class="d-flex field__item--wrapper col-lg-3 col-sm-6 col-xs-12 field__item"&gt;
+
+&lt;article role="article" about="http://acadimexport.localhost/blog/drooplerengines-automotive-expo-2019-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
+    &lt;div class="d-flex flex-column box"&gt;
+                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="http://acadimexport.localhost/blog/drooplerengines-automotive-expo-2019-0"&gt;
+
+
+&lt;img width="320" height="240" alt="Future car" loading="lazy" class="lazyload image-style-gallery-thumbnail" data-src="/sites/default/files/styles/gallery_thumbnail/public/demo/d_demo_future_car.jpg?itok=MtyGVGkt" typeof="foaf:Image" /&gt;
+
+&lt;/a&gt;
+&lt;/div&gt;
+      
+        &lt;div class="text-area"&gt;
+            &lt;h2 class="node__title"&gt;
+                &lt;a href="http://acadimexport.localhost/blog/drooplerengines-automotive-expo-2019-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;DrooplerEngines at Automotive Expo 2019&lt;/span&gt;
+&lt;/a&gt;
+            &lt;/h2&gt;
+            
+
+                    &lt;div class="clearfix text-formatted field field--name-field-blog-teaser field--type-text-long field--label-hidden field__item"&gt;In last week we presented our engines on the biggest expo in the Europe in Hannover, Germany.&lt;/div&gt;
+            
+            &lt;a href="http://acadimexport.localhost/blog/drooplerengines-automotive-expo-2019-0" class="link"&gt;Learn more&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+&lt;/article&gt;
+&lt;/div&gt;
+                            &lt;div class="d-flex field__item--wrapper col-lg-3 col-sm-6 col-xs-12 field__item"&gt;
+
+&lt;article role="article" about="http://acadimexport.localhost/blog/new-factory-location-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
+    &lt;div class="d-flex flex-column box"&gt;
+                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="http://acadimexport.localhost/blog/new-factory-location-0"&gt;
+
+
+&lt;img width="320" height="240" alt="Factory" loading="lazy" class="lazyload image-style-gallery-thumbnail" data-src="/sites/default/files/styles/gallery_thumbnail/public/demo/d_demo_factory.jpg?itok=RDm1wBIx" typeof="foaf:Image" /&gt;
+
+&lt;/a&gt;
+&lt;/div&gt;
+      
+        &lt;div class="text-area"&gt;
+            &lt;h2 class="node__title"&gt;
+                &lt;a href="http://acadimexport.localhost/blog/new-factory-location-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;New factory location&lt;/span&gt;
+&lt;/a&gt;
+            &lt;/h2&gt;
+            
+
+                    &lt;div class="clearfix text-formatted field field--name-field-blog-teaser field--type-text-long field--label-hidden field__item"&gt;Finally we have another factory. Factory is located in Radom in Poland. This location is well communicated with rest of the Europe.&lt;/div&gt;
+            
+            &lt;a href="http://acadimexport.localhost/blog/new-factory-location-0" class="link"&gt;Learn more&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+&lt;/article&gt;
+&lt;/div&gt;
+                                &lt;/div&gt;
+            &lt;/div&gt;
+
+  &lt;div class="field field--name-field-d-cta-link field--type-link field--label-visually_hidden container text-center"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Call To Action&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://acadimexport.localhost/blog" class="btn btn-primary mt-5"&gt;View all&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+      
+  &lt;section id="paragraph-d_p_banner-461" class="wrapper-d_p_banner with-long-text"&gt;
+    &lt;div class="clearfix paragraph d-p-banner paragraph--type--d-p-banner paragraph--view-mode--default"&gt;
+                &lt;div class="d-media-background-wrapper"&gt;
+          
+
+                    &lt;div class="field field--name-field-d-media-background field--type-entity-reference field--label-hidden field__item"&gt;&lt;div&gt;
+  
+  
+
+                    &lt;div class="field field--name-field-media-image field--type-image field--label-hidden field__item"&gt;    &lt;picture&gt;
+                  &lt;source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_ad_hoc_enginge_repairs_2.jpg?itok=k2JbnaqK 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_ad_hoc_enginge_repairs_2.jpg?itok=jD7R8NeR 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_992/public/demo/d_demo_ad_hoc_enginge_repairs_2.jpg?itok=va-ufEjH 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_ad_hoc_enginge_repairs_2.jpg?itok=tdLBaSoX 1x"&gt;&lt;/source&gt;
+                  
+  
+  
+&lt;img alt="Engine" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_ad_hoc_enginge_repairs_2.jpg?itok=k2JbnaqK" typeof="foaf:Image" /&gt;
+
+  &lt;/picture&gt;
+
+&lt;/div&gt;
+            
+&lt;/div&gt;
+&lt;/div&gt;
+            
+  
+  &lt;/div&gt;
+            &lt;div class="content-wrapper"&gt;
+        &lt;div class="content container"&gt;
+                            &lt;h2 class="field field--name-field-d-main-title field--type-string field--label-hidden"&gt;IT'S TIME TO MAKE YOUR MOVE&lt;/h2&gt;
+
+
+                    &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p class="text-align-center"&gt;Contact our sales team to schedule product presentation.&lt;/p&gt;&lt;/div&gt;
+            
+
+                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="http://acadimexport.localhost/contact" class="btn btn-primary"&gt;CONTACT US&lt;/a&gt;&lt;/div&gt;
+            
+  
+                  &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+  &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Anónimo (no verificado)&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Lun, 29/06/2020 - 23:32&lt;/span&gt;
+</description>
+  <pubDate>Mon, 29 Jun 2020 21:32:59 +0000</pubDate>
+    <dc:creator>Anónimo</dc:creator>
+    <guid isPermaLink="false">63 at http://acadimexport.localhost</guid>
+    </item>
+<item>
+  <title>Boat Engines</title>
+  <link>http://acadimexport.localhost/boat-engines</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Boat Engines&lt;/span&gt;
+&lt;div class="paragraph-sections field field--name-field-page-section field--type-entity-reference-revisions field--label-hidden"&gt;
+      
+&lt;section id="paragraph-d_p_side_image-438" class="wrapper-d_p_side_image user-background-defined with-long-text theme-invert" style="background-color: #fff"&gt;
+  &lt;div class="clearfix paragraph d-p-side-image-banner paragraph--type--d-p-side-image paragraph--view-mode--default"&gt;
+    &lt;div class="image-side-right-wide d-p-side-image-banner-wrapper clearfix position-relative"&gt;
+      &lt;div data-id="paragraph-d_p_side_image-438" class="d-image h-100 col-md-6 col-lg-7"&gt;
+                    &lt;div class="d-media-background-wrapper"&gt;
+          
+
+                    &lt;div class="field field--name-field-d-media-background field--type-entity-reference field--label-hidden field__item"&gt;&lt;div&gt;
+  
+  
+
+                    &lt;div class="field field--name-field-media-image field--type-image field--label-hidden field__item"&gt;    &lt;picture&gt;
+                  &lt;source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_boat_1.jpg?itok=wV1qF0u6 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_engine_boat_1.jpg?itok=Q6pFkBqp 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_992/public/demo/d_demo_engine_boat_1.jpg?itok=tG8mT9zW 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_engine_boat_1.jpg?itok=dQlZj4DE 1x"&gt;&lt;/source&gt;
+                  
+  
+  
+&lt;img alt="Event 3" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_boat_1.jpg?itok=wV1qF0u6" typeof="foaf:Image" /&gt;
+
+  &lt;/picture&gt;
+
+&lt;/div&gt;
+            
+&lt;/div&gt;
+&lt;/div&gt;
+            
+  
+  &lt;/div&gt;
+              &lt;/div&gt;
+      &lt;div class="container"&gt;
+        &lt;div class="row"&gt;
+          &lt;div class="container-half col-md-6 col-lg-5"&gt;
+                  &lt;h1 class="field field--name-field-d-main-title field--type-string field--label-hidden"&gt;Boat engines&lt;/h1&gt;
+
+
+                    &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;We manufacture modern engines for boats and ships. Our experts from the maritime industry are constantly developing our range of products.&lt;/p&gt;&lt;/div&gt;
+            
+  
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+
+        &lt;section id="paragraph-d_p_text_paged-439" class="wrapper-d_p_text_paged with-long-text"&gt;
+    &lt;div class="clearfix paragraph text-page paragraph--type--d-p-text-paged paragraph--view-mode--default"&gt;
+      &lt;div class="container"&gt;
+                  &lt;h2 class="field field--name-field-d-main-title field--type-string field--label-hidden"&gt;We are an expert in boat engines&lt;/h2&gt;
+
+
+                    &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;We have over 20 years of experience in the production of engines for marine industry.&lt;/p&gt;&lt;/div&gt;
+            
+              &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+      
+&lt;section id="paragraph-d_p_side_image-440" class="wrapper-d_p_side_image user-background-defined with-long-text theme-invert" style="background-color: #dddddd"&gt;
+  &lt;div class="clearfix paragraph d-p-side-image-banner paragraph--type--d-p-side-image paragraph--view-mode--default"&gt;
+    &lt;div class="image-side-left d-p-side-image-banner-wrapper clearfix position-relative"&gt;
+      &lt;div data-id="paragraph-d_p_side_image-440" class="d-image h-100 col-md-6"&gt;
+                    &lt;div class="d-media-background-wrapper"&gt;
+          
+
+                    &lt;div class="field field--name-field-d-media-background field--type-entity-reference field--label-hidden field__item"&gt;&lt;div&gt;
+  
+  
+
+                    &lt;div class="field field--name-field-media-image field--type-image field--label-hidden field__item"&gt;    &lt;picture&gt;
+                  &lt;source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_boat_2.jpg?itok=VjcW_tjB 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_engine_boat_2.jpg?itok=4wRnWYmm 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_992/public/demo/d_demo_engine_boat_2.jpg?itok=dxF2eosq 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_engine_boat_2.jpg?itok=wOm0QL48 1x"&gt;&lt;/source&gt;
+                  
+  
+  
+&lt;img alt="Boat engine" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_boat_2.jpg?itok=VjcW_tjB" typeof="foaf:Image" /&gt;
+
+  &lt;/picture&gt;
+
+&lt;/div&gt;
+            
+&lt;/div&gt;
+&lt;/div&gt;
+            
+  
+  &lt;/div&gt;
+              &lt;/div&gt;
+      &lt;div class="container"&gt;
+        &lt;div class="row"&gt;
+          &lt;div class="container-half col-md-6"&gt;
+                  
+
+                    &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;h3&gt; Future B400 &lt;/h3&gt; &lt;p&gt;Excellent and powerful engine for speed boats. A wide range of power. Designed and created by a team of experienced mechanics, engineers and marine experts.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Engine performance: 1 x 4 HP / 2.9 kW&lt;/li&gt; &lt;li&gt;Fuel type: gasoline&lt;/li&gt; &lt;li&gt;Boat type: outboard&lt;/li&gt; &lt;li&gt;Max speed: 250 km/h&lt;/li&gt; &lt;li&gt;Fuel consumption: 5l / 100 miles&lt;/li&gt; &lt;/ul&gt;&lt;/div&gt;
+            
+  
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+
+      
+
+  &lt;section id="paragraph-d_p_group_of_text_blocks-443" class="wrapper-d_p_group_of_text_blocks with-tiles theme-invert header-margin-none"&gt;
+    &lt;div class="clearfix paragraph d-p-group-of-text-blocks paragraph--type--d-p-group-of-text-blocks paragraph--view-mode--default"&gt;
+              &lt;div class="container d-p-group-of-text-blocks-header-wrapper"&gt;
+          &lt;h2 class="field field--name-field-d-main-title field--type-string field--label-hidden"&gt;Our services for boat engines&lt;/h2&gt;
+
+        &lt;/div&gt;
+                              &lt;div class="d-p-tiles-wrapper container expandable-content"&gt;
+            &lt;section&gt;
+        &lt;div class="field field--name-field-d-p-tb-block-reference field--type-entity-reference-revisions field--label-hidden subparagraphs-wrapper single-boxes-wrapper row"&gt;
+              &lt;div class="single-box-wrapper list-item-wrapper col-sm-6"&gt;
+  &lt;section id="paragraph-d_p_single_text_block-441" class="wrapper-d_p_single_text_block with-long-text theme-invert"&gt;
+                  &lt;div class="clearfix paragraph d-p-text-block paragraph--type--d-p-single-text-block paragraph--view-mode--default"&gt;
+                    
+
+                    &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt; &lt;li&gt;Basic servicing&lt;/li&gt; &lt;li&gt;Full annual servicing&lt;/li&gt; &lt;li&gt;Oil and filter changes&lt;/li&gt; &lt;/ul&gt;&lt;/div&gt;
+            
+  
+      
+          &lt;/div&gt;
+  &lt;/section&gt;
+&lt;/div&gt;
+              &lt;div class="single-box-wrapper list-item-wrapper col-sm-6"&gt;
+  &lt;section id="paragraph-d_p_single_text_block-442" class="wrapper-d_p_single_text_block with-long-text theme-invert"&gt;
+                  &lt;div class="clearfix paragraph d-p-text-block paragraph--type--d-p-single-text-block paragraph--view-mode--default"&gt;
+                    
+
+                    &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt; &lt;li&gt;Transmission fluid inspection&lt;/li&gt; &lt;li&gt;Water pump replacement&lt;/li&gt; &lt;li&gt;And more ...&lt;/li&gt; &lt;/ul&gt;&lt;/div&gt;
+            
+  
+      
+          &lt;/div&gt;
+  &lt;/section&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+    &lt;/section&gt;
+
+          &lt;/div&gt;
+                            &lt;div class="container"&gt;
+          
+        &lt;/div&gt;
+          &lt;/div&gt;
+  &lt;/section&gt;
+
+      
+
+  &lt;section id="paragraph-d_p_group_of_text_blocks-447" class="wrapper-d_p_group_of_text_blocks full-width with-grid"&gt;
+    &lt;div class="clearfix paragraph d-p-group-of-text-blocks paragraph--type--d-p-group-of-text-blocks paragraph--view-mode--default"&gt;
+              &lt;div class="container d-p-group-of-text-blocks-header-wrapper"&gt;
+          &lt;h2 class="field field--name-field-d-main-title field--type-string field--label-hidden"&gt;Other products&lt;/h2&gt;
+
+        &lt;/div&gt;
+                              &lt;div class="d-p-tiles-wrapper container expandable-content"&gt;
+            &lt;section&gt;
+        &lt;div class="field field--name-field-d-p-tb-block-reference field--type-entity-reference-revisions field--label-hidden subparagraphs-wrapper single-boxes-wrapper row"&gt;
+              &lt;div class="col-sm-6 col-lg-4 single-box-wrapper list-item-wrapper"&gt;  &lt;div class="clearfix paragraph paragraph--type--d-p-node paragraph--view-mode--default"&gt;
+          
+
+                    &lt;div class="erd-list--d-small-box field field--name-field-d-node-reference field--type-entity-reference field--label-hidden field__item"&gt;
+&lt;div role="article" about="http://acadimexport.localhost/products/super-charged-engine-v12" class="small-box-wrapper clearfix"&gt;
+  &lt;div class="box-content-wrapper clearfix"&gt;
+    &lt;div class="box-image"&gt;
+        &lt;a href="http://acadimexport.localhost/products/super-charged-engine-v12"&gt;
+
+
+&lt;img src="http://acadimexport.localhost/sites/default/files/styles/small_box_image/public/demo/d_product_init_super-charged-engine-1.jpg?itok=Ozi3UjRT" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
+
+&lt;/a&gt;
+
+    &lt;/div&gt;
+    &lt;div class="box-text-content text-center"&gt;
+      &lt;a href="http://acadimexport.localhost/products/super-charged-engine-v12" class="link"&gt;
+        
+        &lt;h2 class="box-title"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Super Charged Engine v12&lt;/span&gt;
+&lt;/h2&gt;
+        
+      &lt;/a&gt;
+      &lt;a href="http://acadimexport.localhost/products/super-charged-engine-v12" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+            
+      &lt;/div&gt;
+&lt;/div&gt;
+              &lt;div class="col-sm-6 col-lg-4 single-box-wrapper list-item-wrapper"&gt;  &lt;div class="clearfix paragraph paragraph--type--d-p-node paragraph--view-mode--default"&gt;
+          
+
+                    &lt;div class="erd-list--d-small-box field field--name-field-d-node-reference field--type-entity-reference field--label-hidden field__item"&gt;
+&lt;div role="article" about="http://acadimexport.localhost/products/centurion-3000" class="small-box-wrapper clearfix"&gt;
+  &lt;div class="box-content-wrapper clearfix"&gt;
+    &lt;div class="box-image"&gt;
+        &lt;a href="http://acadimexport.localhost/products/centurion-3000"&gt;
+
+
+&lt;img src="http://acadimexport.localhost/sites/default/files/styles/small_box_image/public/demo/d_product_init_centurion-3000-1.jpg?itok=oxmesbQV" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
+
+&lt;/a&gt;
+
+    &lt;/div&gt;
+    &lt;div class="box-text-content text-center"&gt;
+      &lt;a href="http://acadimexport.localhost/products/centurion-3000" class="link"&gt;
+        
+        &lt;h2 class="box-title"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Centurion 3000&lt;/span&gt;
+&lt;/h2&gt;
+        
+      &lt;/a&gt;
+      &lt;a href="http://acadimexport.localhost/products/centurion-3000" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+            
+      &lt;/div&gt;
+&lt;/div&gt;
+              &lt;div class="col-sm-6 grid-row-end-item col-lg-4 single-box-wrapper list-item-wrapper"&gt;  &lt;div class="clearfix paragraph paragraph--type--d-p-node paragraph--view-mode--default"&gt;
+          
+
+                    &lt;div class="erd-list--d-small-box field field--name-field-d-node-reference field--type-entity-reference field--label-hidden field__item"&gt;
+&lt;div role="article" about="http://acadimexport.localhost/products/marine-xt-550" class="small-box-wrapper clearfix"&gt;
+  &lt;div class="box-content-wrapper clearfix"&gt;
+    &lt;div class="box-image"&gt;
+        &lt;a href="http://acadimexport.localhost/products/marine-xt-550"&gt;
+
+
+&lt;img src="http://acadimexport.localhost/sites/default/files/styles/small_box_image/public/demo/d_product_init_machine-xt-550-1.jpg?itok=D9xcJ9LC" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
+
+&lt;/a&gt;
+
+    &lt;/div&gt;
+    &lt;div class="box-text-content text-center"&gt;
+      &lt;a href="http://acadimexport.localhost/products/marine-xt-550" class="link"&gt;
+        
+        &lt;h2 class="box-title"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Marine-XT 550&lt;/span&gt;
+&lt;/h2&gt;
+        
+      &lt;/a&gt;
+      &lt;a href="http://acadimexport.localhost/products/marine-xt-550" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+            
+      &lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+    &lt;/section&gt;
+
+          &lt;/div&gt;
+                            &lt;div class="container"&gt;
+          
+
+                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="http://acadimexport.localhost/products" class="btn btn-primary mt-4"&gt;View All&lt;/a&gt;&lt;/div&gt;
+            
+        &lt;/div&gt;
+          &lt;/div&gt;
+  &lt;/section&gt;
+
+      
+
+    &lt;section id="paragraph-d_p_reference_content-448" class="wrapper-d_p_reference_content no-padding-top"&gt;
+        &lt;div class="clearfix paragraph d-p-reference-content paragraph--type--d-p-reference-content paragraph--view-mode--default"&gt;
+            &lt;div class="clearfix d-p-reference-content-wrapper"&gt;
+                &lt;h2 class="field field--name-field-d-main-title field--type-string field--label-visually_hidden container text-center"&gt;Related articles&lt;/h2&gt;
+
+
+
+    &lt;div class="field field--name-field-d-p-reference-content field--type-entity-reference field--label-visually_hidden"&gt;
+        &lt;div class="field__label visually-hidden"&gt;Reference content&lt;/div&gt;
+                &lt;div class="field field--name-field-d-p-reference-content field--type-entity-reference field--label-visually_hidden d-flex flex-wrap field--wrapper justify-content-between field__items"&gt;
+                                        &lt;div class="d-flex field__item--wrapper col-lg-3 col-sm-6 col-xs-12 field__item"&gt;
+
+&lt;article role="article" about="http://acadimexport.localhost/blog/centurion-v750-fastest-airplane-engine-planet-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
+    &lt;div class="d-flex flex-column box"&gt;
+                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="http://acadimexport.localhost/blog/centurion-v750-fastest-airplane-engine-planet-0"&gt;
+
+
+&lt;img width="320" height="240" alt="Mechanism" loading="lazy" class="lazyload image-style-gallery-thumbnail" data-src="/sites/default/files/styles/gallery_thumbnail/public/demo/d_demo_mechanism.jpg?itok=Hyo_0V5Q" typeof="foaf:Image" /&gt;
+
+&lt;/a&gt;
+&lt;/div&gt;
+      
+        &lt;div class="text-area"&gt;
+            &lt;h2 class="node__title"&gt;
+                &lt;a href="http://acadimexport.localhost/blog/centurion-v750-fastest-airplane-engine-planet-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Centurion V750 is the fastest airplane engine on the planet&lt;/span&gt;
+&lt;/a&gt;
+            &lt;/h2&gt;
+            
+
+                    &lt;div class="clearfix text-formatted field field--name-field-blog-teaser field--type-text-long field--label-hidden field__item"&gt;DrooplerEngines together with Airplanes Pro tested new aircraft engine Centurion V750 on Mojave desert in California, USA.&lt;/div&gt;
+            
+            &lt;a href="http://acadimexport.localhost/blog/centurion-v750-fastest-airplane-engine-planet-0" class="link"&gt;Learn more&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+&lt;/article&gt;
+&lt;/div&gt;
+                            &lt;div class="d-flex field__item--wrapper col-lg-3 col-sm-6 col-xs-12 field__item"&gt;
+
+&lt;article role="article" about="http://acadimexport.localhost/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
+    &lt;div class="d-flex flex-column box"&gt;
+                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="http://acadimexport.localhost/blog/abc-automotive-bought-10-000-engines-drooplerengines-0"&gt;
+
+
+&lt;img width="320" height="240" alt="New cars" loading="lazy" class="lazyload image-style-gallery-thumbnail" data-src="/sites/default/files/styles/gallery_thumbnail/public/demo/d_demo_new_cars.jpg?itok=20Dkow8z" typeof="foaf:Image" /&gt;
+
+&lt;/a&gt;
+&lt;/div&gt;
+      
+        &lt;div class="text-area"&gt;
+            &lt;h2 class="node__title"&gt;
+                &lt;a href="http://acadimexport.localhost/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;ABC Automotive bought 10 000 engines from DrooplerEngines&lt;/span&gt;
+&lt;/a&gt;
+            &lt;/h2&gt;
+            
+
+                    &lt;div class="clearfix text-formatted field field--name-field-blog-teaser field--type-text-long field--label-hidden field__item"&gt;ABC Automotive is world leader in car manufacturing. Our engines will be used in their new car models UMI 4S coupe.&lt;/div&gt;
+            
+            &lt;a href="http://acadimexport.localhost/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" class="link"&gt;Learn more&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+&lt;/article&gt;
+&lt;/div&gt;
+                            &lt;div class="d-flex field__item--wrapper col-lg-3 col-sm-6 col-xs-12 field__item"&gt;
+
+&lt;article role="article" about="http://acadimexport.localhost/blog/drooplerengines-automotive-expo-2019-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
+    &lt;div class="d-flex flex-column box"&gt;
+                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="http://acadimexport.localhost/blog/drooplerengines-automotive-expo-2019-0"&gt;
+
+
+&lt;img width="320" height="240" alt="Future car" loading="lazy" class="lazyload image-style-gallery-thumbnail" data-src="/sites/default/files/styles/gallery_thumbnail/public/demo/d_demo_future_car.jpg?itok=MtyGVGkt" typeof="foaf:Image" /&gt;
+
+&lt;/a&gt;
+&lt;/div&gt;
+      
+        &lt;div class="text-area"&gt;
+            &lt;h2 class="node__title"&gt;
+                &lt;a href="http://acadimexport.localhost/blog/drooplerengines-automotive-expo-2019-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;DrooplerEngines at Automotive Expo 2019&lt;/span&gt;
+&lt;/a&gt;
+            &lt;/h2&gt;
+            
+
+                    &lt;div class="clearfix text-formatted field field--name-field-blog-teaser field--type-text-long field--label-hidden field__item"&gt;In last week we presented our engines on the biggest expo in the Europe in Hannover, Germany.&lt;/div&gt;
+            
+            &lt;a href="http://acadimexport.localhost/blog/drooplerengines-automotive-expo-2019-0" class="link"&gt;Learn more&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+&lt;/article&gt;
+&lt;/div&gt;
+                            &lt;div class="d-flex field__item--wrapper col-lg-3 col-sm-6 col-xs-12 field__item"&gt;
+
+&lt;article role="article" about="http://acadimexport.localhost/blog/new-factory-location-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
+    &lt;div class="d-flex flex-column box"&gt;
+                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="http://acadimexport.localhost/blog/new-factory-location-0"&gt;
+
+
+&lt;img width="320" height="240" alt="Factory" loading="lazy" class="lazyload image-style-gallery-thumbnail" data-src="/sites/default/files/styles/gallery_thumbnail/public/demo/d_demo_factory.jpg?itok=RDm1wBIx" typeof="foaf:Image" /&gt;
+
+&lt;/a&gt;
+&lt;/div&gt;
+      
+        &lt;div class="text-area"&gt;
+            &lt;h2 class="node__title"&gt;
+                &lt;a href="http://acadimexport.localhost/blog/new-factory-location-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;New factory location&lt;/span&gt;
+&lt;/a&gt;
+            &lt;/h2&gt;
+            
+
+                    &lt;div class="clearfix text-formatted field field--name-field-blog-teaser field--type-text-long field--label-hidden field__item"&gt;Finally we have another factory. Factory is located in Radom in Poland. This location is well communicated with rest of the Europe.&lt;/div&gt;
+            
+            &lt;a href="http://acadimexport.localhost/blog/new-factory-location-0" class="link"&gt;Learn more&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+&lt;/article&gt;
+&lt;/div&gt;
+                                &lt;/div&gt;
+            &lt;/div&gt;
+
+  &lt;div class="field field--name-field-d-cta-link field--type-link field--label-visually_hidden container text-center"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Call To Action&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://acadimexport.localhost/blog" class="btn btn-primary mt-5"&gt;View all&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+      
+  &lt;section id="paragraph-d_p_banner-449" class="wrapper-d_p_banner with-long-text"&gt;
+    &lt;div class="clearfix paragraph d-p-banner paragraph--type--d-p-banner paragraph--view-mode--default"&gt;
+                &lt;div class="d-media-background-wrapper"&gt;
+          
+
+                    &lt;div class="field field--name-field-d-media-background field--type-entity-reference field--label-hidden field__item"&gt;&lt;div&gt;
+  
+  
+
+                    &lt;div class="field field--name-field-media-image field--type-image field--label-hidden field__item"&gt;    &lt;picture&gt;
+                  &lt;source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_boat_3.jpg?itok=AK-xBK61 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_engine_boat_3.jpg?itok=qnJtWu0k 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_992/public/demo/d_demo_engine_boat_3.jpg?itok=e2LEzarJ 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_engine_boat_3.jpg?itok=ZwJZC4Jm 1x"&gt;&lt;/source&gt;
+                  
+  
+  
+&lt;img alt="Boat engine" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_boat_3.jpg?itok=AK-xBK61" typeof="foaf:Image" /&gt;
+
+  &lt;/picture&gt;
+
+&lt;/div&gt;
+            
+&lt;/div&gt;
+&lt;/div&gt;
+            
+  
+  &lt;/div&gt;
+            &lt;div class="content-wrapper"&gt;
+        &lt;div class="content container"&gt;
+                            &lt;h2 class="field field--name-field-d-main-title field--type-string field--label-hidden"&gt;IT'S TIME TO MAKE YOUR MOVE&lt;/h2&gt;
+
+
+                    &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p class="text-align-center"&gt;Contact our sales team to schedule product presentation.&lt;/p&gt;&lt;/div&gt;
+            
+
+                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="http://acadimexport.localhost/contact" class="btn btn-primary"&gt;CONTACT US&lt;/a&gt;&lt;/div&gt;
+            
+  
+                  &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+  &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Anónimo (no verificado)&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Lun, 29/06/2020 - 23:32&lt;/span&gt;
+</description>
+  <pubDate>Mon, 29 Jun 2020 21:32:59 +0000</pubDate>
+    <dc:creator>Anónimo</dc:creator>
+    <guid isPermaLink="false">62 at http://acadimexport.localhost</guid>
+    </item>
+<item>
+  <title>Gasoline Engines</title>
+  <link>http://acadimexport.localhost/gasoline-engines</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Gasoline Engines&lt;/span&gt;
+&lt;div class="paragraph-sections field field--name-field-page-section field--type-entity-reference-revisions field--label-hidden"&gt;
+      
+&lt;section id="paragraph-d_p_side_image-426" class="wrapper-d_p_side_image user-background-defined with-long-text theme-invert" style="background-color: #fff"&gt;
+  &lt;div class="clearfix paragraph d-p-side-image-banner paragraph--type--d-p-side-image paragraph--view-mode--default"&gt;
+    &lt;div class="image-side-right-wide d-p-side-image-banner-wrapper clearfix position-relative"&gt;
+      &lt;div data-id="paragraph-d_p_side_image-426" class="d-image h-100 col-md-6 col-lg-7"&gt;
+                    &lt;div class="d-media-background-wrapper"&gt;
+          
+
+                    &lt;div class="field field--name-field-d-media-background field--type-entity-reference field--label-hidden field__item"&gt;&lt;div&gt;
+  
+  
+
+                    &lt;div class="field field--name-field-media-image field--type-image field--label-hidden field__item"&gt;    &lt;picture&gt;
+                  &lt;source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_car_4.jpg?itok=gL3DL0l_ 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_engine_car_4.jpg?itok=qMZbYvJ7 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_992/public/demo/d_demo_engine_car_4.jpg?itok=JWtQnPJr 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_engine_car_4.jpg?itok=8e5XbhLV 1x"&gt;&lt;/source&gt;
+                  
+  
+  
+&lt;img alt="Engine" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_car_4.jpg?itok=gL3DL0l_" typeof="foaf:Image" /&gt;
+
+  &lt;/picture&gt;
+
+&lt;/div&gt;
+            
+&lt;/div&gt;
+&lt;/div&gt;
+            
+  
+  &lt;/div&gt;
+              &lt;/div&gt;
+      &lt;div class="container"&gt;
+        &lt;div class="row"&gt;
+          &lt;div class="container-half col-md-6 col-lg-5"&gt;
+                  &lt;h1 class="field field--name-field-d-main-title field--type-string field--label-hidden"&gt;Gasoline engines&lt;/h1&gt;
+
+
+                    &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;We offer several models of gasoline engines for the automotive market. We manufacture complete sets of engines and also offer parts for petrol engines.&lt;/p&gt;&lt;/div&gt;
+            
+  
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+
+        &lt;section id="paragraph-d_p_text_paged-427" class="wrapper-d_p_text_paged with-long-text"&gt;
+    &lt;div class="clearfix paragraph text-page paragraph--type--d-p-text-paged paragraph--view-mode--default"&gt;
+      &lt;div class="container"&gt;
+                  &lt;h2 class="field field--name-field-d-main-title field--type-string field--label-hidden"&gt;We are an expert in car engines&lt;/h2&gt;
+
+
+                    &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;We have over 20 years of experience in the production of engines for automotive industry.&lt;/p&gt;&lt;/div&gt;
+            
+              &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+      
+&lt;section id="paragraph-d_p_side_image-428" class="wrapper-d_p_side_image user-background-defined with-long-text theme-invert" style="background-color: #dddddd"&gt;
+  &lt;div class="clearfix paragraph d-p-side-image-banner paragraph--type--d-p-side-image paragraph--view-mode--default"&gt;
+    &lt;div class="image-side-left d-p-side-image-banner-wrapper clearfix position-relative"&gt;
+      &lt;div data-id="paragraph-d_p_side_image-428" class="d-image h-100 col-md-6"&gt;
+                    &lt;div class="d-media-background-wrapper"&gt;
+          
+
+                    &lt;div class="field field--name-field-d-media-background field--type-entity-reference field--label-hidden field__item"&gt;&lt;div&gt;
+  
+  
+
+                    &lt;div class="field field--name-field-media-image field--type-image field--label-hidden field__item"&gt;    &lt;picture&gt;
+                  &lt;source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_car_engine_gasoline.jpg?itok=RhoM3RXD 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_engine_car_engine_gasoline.jpg?itok=T83AZ5n_ 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_992/public/demo/d_demo_engine_car_engine_gasoline.jpg?itok=wd2mFBN- 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_engine_car_engine_gasoline.jpg?itok=FB5trrXD 1x"&gt;&lt;/source&gt;
+                  
+  
+  
+&lt;img alt="Car Engine" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_car_engine_gasoline.jpg?itok=RhoM3RXD" typeof="foaf:Image" /&gt;
+
+  &lt;/picture&gt;
+
+&lt;/div&gt;
+            
+&lt;/div&gt;
+&lt;/div&gt;
+            
+  
+  &lt;/div&gt;
+              &lt;/div&gt;
+      &lt;div class="container"&gt;
+        &lt;div class="row"&gt;
+          &lt;div class="container-half col-md-6"&gt;
+                  
+
+                    &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;h3&gt; Cobra 100 &lt;/h3&gt; &lt;p&gt;Excellent and powerful gasoline engine for cars. A wide range of power. Designed and created by a team of experienced mechanics and engineers. Perfect for small city cars and large SUVs.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;1.4 L (1,360 cc) Euro 5 70-72 kW&lt;/li&gt; &lt;li&gt;1.6 L (1,598 cc) Euro 5 72-88 kW&lt;/li&gt; &lt;li&gt;1.6 L (1,598 cc) Euro 4 103-120 kW&lt;/li&gt; &lt;li&gt;1.6 L (1,598 cc) Euro 5 103-120 kW&lt;/li&gt; &lt;li&gt;1.6 L (1,598 cc) Euro 4 128-152 kW&lt;/li&gt; &lt;/ul&gt;&lt;/div&gt;
+            
+  
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+
+      
+
+  &lt;section id="paragraph-d_p_group_of_text_blocks-431" class="wrapper-d_p_group_of_text_blocks with-tiles theme-invert header-margin-none"&gt;
+    &lt;div class="clearfix paragraph d-p-group-of-text-blocks paragraph--type--d-p-group-of-text-blocks paragraph--view-mode--default"&gt;
+              &lt;div class="container d-p-group-of-text-blocks-header-wrapper"&gt;
+          &lt;h2 class="field field--name-field-d-main-title field--type-string field--label-hidden"&gt;Our services for gasoline engines&lt;/h2&gt;
+
+        &lt;/div&gt;
+                              &lt;div class="d-p-tiles-wrapper container expandable-content"&gt;
+            &lt;section&gt;
+        &lt;div class="field field--name-field-d-p-tb-block-reference field--type-entity-reference-revisions field--label-hidden subparagraphs-wrapper single-boxes-wrapper row"&gt;
+              &lt;div class="single-box-wrapper list-item-wrapper col-sm-6"&gt;
+  &lt;section id="paragraph-d_p_single_text_block-429" class="wrapper-d_p_single_text_block with-long-text theme-invert"&gt;
+                  &lt;div class="clearfix paragraph d-p-text-block paragraph--type--d-p-single-text-block paragraph--view-mode--default"&gt;
+                    
+
+                    &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt; &lt;li&gt;Change the engine oil&lt;/li&gt; &lt;li&gt;Replace the oil filter&lt;/li&gt; &lt;li&gt;Replace the spark plugs&lt;/li&gt; &lt;/ul&gt;&lt;/div&gt;
+            
+  
+      
+          &lt;/div&gt;
+  &lt;/section&gt;
+&lt;/div&gt;
+              &lt;div class="single-box-wrapper list-item-wrapper col-sm-6"&gt;
+  &lt;section id="paragraph-d_p_single_text_block-430" class="wrapper-d_p_single_text_block with-long-text theme-invert"&gt;
+                  &lt;div class="clearfix paragraph d-p-text-block paragraph--type--d-p-single-text-block paragraph--view-mode--default"&gt;
+                    
+
+                    &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt; &lt;li&gt;Inspect and replace the timing belt&lt;/li&gt; &lt;li&gt;Check for any Error codes in the ECU&lt;/li&gt; &lt;li&gt;Use scan tool read trouble code&lt;/li&gt; &lt;/ul&gt;&lt;/div&gt;
+            
+  
+      
+          &lt;/div&gt;
+  &lt;/section&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+    &lt;/section&gt;
+
+          &lt;/div&gt;
+                            &lt;div class="container"&gt;
+          
+        &lt;/div&gt;
+          &lt;/div&gt;
+  &lt;/section&gt;
+
+      
+
+  &lt;section id="paragraph-d_p_group_of_text_blocks-435" class="wrapper-d_p_group_of_text_blocks full-width with-grid"&gt;
+    &lt;div class="clearfix paragraph d-p-group-of-text-blocks paragraph--type--d-p-group-of-text-blocks paragraph--view-mode--default"&gt;
+              &lt;div class="container d-p-group-of-text-blocks-header-wrapper"&gt;
+          &lt;h2 class="field field--name-field-d-main-title field--type-string field--label-hidden"&gt;Other products&lt;/h2&gt;
+
+        &lt;/div&gt;
+                              &lt;div class="d-p-tiles-wrapper container expandable-content"&gt;
+            &lt;section&gt;
+        &lt;div class="field field--name-field-d-p-tb-block-reference field--type-entity-reference-revisions field--label-hidden subparagraphs-wrapper single-boxes-wrapper row"&gt;
+              &lt;div class="col-sm-6 col-lg-4 single-box-wrapper list-item-wrapper"&gt;  &lt;div class="clearfix paragraph paragraph--type--d-p-node paragraph--view-mode--default"&gt;
+          
+
+                    &lt;div class="erd-list--d-small-box field field--name-field-d-node-reference field--type-entity-reference field--label-hidden field__item"&gt;
+&lt;div role="article" about="http://acadimexport.localhost/products/super-charged-engine-v12" class="small-box-wrapper clearfix"&gt;
+  &lt;div class="box-content-wrapper clearfix"&gt;
+    &lt;div class="box-image"&gt;
+        &lt;a href="http://acadimexport.localhost/products/super-charged-engine-v12"&gt;
+
+
+&lt;img src="http://acadimexport.localhost/sites/default/files/styles/small_box_image/public/demo/d_product_init_super-charged-engine-1.jpg?itok=Ozi3UjRT" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
+
+&lt;/a&gt;
+
+    &lt;/div&gt;
+    &lt;div class="box-text-content text-center"&gt;
+      &lt;a href="http://acadimexport.localhost/products/super-charged-engine-v12" class="link"&gt;
+        
+        &lt;h2 class="box-title"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Super Charged Engine v12&lt;/span&gt;
+&lt;/h2&gt;
+        
+      &lt;/a&gt;
+      &lt;a href="http://acadimexport.localhost/products/super-charged-engine-v12" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+            
+      &lt;/div&gt;
+&lt;/div&gt;
+              &lt;div class="col-sm-6 col-lg-4 single-box-wrapper list-item-wrapper"&gt;  &lt;div class="clearfix paragraph paragraph--type--d-p-node paragraph--view-mode--default"&gt;
+          
+
+                    &lt;div class="erd-list--d-small-box field field--name-field-d-node-reference field--type-entity-reference field--label-hidden field__item"&gt;
+&lt;div role="article" about="http://acadimexport.localhost/products/centurion-3000" class="small-box-wrapper clearfix"&gt;
+  &lt;div class="box-content-wrapper clearfix"&gt;
+    &lt;div class="box-image"&gt;
+        &lt;a href="http://acadimexport.localhost/products/centurion-3000"&gt;
+
+
+&lt;img src="http://acadimexport.localhost/sites/default/files/styles/small_box_image/public/demo/d_product_init_centurion-3000-1.jpg?itok=oxmesbQV" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
+
+&lt;/a&gt;
+
+    &lt;/div&gt;
+    &lt;div class="box-text-content text-center"&gt;
+      &lt;a href="http://acadimexport.localhost/products/centurion-3000" class="link"&gt;
+        
+        &lt;h2 class="box-title"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Centurion 3000&lt;/span&gt;
+&lt;/h2&gt;
+        
+      &lt;/a&gt;
+      &lt;a href="http://acadimexport.localhost/products/centurion-3000" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+            
+      &lt;/div&gt;
+&lt;/div&gt;
+              &lt;div class="col-sm-6 grid-row-end-item col-lg-4 single-box-wrapper list-item-wrapper"&gt;  &lt;div class="clearfix paragraph paragraph--type--d-p-node paragraph--view-mode--default"&gt;
+          
+
+                    &lt;div class="erd-list--d-small-box field field--name-field-d-node-reference field--type-entity-reference field--label-hidden field__item"&gt;
+&lt;div role="article" about="http://acadimexport.localhost/products/marine-xt-550" class="small-box-wrapper clearfix"&gt;
+  &lt;div class="box-content-wrapper clearfix"&gt;
+    &lt;div class="box-image"&gt;
+        &lt;a href="http://acadimexport.localhost/products/marine-xt-550"&gt;
+
+
+&lt;img src="http://acadimexport.localhost/sites/default/files/styles/small_box_image/public/demo/d_product_init_machine-xt-550-1.jpg?itok=D9xcJ9LC" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
+
+&lt;/a&gt;
+
+    &lt;/div&gt;
+    &lt;div class="box-text-content text-center"&gt;
+      &lt;a href="http://acadimexport.localhost/products/marine-xt-550" class="link"&gt;
+        
+        &lt;h2 class="box-title"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Marine-XT 550&lt;/span&gt;
+&lt;/h2&gt;
+        
+      &lt;/a&gt;
+      &lt;a href="http://acadimexport.localhost/products/marine-xt-550" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+            
+      &lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+    &lt;/section&gt;
+
+          &lt;/div&gt;
+                            &lt;div class="container"&gt;
+          
+
+                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="http://acadimexport.localhost/products" class="btn btn-primary mt-4"&gt;View All&lt;/a&gt;&lt;/div&gt;
+            
+        &lt;/div&gt;
+          &lt;/div&gt;
+  &lt;/section&gt;
+
+      
+
+    &lt;section id="paragraph-d_p_reference_content-436" class="wrapper-d_p_reference_content no-padding-top"&gt;
+        &lt;div class="clearfix paragraph d-p-reference-content paragraph--type--d-p-reference-content paragraph--view-mode--default"&gt;
+            &lt;div class="clearfix d-p-reference-content-wrapper"&gt;
+                &lt;h2 class="field field--name-field-d-main-title field--type-string field--label-visually_hidden container text-center"&gt;Related articles&lt;/h2&gt;
+
+
+
+    &lt;div class="field field--name-field-d-p-reference-content field--type-entity-reference field--label-visually_hidden"&gt;
+        &lt;div class="field__label visually-hidden"&gt;Reference content&lt;/div&gt;
+                &lt;div class="field field--name-field-d-p-reference-content field--type-entity-reference field--label-visually_hidden d-flex flex-wrap field--wrapper justify-content-between field__items"&gt;
+                                        &lt;div class="d-flex field__item--wrapper col-lg-3 col-sm-6 col-xs-12 field__item"&gt;
+
+&lt;article role="article" about="http://acadimexport.localhost/blog/centurion-v750-fastest-airplane-engine-planet-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
+    &lt;div class="d-flex flex-column box"&gt;
+                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="http://acadimexport.localhost/blog/centurion-v750-fastest-airplane-engine-planet-0"&gt;
+
+
+&lt;img width="320" height="240" alt="Mechanism" loading="lazy" class="lazyload image-style-gallery-thumbnail" data-src="/sites/default/files/styles/gallery_thumbnail/public/demo/d_demo_mechanism.jpg?itok=Hyo_0V5Q" typeof="foaf:Image" /&gt;
+
+&lt;/a&gt;
+&lt;/div&gt;
+      
+        &lt;div class="text-area"&gt;
+            &lt;h2 class="node__title"&gt;
+                &lt;a href="http://acadimexport.localhost/blog/centurion-v750-fastest-airplane-engine-planet-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Centurion V750 is the fastest airplane engine on the planet&lt;/span&gt;
+&lt;/a&gt;
+            &lt;/h2&gt;
+            
+
+                    &lt;div class="clearfix text-formatted field field--name-field-blog-teaser field--type-text-long field--label-hidden field__item"&gt;DrooplerEngines together with Airplanes Pro tested new aircraft engine Centurion V750 on Mojave desert in California, USA.&lt;/div&gt;
+            
+            &lt;a href="http://acadimexport.localhost/blog/centurion-v750-fastest-airplane-engine-planet-0" class="link"&gt;Learn more&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+&lt;/article&gt;
+&lt;/div&gt;
+                            &lt;div class="d-flex field__item--wrapper col-lg-3 col-sm-6 col-xs-12 field__item"&gt;
+
+&lt;article role="article" about="http://acadimexport.localhost/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
+    &lt;div class="d-flex flex-column box"&gt;
+                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="http://acadimexport.localhost/blog/abc-automotive-bought-10-000-engines-drooplerengines-0"&gt;
+
+
+&lt;img width="320" height="240" alt="New cars" loading="lazy" class="lazyload image-style-gallery-thumbnail" data-src="/sites/default/files/styles/gallery_thumbnail/public/demo/d_demo_new_cars.jpg?itok=20Dkow8z" typeof="foaf:Image" /&gt;
+
+&lt;/a&gt;
+&lt;/div&gt;
+      
+        &lt;div class="text-area"&gt;
+            &lt;h2 class="node__title"&gt;
+                &lt;a href="http://acadimexport.localhost/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;ABC Automotive bought 10 000 engines from DrooplerEngines&lt;/span&gt;
+&lt;/a&gt;
+            &lt;/h2&gt;
+            
+
+                    &lt;div class="clearfix text-formatted field field--name-field-blog-teaser field--type-text-long field--label-hidden field__item"&gt;ABC Automotive is world leader in car manufacturing. Our engines will be used in their new car models UMI 4S coupe.&lt;/div&gt;
+            
+            &lt;a href="http://acadimexport.localhost/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" class="link"&gt;Learn more&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+&lt;/article&gt;
+&lt;/div&gt;
+                            &lt;div class="d-flex field__item--wrapper col-lg-3 col-sm-6 col-xs-12 field__item"&gt;
+
+&lt;article role="article" about="http://acadimexport.localhost/blog/drooplerengines-automotive-expo-2019-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
+    &lt;div class="d-flex flex-column box"&gt;
+                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="http://acadimexport.localhost/blog/drooplerengines-automotive-expo-2019-0"&gt;
+
+
+&lt;img width="320" height="240" alt="Future car" loading="lazy" class="lazyload image-style-gallery-thumbnail" data-src="/sites/default/files/styles/gallery_thumbnail/public/demo/d_demo_future_car.jpg?itok=MtyGVGkt" typeof="foaf:Image" /&gt;
+
+&lt;/a&gt;
+&lt;/div&gt;
+      
+        &lt;div class="text-area"&gt;
+            &lt;h2 class="node__title"&gt;
+                &lt;a href="http://acadimexport.localhost/blog/drooplerengines-automotive-expo-2019-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;DrooplerEngines at Automotive Expo 2019&lt;/span&gt;
+&lt;/a&gt;
+            &lt;/h2&gt;
+            
+
+                    &lt;div class="clearfix text-formatted field field--name-field-blog-teaser field--type-text-long field--label-hidden field__item"&gt;In last week we presented our engines on the biggest expo in the Europe in Hannover, Germany.&lt;/div&gt;
+            
+            &lt;a href="http://acadimexport.localhost/blog/drooplerengines-automotive-expo-2019-0" class="link"&gt;Learn more&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+&lt;/article&gt;
+&lt;/div&gt;
+                            &lt;div class="d-flex field__item--wrapper col-lg-3 col-sm-6 col-xs-12 field__item"&gt;
+
+&lt;article role="article" about="http://acadimexport.localhost/blog/new-factory-location-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
+    &lt;div class="d-flex flex-column box"&gt;
+                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="http://acadimexport.localhost/blog/new-factory-location-0"&gt;
+
+
+&lt;img width="320" height="240" alt="Factory" loading="lazy" class="lazyload image-style-gallery-thumbnail" data-src="/sites/default/files/styles/gallery_thumbnail/public/demo/d_demo_factory.jpg?itok=RDm1wBIx" typeof="foaf:Image" /&gt;
+
+&lt;/a&gt;
+&lt;/div&gt;
+      
+        &lt;div class="text-area"&gt;
+            &lt;h2 class="node__title"&gt;
+                &lt;a href="http://acadimexport.localhost/blog/new-factory-location-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;New factory location&lt;/span&gt;
+&lt;/a&gt;
+            &lt;/h2&gt;
+            
+
+                    &lt;div class="clearfix text-formatted field field--name-field-blog-teaser field--type-text-long field--label-hidden field__item"&gt;Finally we have another factory. Factory is located in Radom in Poland. This location is well communicated with rest of the Europe.&lt;/div&gt;
+            
+            &lt;a href="http://acadimexport.localhost/blog/new-factory-location-0" class="link"&gt;Learn more&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+&lt;/article&gt;
+&lt;/div&gt;
+                                &lt;/div&gt;
+            &lt;/div&gt;
+
+  &lt;div class="field field--name-field-d-cta-link field--type-link field--label-visually_hidden container text-center"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Call To Action&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://acadimexport.localhost/blog" class="btn btn-primary mt-5"&gt;View all&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+      
+  &lt;section id="paragraph-d_p_banner-437" class="wrapper-d_p_banner with-long-text"&gt;
+    &lt;div class="clearfix paragraph d-p-banner paragraph--type--d-p-banner paragraph--view-mode--default"&gt;
+                &lt;div class="d-media-background-wrapper"&gt;
+          
+
+                    &lt;div class="field field--name-field-d-media-background field--type-entity-reference field--label-hidden field__item"&gt;&lt;div&gt;
+  
+  
+
+                    &lt;div class="field field--name-field-media-image field--type-image field--label-hidden field__item"&gt;    &lt;picture&gt;
+                  &lt;source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=C0600HGh 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=2uBS14Al 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_992/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=Uo78VznS 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=7WN8PJmx 1x"&gt;&lt;/source&gt;
+                  
+  
+  
+&lt;img alt="Car Engine" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=C0600HGh" typeof="foaf:Image" /&gt;
+
+  &lt;/picture&gt;
+
+&lt;/div&gt;
+            
+&lt;/div&gt;
+&lt;/div&gt;
+            
+  
+  &lt;/div&gt;
+            &lt;div class="content-wrapper"&gt;
+        &lt;div class="content container"&gt;
+                            &lt;h2 class="field field--name-field-d-main-title field--type-string field--label-hidden"&gt;IT'S TIME TO MAKE YOUR MOVE&lt;/h2&gt;
+
+
+                    &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p class="text-align-center"&gt;Contact our sales team to schedule product presentation.&lt;/p&gt;&lt;/div&gt;
+            
+
+                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="http://acadimexport.localhost/contact" class="btn btn-primary"&gt;CONTACT US&lt;/a&gt;&lt;/div&gt;
+            
+  
+                  &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+  &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Anónimo (no verificado)&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Lun, 29/06/2020 - 23:32&lt;/span&gt;
+</description>
+  <pubDate>Mon, 29 Jun 2020 21:32:59 +0000</pubDate>
+    <dc:creator>Anónimo</dc:creator>
+    <guid isPermaLink="false">61 at http://acadimexport.localhost</guid>
+    </item>
+<item>
+  <title>Diesel Engines</title>
+  <link>http://acadimexport.localhost/diesel-engines</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Diesel Engines&lt;/span&gt;
+&lt;div class="paragraph-sections field field--name-field-page-section field--type-entity-reference-revisions field--label-hidden"&gt;
+      
+&lt;section id="paragraph-d_p_side_image-414" class="wrapper-d_p_side_image user-background-defined with-long-text theme-invert" style="background-color: #fff"&gt;
+  &lt;div class="clearfix paragraph d-p-side-image-banner paragraph--type--d-p-side-image paragraph--view-mode--default"&gt;
+    &lt;div class="image-side-right-wide d-p-side-image-banner-wrapper clearfix position-relative"&gt;
+      &lt;div data-id="paragraph-d_p_side_image-414" class="d-image h-100 col-md-6 col-lg-7"&gt;
+                    &lt;div class="d-media-background-wrapper"&gt;
+          
+
+                    &lt;div class="field field--name-field-d-media-background field--type-entity-reference field--label-hidden field__item"&gt;&lt;div&gt;
+  
+  
+
+                    &lt;div class="field field--name-field-media-image field--type-image field--label-hidden field__item"&gt;    &lt;picture&gt;
+                  &lt;source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_car_2.jpg?itok=asBD_IeL 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_engine_car_2.jpg?itok=TeGUrmyE 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_992/public/demo/d_demo_engine_car_2.jpg?itok=dXuupWS_ 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_engine_car_2.jpg?itok=HvFwjlFS 1x"&gt;&lt;/source&gt;
+                  
+  
+  
+&lt;img alt="Event 3" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_car_2.jpg?itok=asBD_IeL" typeof="foaf:Image" /&gt;
+
+  &lt;/picture&gt;
+
+&lt;/div&gt;
+            
+&lt;/div&gt;
+&lt;/div&gt;
+            
+  
+  &lt;/div&gt;
+              &lt;/div&gt;
+      &lt;div class="container"&gt;
+        &lt;div class="row"&gt;
+          &lt;div class="container-half col-md-6 col-lg-5"&gt;
+                  &lt;h1 class="field field--name-field-d-main-title field--type-string field--label-hidden"&gt;Diesel engines&lt;/h1&gt;
+
+
+                    &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;The diesel engine has the highest effective efficiency of all combustion engines. We produce next-gen diesel engines for modern cars.&lt;/p&gt;&lt;/div&gt;
+            
+  
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+
+        &lt;section id="paragraph-d_p_text_paged-415" class="wrapper-d_p_text_paged with-long-text"&gt;
+    &lt;div class="clearfix paragraph text-page paragraph--type--d-p-text-paged paragraph--view-mode--default"&gt;
+      &lt;div class="container"&gt;
+                  &lt;h2 class="field field--name-field-d-main-title field--type-string field--label-hidden"&gt;We are an expert in car engines&lt;/h2&gt;
+
+
+                    &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;We have over 20 years of experience in the production of engines for automotive industry.&lt;/p&gt;&lt;/div&gt;
+            
+              &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+      
+&lt;section id="paragraph-d_p_side_image-416" class="wrapper-d_p_side_image user-background-defined with-long-text theme-invert" style="background-color: #dddddd"&gt;
+  &lt;div class="clearfix paragraph d-p-side-image-banner paragraph--type--d-p-side-image paragraph--view-mode--default"&gt;
+    &lt;div class="image-side-left d-p-side-image-banner-wrapper clearfix position-relative"&gt;
+      &lt;div data-id="paragraph-d_p_side_image-416" class="d-image h-100 col-md-6"&gt;
+                    &lt;div class="d-media-background-wrapper"&gt;
+          
+
+                    &lt;div class="field field--name-field-d-media-background field--type-entity-reference field--label-hidden field__item"&gt;&lt;div&gt;
+  
+  
+
+                    &lt;div class="field field--name-field-media-image field--type-image field--label-hidden field__item"&gt;    &lt;picture&gt;
+                  &lt;source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_car_engine_centurion.jpg?itok=gBC0e-CV 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_car_engine_centurion.jpg?itok=YM1h15KQ 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_992/public/demo/d_demo_car_engine_centurion.jpg?itok=3QxAbEOZ 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_car_engine_centurion.jpg?itok=Tnp6uK0J 1x"&gt;&lt;/source&gt;
+                  
+  
+  
+&lt;img alt="Portfolio" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_car_engine_centurion.jpg?itok=gBC0e-CV" typeof="foaf:Image" /&gt;
+
+  &lt;/picture&gt;
+
+&lt;/div&gt;
+            
+&lt;/div&gt;
+&lt;/div&gt;
+            
+  
+  &lt;/div&gt;
+              &lt;/div&gt;
+      &lt;div class="container"&gt;
+        &lt;div class="row"&gt;
+          &lt;div class="container-half col-md-6"&gt;
+                  
+
+                    &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;h3&gt;Magnat 2001&lt;/h3&gt; &lt;p&gt;Excellent and powerful diesel engine for cars. A wide range of power. Designed and created by a team of experienced mechanics and engineers. Perfect for small city cars and large SUVs.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;1.4 L (1,360 cc) Euro 5 70-72 kW&lt;/li&gt; &lt;li&gt;1.6 L (1,598 cc) Euro 5 72-88 kW&lt;/li&gt; &lt;li&gt;1.6 L (1,598 cc) Euro 4 103-120 kW&lt;/li&gt; &lt;li&gt;1.6 L (1,598 cc) Euro 5 103-120 kW&lt;/li&gt; &lt;li&gt;1.6 L (1,598 cc) Euro 4 128-152 kW&lt;/li&gt; &lt;/ul&gt;&lt;/div&gt;
+            
+  
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+
+      
+
+  &lt;section id="paragraph-d_p_group_of_text_blocks-419" class="wrapper-d_p_group_of_text_blocks with-tiles theme-invert header-margin-none"&gt;
+    &lt;div class="clearfix paragraph d-p-group-of-text-blocks paragraph--type--d-p-group-of-text-blocks paragraph--view-mode--default"&gt;
+              &lt;div class="container d-p-group-of-text-blocks-header-wrapper"&gt;
+          &lt;h2 class="field field--name-field-d-main-title field--type-string field--label-hidden"&gt;Our services for diesel engines&lt;/h2&gt;
+
+        &lt;/div&gt;
+                              &lt;div class="d-p-tiles-wrapper container expandable-content"&gt;
+            &lt;section&gt;
+        &lt;div class="field field--name-field-d-p-tb-block-reference field--type-entity-reference-revisions field--label-hidden subparagraphs-wrapper single-boxes-wrapper row"&gt;
+              &lt;div class="single-box-wrapper list-item-wrapper col-sm-6"&gt;
+  &lt;section id="paragraph-d_p_single_text_block-417" class="wrapper-d_p_single_text_block with-long-text theme-invert"&gt;
+                  &lt;div class="clearfix paragraph d-p-text-block paragraph--type--d-p-single-text-block paragraph--view-mode--default"&gt;
+                    
+
+                    &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt; &lt;li&gt;Change the engine oil&lt;/li&gt; &lt;li&gt;Replace the oil filter&lt;/li&gt; &lt;li&gt;Replace the spark plugs&lt;/li&gt; &lt;/ul&gt;&lt;/div&gt;
+            
+  
+      
+          &lt;/div&gt;
+  &lt;/section&gt;
+&lt;/div&gt;
+              &lt;div class="single-box-wrapper list-item-wrapper col-sm-6"&gt;
+  &lt;section id="paragraph-d_p_single_text_block-418" class="wrapper-d_p_single_text_block with-long-text theme-invert"&gt;
+                  &lt;div class="clearfix paragraph d-p-text-block paragraph--type--d-p-single-text-block paragraph--view-mode--default"&gt;
+                    
+
+                    &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt; &lt;li&gt;Inspect and replace the timing belt&lt;/li&gt; &lt;li&gt;Check for any Error codes in the ECU&lt;/li&gt; &lt;li&gt;Use scan tool read trouble code&lt;/li&gt; &lt;/ul&gt;&lt;/div&gt;
+            
+  
+      
+          &lt;/div&gt;
+  &lt;/section&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+    &lt;/section&gt;
+
+          &lt;/div&gt;
+                            &lt;div class="container"&gt;
+          
+        &lt;/div&gt;
+          &lt;/div&gt;
+  &lt;/section&gt;
+
+      
+
+  &lt;section id="paragraph-d_p_group_of_text_blocks-423" class="wrapper-d_p_group_of_text_blocks full-width with-grid"&gt;
+    &lt;div class="clearfix paragraph d-p-group-of-text-blocks paragraph--type--d-p-group-of-text-blocks paragraph--view-mode--default"&gt;
+              &lt;div class="container d-p-group-of-text-blocks-header-wrapper"&gt;
+          &lt;h2 class="field field--name-field-d-main-title field--type-string field--label-hidden"&gt;Other products&lt;/h2&gt;
+
+        &lt;/div&gt;
+                              &lt;div class="d-p-tiles-wrapper container expandable-content"&gt;
+            &lt;section&gt;
+        &lt;div class="field field--name-field-d-p-tb-block-reference field--type-entity-reference-revisions field--label-hidden subparagraphs-wrapper single-boxes-wrapper row"&gt;
+              &lt;div class="col-sm-6 col-lg-4 single-box-wrapper list-item-wrapper"&gt;  &lt;div class="clearfix paragraph paragraph--type--d-p-node paragraph--view-mode--default"&gt;
+          
+
+                    &lt;div class="erd-list--d-small-box field field--name-field-d-node-reference field--type-entity-reference field--label-hidden field__item"&gt;
+&lt;div role="article" about="http://acadimexport.localhost/products/super-charged-engine-v12" class="small-box-wrapper clearfix"&gt;
+  &lt;div class="box-content-wrapper clearfix"&gt;
+    &lt;div class="box-image"&gt;
+        &lt;a href="http://acadimexport.localhost/products/super-charged-engine-v12"&gt;
+
+
+&lt;img src="http://acadimexport.localhost/sites/default/files/styles/small_box_image/public/demo/d_product_init_super-charged-engine-1.jpg?itok=Ozi3UjRT" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
+
+&lt;/a&gt;
+
+    &lt;/div&gt;
+    &lt;div class="box-text-content text-center"&gt;
+      &lt;a href="http://acadimexport.localhost/products/super-charged-engine-v12" class="link"&gt;
+        
+        &lt;h2 class="box-title"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Super Charged Engine v12&lt;/span&gt;
+&lt;/h2&gt;
+        
+      &lt;/a&gt;
+      &lt;a href="http://acadimexport.localhost/products/super-charged-engine-v12" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+            
+      &lt;/div&gt;
+&lt;/div&gt;
+              &lt;div class="col-sm-6 col-lg-4 single-box-wrapper list-item-wrapper"&gt;  &lt;div class="clearfix paragraph paragraph--type--d-p-node paragraph--view-mode--default"&gt;
+          
+
+                    &lt;div class="erd-list--d-small-box field field--name-field-d-node-reference field--type-entity-reference field--label-hidden field__item"&gt;
+&lt;div role="article" about="http://acadimexport.localhost/products/centurion-3000" class="small-box-wrapper clearfix"&gt;
+  &lt;div class="box-content-wrapper clearfix"&gt;
+    &lt;div class="box-image"&gt;
+        &lt;a href="http://acadimexport.localhost/products/centurion-3000"&gt;
+
+
+&lt;img src="http://acadimexport.localhost/sites/default/files/styles/small_box_image/public/demo/d_product_init_centurion-3000-1.jpg?itok=oxmesbQV" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
+
+&lt;/a&gt;
+
+    &lt;/div&gt;
+    &lt;div class="box-text-content text-center"&gt;
+      &lt;a href="http://acadimexport.localhost/products/centurion-3000" class="link"&gt;
+        
+        &lt;h2 class="box-title"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Centurion 3000&lt;/span&gt;
+&lt;/h2&gt;
+        
+      &lt;/a&gt;
+      &lt;a href="http://acadimexport.localhost/products/centurion-3000" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+            
+      &lt;/div&gt;
+&lt;/div&gt;
+              &lt;div class="col-sm-6 grid-row-end-item col-lg-4 single-box-wrapper list-item-wrapper"&gt;  &lt;div class="clearfix paragraph paragraph--type--d-p-node paragraph--view-mode--default"&gt;
+          
+
+                    &lt;div class="erd-list--d-small-box field field--name-field-d-node-reference field--type-entity-reference field--label-hidden field__item"&gt;
+&lt;div role="article" about="http://acadimexport.localhost/products/marine-xt-550" class="small-box-wrapper clearfix"&gt;
+  &lt;div class="box-content-wrapper clearfix"&gt;
+    &lt;div class="box-image"&gt;
+        &lt;a href="http://acadimexport.localhost/products/marine-xt-550"&gt;
+
+
+&lt;img src="http://acadimexport.localhost/sites/default/files/styles/small_box_image/public/demo/d_product_init_machine-xt-550-1.jpg?itok=D9xcJ9LC" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
+
+&lt;/a&gt;
+
+    &lt;/div&gt;
+    &lt;div class="box-text-content text-center"&gt;
+      &lt;a href="http://acadimexport.localhost/products/marine-xt-550" class="link"&gt;
+        
+        &lt;h2 class="box-title"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Marine-XT 550&lt;/span&gt;
+&lt;/h2&gt;
+        
+      &lt;/a&gt;
+      &lt;a href="http://acadimexport.localhost/products/marine-xt-550" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+            
+      &lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+    &lt;/section&gt;
+
+          &lt;/div&gt;
+                            &lt;div class="container"&gt;
+          
+
+                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="http://acadimexport.localhost/products" class="btn btn-primary mt-4"&gt;View All&lt;/a&gt;&lt;/div&gt;
+            
+        &lt;/div&gt;
+          &lt;/div&gt;
+  &lt;/section&gt;
+
+      
+
+    &lt;section id="paragraph-d_p_reference_content-424" class="wrapper-d_p_reference_content no-padding-top"&gt;
+        &lt;div class="clearfix paragraph d-p-reference-content paragraph--type--d-p-reference-content paragraph--view-mode--default"&gt;
+            &lt;div class="clearfix d-p-reference-content-wrapper"&gt;
+                &lt;h2 class="field field--name-field-d-main-title field--type-string field--label-visually_hidden container text-center"&gt;Related articles&lt;/h2&gt;
+
+
+
+    &lt;div class="field field--name-field-d-p-reference-content field--type-entity-reference field--label-visually_hidden"&gt;
+        &lt;div class="field__label visually-hidden"&gt;Reference content&lt;/div&gt;
+                &lt;div class="field field--name-field-d-p-reference-content field--type-entity-reference field--label-visually_hidden d-flex flex-wrap field--wrapper justify-content-between field__items"&gt;
+                                        &lt;div class="d-flex field__item--wrapper col-lg-3 col-sm-6 col-xs-12 field__item"&gt;
+
+&lt;article role="article" about="http://acadimexport.localhost/blog/centurion-v750-fastest-airplane-engine-planet-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
+    &lt;div class="d-flex flex-column box"&gt;
+                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="http://acadimexport.localhost/blog/centurion-v750-fastest-airplane-engine-planet-0"&gt;
+
+
+&lt;img width="320" height="240" alt="Mechanism" loading="lazy" class="lazyload image-style-gallery-thumbnail" data-src="/sites/default/files/styles/gallery_thumbnail/public/demo/d_demo_mechanism.jpg?itok=Hyo_0V5Q" typeof="foaf:Image" /&gt;
+
+&lt;/a&gt;
+&lt;/div&gt;
+      
+        &lt;div class="text-area"&gt;
+            &lt;h2 class="node__title"&gt;
+                &lt;a href="http://acadimexport.localhost/blog/centurion-v750-fastest-airplane-engine-planet-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Centurion V750 is the fastest airplane engine on the planet&lt;/span&gt;
+&lt;/a&gt;
+            &lt;/h2&gt;
+            
+
+                    &lt;div class="clearfix text-formatted field field--name-field-blog-teaser field--type-text-long field--label-hidden field__item"&gt;DrooplerEngines together with Airplanes Pro tested new aircraft engine Centurion V750 on Mojave desert in California, USA.&lt;/div&gt;
+            
+            &lt;a href="http://acadimexport.localhost/blog/centurion-v750-fastest-airplane-engine-planet-0" class="link"&gt;Learn more&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+&lt;/article&gt;
+&lt;/div&gt;
+                            &lt;div class="d-flex field__item--wrapper col-lg-3 col-sm-6 col-xs-12 field__item"&gt;
+
+&lt;article role="article" about="http://acadimexport.localhost/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
+    &lt;div class="d-flex flex-column box"&gt;
+                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="http://acadimexport.localhost/blog/abc-automotive-bought-10-000-engines-drooplerengines-0"&gt;
+
+
+&lt;img width="320" height="240" alt="New cars" loading="lazy" class="lazyload image-style-gallery-thumbnail" data-src="/sites/default/files/styles/gallery_thumbnail/public/demo/d_demo_new_cars.jpg?itok=20Dkow8z" typeof="foaf:Image" /&gt;
+
+&lt;/a&gt;
+&lt;/div&gt;
+      
+        &lt;div class="text-area"&gt;
+            &lt;h2 class="node__title"&gt;
+                &lt;a href="http://acadimexport.localhost/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;ABC Automotive bought 10 000 engines from DrooplerEngines&lt;/span&gt;
+&lt;/a&gt;
+            &lt;/h2&gt;
+            
+
+                    &lt;div class="clearfix text-formatted field field--name-field-blog-teaser field--type-text-long field--label-hidden field__item"&gt;ABC Automotive is world leader in car manufacturing. Our engines will be used in their new car models UMI 4S coupe.&lt;/div&gt;
+            
+            &lt;a href="http://acadimexport.localhost/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" class="link"&gt;Learn more&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+&lt;/article&gt;
+&lt;/div&gt;
+                            &lt;div class="d-flex field__item--wrapper col-lg-3 col-sm-6 col-xs-12 field__item"&gt;
+
+&lt;article role="article" about="http://acadimexport.localhost/blog/drooplerengines-automotive-expo-2019-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
+    &lt;div class="d-flex flex-column box"&gt;
+                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="http://acadimexport.localhost/blog/drooplerengines-automotive-expo-2019-0"&gt;
+
+
+&lt;img width="320" height="240" alt="Future car" loading="lazy" class="lazyload image-style-gallery-thumbnail" data-src="/sites/default/files/styles/gallery_thumbnail/public/demo/d_demo_future_car.jpg?itok=MtyGVGkt" typeof="foaf:Image" /&gt;
+
+&lt;/a&gt;
+&lt;/div&gt;
+      
+        &lt;div class="text-area"&gt;
+            &lt;h2 class="node__title"&gt;
+                &lt;a href="http://acadimexport.localhost/blog/drooplerengines-automotive-expo-2019-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;DrooplerEngines at Automotive Expo 2019&lt;/span&gt;
+&lt;/a&gt;
+            &lt;/h2&gt;
+            
+
+                    &lt;div class="clearfix text-formatted field field--name-field-blog-teaser field--type-text-long field--label-hidden field__item"&gt;In last week we presented our engines on the biggest expo in the Europe in Hannover, Germany.&lt;/div&gt;
+            
+            &lt;a href="http://acadimexport.localhost/blog/drooplerengines-automotive-expo-2019-0" class="link"&gt;Learn more&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+&lt;/article&gt;
+&lt;/div&gt;
+                            &lt;div class="d-flex field__item--wrapper col-lg-3 col-sm-6 col-xs-12 field__item"&gt;
+
+&lt;article role="article" about="http://acadimexport.localhost/blog/new-factory-location-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
+    &lt;div class="d-flex flex-column box"&gt;
+                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="http://acadimexport.localhost/blog/new-factory-location-0"&gt;
+
+
+&lt;img width="320" height="240" alt="Factory" loading="lazy" class="lazyload image-style-gallery-thumbnail" data-src="/sites/default/files/styles/gallery_thumbnail/public/demo/d_demo_factory.jpg?itok=RDm1wBIx" typeof="foaf:Image" /&gt;
+
+&lt;/a&gt;
+&lt;/div&gt;
+      
+        &lt;div class="text-area"&gt;
+            &lt;h2 class="node__title"&gt;
+                &lt;a href="http://acadimexport.localhost/blog/new-factory-location-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;New factory location&lt;/span&gt;
+&lt;/a&gt;
+            &lt;/h2&gt;
+            
+
+                    &lt;div class="clearfix text-formatted field field--name-field-blog-teaser field--type-text-long field--label-hidden field__item"&gt;Finally we have another factory. Factory is located in Radom in Poland. This location is well communicated with rest of the Europe.&lt;/div&gt;
+            
+            &lt;a href="http://acadimexport.localhost/blog/new-factory-location-0" class="link"&gt;Learn more&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+&lt;/article&gt;
+&lt;/div&gt;
+                                &lt;/div&gt;
+            &lt;/div&gt;
+
+  &lt;div class="field field--name-field-d-cta-link field--type-link field--label-visually_hidden container text-center"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Call To Action&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://acadimexport.localhost/blog" class="btn btn-primary mt-5"&gt;View all&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+      
+  &lt;section id="paragraph-d_p_banner-425" class="wrapper-d_p_banner with-long-text"&gt;
+    &lt;div class="clearfix paragraph d-p-banner paragraph--type--d-p-banner paragraph--view-mode--default"&gt;
+                &lt;div class="d-media-background-wrapper"&gt;
+          
+
+                    &lt;div class="field field--name-field-d-media-background field--type-entity-reference field--label-hidden field__item"&gt;&lt;div&gt;
+  
+  
+
+                    &lt;div class="field field--name-field-media-image field--type-image field--label-hidden field__item"&gt;    &lt;picture&gt;
+                  &lt;source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=C0600HGh 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=2uBS14Al 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_992/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=Uo78VznS 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=7WN8PJmx 1x"&gt;&lt;/source&gt;
+                  
+  
+  
+&lt;img alt="Car Engine" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=C0600HGh" typeof="foaf:Image" /&gt;
+
+  &lt;/picture&gt;
+
+&lt;/div&gt;
+            
+&lt;/div&gt;
+&lt;/div&gt;
+            
+  
+  &lt;/div&gt;
+            &lt;div class="content-wrapper"&gt;
+        &lt;div class="content container"&gt;
+                            &lt;h2 class="field field--name-field-d-main-title field--type-string field--label-hidden"&gt;IT'S TIME TO MAKE YOUR MOVE&lt;/h2&gt;
+
+
+                    &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p class="text-align-center"&gt;Contact our sales team to schedule product presentation.&lt;/p&gt;&lt;/div&gt;
+            
+
+                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="http://acadimexport.localhost/contact" class="btn btn-primary"&gt;CONTACT US&lt;/a&gt;&lt;/div&gt;
+            
+  
+                  &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+  &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Anónimo (no verificado)&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Lun, 29/06/2020 - 23:32&lt;/span&gt;
+</description>
+  <pubDate>Mon, 29 Jun 2020 21:32:59 +0000</pubDate>
+    <dc:creator>Anónimo</dc:creator>
+    <guid isPermaLink="false">60 at http://acadimexport.localhost</guid>
+    </item>
+<item>
+  <title>Car engines</title>
+  <link>http://acadimexport.localhost/car-engines</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Car engines&lt;/span&gt;
+&lt;div class="paragraph-sections field field--name-field-page-section field--type-entity-reference-revisions field--label-hidden"&gt;
+      
+&lt;section id="paragraph-d_p_side_image-402" class="wrapper-d_p_side_image user-background-defined with-long-text theme-invert" style="background-color: #fff"&gt;
+  &lt;div class="clearfix paragraph d-p-side-image-banner paragraph--type--d-p-side-image paragraph--view-mode--default"&gt;
+    &lt;div class="image-side-right-wide d-p-side-image-banner-wrapper clearfix position-relative"&gt;
+      &lt;div data-id="paragraph-d_p_side_image-402" class="d-image h-100 col-md-6 col-lg-7"&gt;
+                    &lt;div class="d-media-background-wrapper"&gt;
+          
+
+                    &lt;div class="field field--name-field-d-media-background field--type-entity-reference field--label-hidden field__item"&gt;&lt;div&gt;
+  
+  
+
+                    &lt;div class="field field--name-field-media-image field--type-image field--label-hidden field__item"&gt;    &lt;picture&gt;
+                  &lt;source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_testing_services_1.jpg?itok=3iRI-3Jp 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_engine_testing_services_1.jpg?itok=v7qQ4ocG 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_992/public/demo/d_demo_engine_testing_services_1.jpg?itok=_rZfKsir 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_engine_testing_services_1.jpg?itok=9k8Mfcq4 1x"&gt;&lt;/source&gt;
+                  
+  
+  
+&lt;img alt="Engine" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_testing_services_1.jpg?itok=3iRI-3Jp" typeof="foaf:Image" /&gt;
+
+  &lt;/picture&gt;
+
+&lt;/div&gt;
+            
+&lt;/div&gt;
+&lt;/div&gt;
+            
+  
+  &lt;/div&gt;
+              &lt;/div&gt;
+      &lt;div class="container"&gt;
+        &lt;div class="row"&gt;
+          &lt;div class="container-half col-md-6 col-lg-5"&gt;
+                  &lt;h1 class="field field--name-field-d-main-title field--type-string field--label-hidden"&gt;Car engines&lt;/h1&gt;
+
+
+                    &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;We produce a wide range of car engines for both: diesel and gasoline. We provide engines with low, medium power for cars and high power for sports vehicles.&lt;/p&gt;&lt;/div&gt;
+            
+  
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+
+        &lt;section id="paragraph-d_p_text_paged-403" class="wrapper-d_p_text_paged with-long-text"&gt;
+    &lt;div class="clearfix paragraph text-page paragraph--type--d-p-text-paged paragraph--view-mode--default"&gt;
+      &lt;div class="container"&gt;
+                  &lt;h2 class="field field--name-field-d-main-title field--type-string field--label-hidden"&gt;We are an expert in car engines&lt;/h2&gt;
+
+
+                    &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;We have over 20 years of experience in the production of engines for automotive industry.&lt;/p&gt;&lt;/div&gt;
+            
+              &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+      
+&lt;section id="paragraph-d_p_side_image-404" class="wrapper-d_p_side_image user-background-defined with-long-text theme-invert" style="background-color: #dddddd"&gt;
+  &lt;div class="clearfix paragraph d-p-side-image-banner paragraph--type--d-p-side-image paragraph--view-mode--default"&gt;
+    &lt;div class="image-side-left d-p-side-image-banner-wrapper clearfix position-relative"&gt;
+      &lt;div data-id="paragraph-d_p_side_image-404" class="d-image h-100 col-md-6"&gt;
+                    &lt;div class="d-media-background-wrapper"&gt;
+          
+
+                    &lt;div class="field field--name-field-d-media-background field--type-entity-reference field--label-hidden field__item"&gt;&lt;div&gt;
+  
+  
+
+                    &lt;div class="field field--name-field-media-image field--type-image field--label-hidden field__item"&gt;    &lt;picture&gt;
+                  &lt;source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_car_engine_centurion.jpg?itok=gBC0e-CV 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_car_engine_centurion.jpg?itok=YM1h15KQ 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_992/public/demo/d_demo_car_engine_centurion.jpg?itok=3QxAbEOZ 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_car_engine_centurion.jpg?itok=Tnp6uK0J 1x"&gt;&lt;/source&gt;
+                  
+  
+  
+&lt;img alt="Portfolio" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_car_engine_centurion.jpg?itok=gBC0e-CV" typeof="foaf:Image" /&gt;
+
+  &lt;/picture&gt;
+
+&lt;/div&gt;
+            
+&lt;/div&gt;
+&lt;/div&gt;
+            
+  
+  &lt;/div&gt;
+              &lt;/div&gt;
+      &lt;div class="container"&gt;
+        &lt;div class="row"&gt;
+          &lt;div class="container-half col-md-6"&gt;
+                  
+
+                    &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;h3&gt; Centurion V750 &lt;/h3&gt; &lt;p&gt;Excellent and powerful diesel engine for cars. A wide range of power. Designed and created by a team of experienced mechanics and engineers. Perfect for small city cars and large SUVs.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;1.4 L (1,360 cc) Euro 5 70-72 kW&lt;/li&gt; &lt;li&gt;1.6 L (1,598 cc) Euro 5 72-88 kW&lt;/li&gt; &lt;li&gt;1.6 L (1,598 cc) Euro 4 103-120 kW&lt;/li&gt; &lt;li&gt;1.6 L (1,598 cc) Euro 5 103-120 kW&lt;/li&gt; &lt;li&gt;1.6 L (1,598 cc) Euro 4 128-152 kW&lt;/li&gt; &lt;/ul&gt;&lt;/div&gt;
+            
+  
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+
+      
+
+  &lt;section id="paragraph-d_p_group_of_text_blocks-407" class="wrapper-d_p_group_of_text_blocks with-tiles theme-invert header-margin-none"&gt;
+    &lt;div class="clearfix paragraph d-p-group-of-text-blocks paragraph--type--d-p-group-of-text-blocks paragraph--view-mode--default"&gt;
+              &lt;div class="container d-p-group-of-text-blocks-header-wrapper"&gt;
+          &lt;h2 class="field field--name-field-d-main-title field--type-string field--label-hidden"&gt;Our services for car engines&lt;/h2&gt;
+
+        &lt;/div&gt;
+                              &lt;div class="d-p-tiles-wrapper container expandable-content"&gt;
+            &lt;section&gt;
+        &lt;div class="field field--name-field-d-p-tb-block-reference field--type-entity-reference-revisions field--label-hidden subparagraphs-wrapper single-boxes-wrapper row"&gt;
+              &lt;div class="single-box-wrapper list-item-wrapper col-sm-6"&gt;
+  &lt;section id="paragraph-d_p_single_text_block-405" class="wrapper-d_p_single_text_block with-long-text theme-invert"&gt;
+                  &lt;div class="clearfix paragraph d-p-text-block paragraph--type--d-p-single-text-block paragraph--view-mode--default"&gt;
+                    
+
+                    &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt; &lt;li&gt;Change the engine oil&lt;/li&gt; &lt;li&gt;Replace the oil filter&lt;/li&gt; &lt;li&gt;Replace the spark plugs&lt;/li&gt; &lt;/ul&gt;&lt;/div&gt;
+            
+  
+      
+          &lt;/div&gt;
+  &lt;/section&gt;
+&lt;/div&gt;
+              &lt;div class="single-box-wrapper list-item-wrapper col-sm-6"&gt;
+  &lt;section id="paragraph-d_p_single_text_block-406" class="wrapper-d_p_single_text_block with-long-text theme-invert"&gt;
+                  &lt;div class="clearfix paragraph d-p-text-block paragraph--type--d-p-single-text-block paragraph--view-mode--default"&gt;
+                    
+
+                    &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt; &lt;li&gt;Inspect and replace the timing belt&lt;/li&gt; &lt;li&gt;Check for any Error codes in the ECU&lt;/li&gt; &lt;li&gt;Use scan tool read trouble code&lt;/li&gt; &lt;/ul&gt;&lt;/div&gt;
+            
+  
+      
+          &lt;/div&gt;
+  &lt;/section&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+    &lt;/section&gt;
+
+          &lt;/div&gt;
+                            &lt;div class="container"&gt;
+          
+        &lt;/div&gt;
+          &lt;/div&gt;
+  &lt;/section&gt;
+
+      
+
+  &lt;section id="paragraph-d_p_group_of_text_blocks-411" class="wrapper-d_p_group_of_text_blocks full-width with-grid"&gt;
+    &lt;div class="clearfix paragraph d-p-group-of-text-blocks paragraph--type--d-p-group-of-text-blocks paragraph--view-mode--default"&gt;
+              &lt;div class="container d-p-group-of-text-blocks-header-wrapper"&gt;
+          &lt;h2 class="field field--name-field-d-main-title field--type-string field--label-hidden"&gt;Other products&lt;/h2&gt;
+
+        &lt;/div&gt;
+                              &lt;div class="d-p-tiles-wrapper container expandable-content"&gt;
+            &lt;section&gt;
+        &lt;div class="field field--name-field-d-p-tb-block-reference field--type-entity-reference-revisions field--label-hidden subparagraphs-wrapper single-boxes-wrapper row"&gt;
+              &lt;div class="col-sm-6 col-lg-4 single-box-wrapper list-item-wrapper"&gt;  &lt;div class="clearfix paragraph paragraph--type--d-p-node paragraph--view-mode--default"&gt;
+          
+
+                    &lt;div class="erd-list--d-small-box field field--name-field-d-node-reference field--type-entity-reference field--label-hidden field__item"&gt;
+&lt;div role="article" about="http://acadimexport.localhost/products/super-charged-engine-v12" class="small-box-wrapper clearfix"&gt;
+  &lt;div class="box-content-wrapper clearfix"&gt;
+    &lt;div class="box-image"&gt;
+        &lt;a href="http://acadimexport.localhost/products/super-charged-engine-v12"&gt;
+
+
+&lt;img src="http://acadimexport.localhost/sites/default/files/styles/small_box_image/public/demo/d_product_init_super-charged-engine-1.jpg?itok=Ozi3UjRT" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
+
+&lt;/a&gt;
+
+    &lt;/div&gt;
+    &lt;div class="box-text-content text-center"&gt;
+      &lt;a href="http://acadimexport.localhost/products/super-charged-engine-v12" class="link"&gt;
+        
+        &lt;h2 class="box-title"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Super Charged Engine v12&lt;/span&gt;
+&lt;/h2&gt;
+        
+      &lt;/a&gt;
+      &lt;a href="http://acadimexport.localhost/products/super-charged-engine-v12" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+            
+      &lt;/div&gt;
+&lt;/div&gt;
+              &lt;div class="col-sm-6 col-lg-4 single-box-wrapper list-item-wrapper"&gt;  &lt;div class="clearfix paragraph paragraph--type--d-p-node paragraph--view-mode--default"&gt;
+          
+
+                    &lt;div class="erd-list--d-small-box field field--name-field-d-node-reference field--type-entity-reference field--label-hidden field__item"&gt;
+&lt;div role="article" about="http://acadimexport.localhost/products/centurion-3000" class="small-box-wrapper clearfix"&gt;
+  &lt;div class="box-content-wrapper clearfix"&gt;
+    &lt;div class="box-image"&gt;
+        &lt;a href="http://acadimexport.localhost/products/centurion-3000"&gt;
+
+
+&lt;img src="http://acadimexport.localhost/sites/default/files/styles/small_box_image/public/demo/d_product_init_centurion-3000-1.jpg?itok=oxmesbQV" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
+
+&lt;/a&gt;
+
+    &lt;/div&gt;
+    &lt;div class="box-text-content text-center"&gt;
+      &lt;a href="http://acadimexport.localhost/products/centurion-3000" class="link"&gt;
+        
+        &lt;h2 class="box-title"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Centurion 3000&lt;/span&gt;
+&lt;/h2&gt;
+        
+      &lt;/a&gt;
+      &lt;a href="http://acadimexport.localhost/products/centurion-3000" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+            
+      &lt;/div&gt;
+&lt;/div&gt;
+              &lt;div class="col-sm-6 grid-row-end-item col-lg-4 single-box-wrapper list-item-wrapper"&gt;  &lt;div class="clearfix paragraph paragraph--type--d-p-node paragraph--view-mode--default"&gt;
+          
+
+                    &lt;div class="erd-list--d-small-box field field--name-field-d-node-reference field--type-entity-reference field--label-hidden field__item"&gt;
+&lt;div role="article" about="http://acadimexport.localhost/products/marine-xt-550" class="small-box-wrapper clearfix"&gt;
+  &lt;div class="box-content-wrapper clearfix"&gt;
+    &lt;div class="box-image"&gt;
+        &lt;a href="http://acadimexport.localhost/products/marine-xt-550"&gt;
+
+
+&lt;img src="http://acadimexport.localhost/sites/default/files/styles/small_box_image/public/demo/d_product_init_machine-xt-550-1.jpg?itok=D9xcJ9LC" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
+
+&lt;/a&gt;
+
+    &lt;/div&gt;
+    &lt;div class="box-text-content text-center"&gt;
+      &lt;a href="http://acadimexport.localhost/products/marine-xt-550" class="link"&gt;
+        
+        &lt;h2 class="box-title"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Marine-XT 550&lt;/span&gt;
+&lt;/h2&gt;
+        
+      &lt;/a&gt;
+      &lt;a href="http://acadimexport.localhost/products/marine-xt-550" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+            
+      &lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+    &lt;/section&gt;
+
+          &lt;/div&gt;
+                            &lt;div class="container"&gt;
+          
+
+                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="http://acadimexport.localhost/products" class="btn btn-primary mt-4"&gt;View All&lt;/a&gt;&lt;/div&gt;
+            
+        &lt;/div&gt;
+          &lt;/div&gt;
+  &lt;/section&gt;
+
+      
+
+    &lt;section id="paragraph-d_p_reference_content-412" class="wrapper-d_p_reference_content no-padding-top"&gt;
+        &lt;div class="clearfix paragraph d-p-reference-content paragraph--type--d-p-reference-content paragraph--view-mode--default"&gt;
+            &lt;div class="clearfix d-p-reference-content-wrapper"&gt;
+                &lt;h2 class="field field--name-field-d-main-title field--type-string field--label-visually_hidden container text-center"&gt;Related articles&lt;/h2&gt;
+
+
+
+    &lt;div class="field field--name-field-d-p-reference-content field--type-entity-reference field--label-visually_hidden"&gt;
+        &lt;div class="field__label visually-hidden"&gt;Reference content&lt;/div&gt;
+                &lt;div class="field field--name-field-d-p-reference-content field--type-entity-reference field--label-visually_hidden d-flex flex-wrap field--wrapper justify-content-between field__items"&gt;
+                                        &lt;div class="d-flex field__item--wrapper col-lg-3 col-sm-6 col-xs-12 field__item"&gt;
+
+&lt;article role="article" about="http://acadimexport.localhost/blog/centurion-v750-fastest-airplane-engine-planet-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
+    &lt;div class="d-flex flex-column box"&gt;
+                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="http://acadimexport.localhost/blog/centurion-v750-fastest-airplane-engine-planet-0"&gt;
+
+
+&lt;img width="320" height="240" alt="Mechanism" loading="lazy" class="lazyload image-style-gallery-thumbnail" data-src="/sites/default/files/styles/gallery_thumbnail/public/demo/d_demo_mechanism.jpg?itok=Hyo_0V5Q" typeof="foaf:Image" /&gt;
+
+&lt;/a&gt;
+&lt;/div&gt;
+      
+        &lt;div class="text-area"&gt;
+            &lt;h2 class="node__title"&gt;
+                &lt;a href="http://acadimexport.localhost/blog/centurion-v750-fastest-airplane-engine-planet-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Centurion V750 is the fastest airplane engine on the planet&lt;/span&gt;
+&lt;/a&gt;
+            &lt;/h2&gt;
+            
+
+                    &lt;div class="clearfix text-formatted field field--name-field-blog-teaser field--type-text-long field--label-hidden field__item"&gt;DrooplerEngines together with Airplanes Pro tested new aircraft engine Centurion V750 on Mojave desert in California, USA.&lt;/div&gt;
+            
+            &lt;a href="http://acadimexport.localhost/blog/centurion-v750-fastest-airplane-engine-planet-0" class="link"&gt;Learn more&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+&lt;/article&gt;
+&lt;/div&gt;
+                            &lt;div class="d-flex field__item--wrapper col-lg-3 col-sm-6 col-xs-12 field__item"&gt;
+
+&lt;article role="article" about="http://acadimexport.localhost/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
+    &lt;div class="d-flex flex-column box"&gt;
+                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="http://acadimexport.localhost/blog/abc-automotive-bought-10-000-engines-drooplerengines-0"&gt;
+
+
+&lt;img width="320" height="240" alt="New cars" loading="lazy" class="lazyload image-style-gallery-thumbnail" data-src="/sites/default/files/styles/gallery_thumbnail/public/demo/d_demo_new_cars.jpg?itok=20Dkow8z" typeof="foaf:Image" /&gt;
+
+&lt;/a&gt;
+&lt;/div&gt;
+      
+        &lt;div class="text-area"&gt;
+            &lt;h2 class="node__title"&gt;
+                &lt;a href="http://acadimexport.localhost/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;ABC Automotive bought 10 000 engines from DrooplerEngines&lt;/span&gt;
+&lt;/a&gt;
+            &lt;/h2&gt;
+            
+
+                    &lt;div class="clearfix text-formatted field field--name-field-blog-teaser field--type-text-long field--label-hidden field__item"&gt;ABC Automotive is world leader in car manufacturing. Our engines will be used in their new car models UMI 4S coupe.&lt;/div&gt;
+            
+            &lt;a href="http://acadimexport.localhost/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" class="link"&gt;Learn more&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+&lt;/article&gt;
+&lt;/div&gt;
+                            &lt;div class="d-flex field__item--wrapper col-lg-3 col-sm-6 col-xs-12 field__item"&gt;
+
+&lt;article role="article" about="http://acadimexport.localhost/blog/drooplerengines-automotive-expo-2019-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
+    &lt;div class="d-flex flex-column box"&gt;
+                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="http://acadimexport.localhost/blog/drooplerengines-automotive-expo-2019-0"&gt;
+
+
+&lt;img width="320" height="240" alt="Future car" loading="lazy" class="lazyload image-style-gallery-thumbnail" data-src="/sites/default/files/styles/gallery_thumbnail/public/demo/d_demo_future_car.jpg?itok=MtyGVGkt" typeof="foaf:Image" /&gt;
+
+&lt;/a&gt;
+&lt;/div&gt;
+      
+        &lt;div class="text-area"&gt;
+            &lt;h2 class="node__title"&gt;
+                &lt;a href="http://acadimexport.localhost/blog/drooplerengines-automotive-expo-2019-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;DrooplerEngines at Automotive Expo 2019&lt;/span&gt;
+&lt;/a&gt;
+            &lt;/h2&gt;
+            
+
+                    &lt;div class="clearfix text-formatted field field--name-field-blog-teaser field--type-text-long field--label-hidden field__item"&gt;In last week we presented our engines on the biggest expo in the Europe in Hannover, Germany.&lt;/div&gt;
+            
+            &lt;a href="http://acadimexport.localhost/blog/drooplerengines-automotive-expo-2019-0" class="link"&gt;Learn more&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+&lt;/article&gt;
+&lt;/div&gt;
+                            &lt;div class="d-flex field__item--wrapper col-lg-3 col-sm-6 col-xs-12 field__item"&gt;
+
+&lt;article role="article" about="http://acadimexport.localhost/blog/new-factory-location-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
+    &lt;div class="d-flex flex-column box"&gt;
+                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="http://acadimexport.localhost/blog/new-factory-location-0"&gt;
+
+
+&lt;img width="320" height="240" alt="Factory" loading="lazy" class="lazyload image-style-gallery-thumbnail" data-src="/sites/default/files/styles/gallery_thumbnail/public/demo/d_demo_factory.jpg?itok=RDm1wBIx" typeof="foaf:Image" /&gt;
+
+&lt;/a&gt;
+&lt;/div&gt;
+      
+        &lt;div class="text-area"&gt;
+            &lt;h2 class="node__title"&gt;
+                &lt;a href="http://acadimexport.localhost/blog/new-factory-location-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;New factory location&lt;/span&gt;
+&lt;/a&gt;
+            &lt;/h2&gt;
+            
+
+                    &lt;div class="clearfix text-formatted field field--name-field-blog-teaser field--type-text-long field--label-hidden field__item"&gt;Finally we have another factory. Factory is located in Radom in Poland. This location is well communicated with rest of the Europe.&lt;/div&gt;
+            
+            &lt;a href="http://acadimexport.localhost/blog/new-factory-location-0" class="link"&gt;Learn more&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+&lt;/article&gt;
+&lt;/div&gt;
+                                &lt;/div&gt;
+            &lt;/div&gt;
+
+  &lt;div class="field field--name-field-d-cta-link field--type-link field--label-visually_hidden container text-center"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Call To Action&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://acadimexport.localhost/blog" class="btn btn-primary mt-5"&gt;View all&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+      
+  &lt;section id="paragraph-d_p_banner-413" class="wrapper-d_p_banner with-long-text"&gt;
+    &lt;div class="clearfix paragraph d-p-banner paragraph--type--d-p-banner paragraph--view-mode--default"&gt;
+                &lt;div class="d-media-background-wrapper"&gt;
+          
+
+                    &lt;div class="field field--name-field-d-media-background field--type-entity-reference field--label-hidden field__item"&gt;&lt;div&gt;
+  
+  
+
+                    &lt;div class="field field--name-field-media-image field--type-image field--label-hidden field__item"&gt;    &lt;picture&gt;
+                  &lt;source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=C0600HGh 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=2uBS14Al 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_992/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=Uo78VznS 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=7WN8PJmx 1x"&gt;&lt;/source&gt;
+                  
+  
+  
+&lt;img alt="Car Engine" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=C0600HGh" typeof="foaf:Image" /&gt;
+
+  &lt;/picture&gt;
+
+&lt;/div&gt;
+            
+&lt;/div&gt;
+&lt;/div&gt;
+            
+  
+  &lt;/div&gt;
+            &lt;div class="content-wrapper"&gt;
+        &lt;div class="content container"&gt;
+                            &lt;h2 class="field field--name-field-d-main-title field--type-string field--label-hidden"&gt;IT'S TIME TO MAKE YOUR MOVE&lt;/h2&gt;
+
+
+                    &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p class="text-align-center"&gt;Contact our sales team to schedule product presentation.&lt;/p&gt;&lt;/div&gt;
+            
+
+                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="http://acadimexport.localhost/contact" class="btn btn-primary"&gt;CONTACT US&lt;/a&gt;&lt;/div&gt;
+            
+  
+                  &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+  &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Anónimo (no verificado)&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Lun, 29/06/2020 - 23:32&lt;/span&gt;
+</description>
+  <pubDate>Mon, 29 Jun 2020 21:32:59 +0000</pubDate>
+    <dc:creator>Anónimo</dc:creator>
+    <guid isPermaLink="false">59 at http://acadimexport.localhost</guid>
+    </item>
+<item>
+  <title>Careers</title>
+  <link>http://acadimexport.localhost/careers</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Careers&lt;/span&gt;
+&lt;div class="paragraph-sections field field--name-field-page-section field--type-entity-reference-revisions field--label-hidden"&gt;
+      
+
+&lt;section id="paragraph-d_p_side_embed-393" class="wrapper-d_p_side_embed with-long-text"&gt;
+  &lt;div class="clearfix paragraph container-fluid d-p-side-embed paragraph--type--d-p-side-embed paragraph--view-mode--default"&gt;
+    &lt;div class="clearfix d-p-side-embed-wrapper row embed-side-left"&gt;
+      &lt;div class="d-p-side-embed-embed col-md-6"&gt;
+        &lt;iframe allow="autoplay" width="560" height="315" src="https://www.youtube.com/embed/6yO16tVGC1w?showinfo=0&amp;rel=0&amp;modestbranding=1&amp;title=&amp;fs=0&amp;controls=0" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+      &lt;/div&gt;
+      &lt;div class="d-p-side-embed-content col-md-6 p-md-0"&gt;
+        &lt;div class="d-p-side-embed-content-fields"&gt;
+          &lt;h1 class="field field--name-field-d-main-title field--type-string field--label-hidden"&gt;Work with Us&lt;/h1&gt;
+
+
+                    &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;At Drooplengines, we employ over 2,000 experienced experts and engineers. We provide fantastic opportunities for professional development. Join our great Team today!&lt;/p&gt;&lt;/div&gt;
+            
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+
+        &lt;section id="paragraph-d_p_text_paged-394" class="wrapper-d_p_text_paged with-long-text"&gt;
+    &lt;div class="clearfix paragraph text-page paragraph--type--d-p-text-paged paragraph--view-mode--default"&gt;
+      &lt;div class="container"&gt;
+                  &lt;h2 class="field field--name-field-d-main-title field--type-string field--label-hidden"&gt;Job offers&lt;/h2&gt;
+
+
+                    &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p class="text-align-center"&gt;We constantly seek &lt;strong&gt;new talents.&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="text-align-center"&gt;Open aplications:&lt;/p&gt;
+
+&lt;table class="table table-striped"&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+            &lt;th&gt;Job title&lt;/th&gt;
+            &lt;th&gt;Location&lt;/th&gt;
+            &lt;th&gt;Ref. number&lt;/th&gt;
+            &lt;th&gt;&lt;/th&gt;
+        &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td scope="row"&gt;Engineer&lt;/td&gt;
+            &lt;td&gt;London&lt;/td&gt;
+            &lt;td&gt;138991&lt;/td&gt;
+            &lt;td&gt;&lt;a href="#"&gt; Apply &lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td scope="row"&gt;Engineer&lt;/td&gt;
+            &lt;td&gt;Berlin&lt;/td&gt;
+            &lt;td&gt;498403&lt;/td&gt;
+            &lt;td&gt;&lt;a href="#"&gt; Apply &lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td scope="row"&gt;Engine designer&lt;/td&gt;
+            &lt;td&gt;Berlin&lt;/td&gt;
+            &lt;td&gt;434324&lt;/td&gt;
+            &lt;td&gt;&lt;a href="#"&gt; Apply &lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td scope="row"&gt;Marketing Manager&lt;/td&gt;
+            &lt;td&gt;London&lt;/td&gt;
+            &lt;td&gt;234667&lt;/td&gt;
+            &lt;td&gt;&lt;a href="#"&gt; Apply &lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td scope="row"&gt;Sales Manager&lt;/td&gt;
+            &lt;td&gt;Paris&lt;/td&gt;
+            &lt;td&gt;453422&lt;/td&gt;
+            &lt;td&gt;&lt;a href="#"&gt; Apply &lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+            
+              &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+      
+&lt;section id="paragraph-d_p_group_of_counters-399" class="wrapper-d_p_group_of_counters"&gt;
+  &lt;div class="clearfix paragraph paragraph--type--d-p-group-of-counters paragraph--view-mode--default"&gt;
+    &lt;div data-id="paragraph-d_p_group_of_counters-399" class="d-p-counters"&gt;
+                &lt;div class="d-media-background-wrapper"&gt;
+          
+
+                    &lt;div class="field field--name-field-d-media-background field--type-entity-reference field--label-hidden field__item"&gt;&lt;div&gt;
+  
+  
+
+                    &lt;div class="field field--name-field-media-image field--type-image field--label-hidden field__item"&gt;  
+
+
+&lt;img width="1920" height="1280" alt="Abstract Background" loading="lazy" class="lazyload" data-src="/sites/default/files/demo/demo_bg_2.jpg" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+            
+&lt;/div&gt;
+&lt;/div&gt;
+            
+  
+  &lt;/div&gt;
+            &lt;div class="content-wrapper"&gt;
+        &lt;div class="content container"&gt;
+                            &lt;h2 class="field field--name-field-d-main-title field--type-string field--label-hidden"&gt;Our company in numbers&lt;/h2&gt;
+&lt;section&gt;
+        &lt;div class="field field--name-field-d-counter-reference field--type-entity-reference-revisions field--label-hidden subparagraphs-wrapper single-boxes-wrapper row"&gt;
+              &lt;div class="single-box-wrapper col-sm-3"&gt;  &lt;div class="clearfix paragraph paragraph--type--d-p-single-counter paragraph--view-mode--default"&gt;
+          
+  &lt;big class="field field--name-field-d-number field--type-integer field--label-hidden field__item" data-count="8"&gt;0&lt;/big&gt;
+
+  &lt;div class="field field--name-field-d-main-title field--type-string field--label-hidden field__item"&gt;Plants&lt;/div&gt;
+
+      &lt;/div&gt;
+&lt;/div&gt;
+              &lt;div class="single-box-wrapper col-sm-3"&gt;  &lt;div class="clearfix paragraph paragraph--type--d-p-single-counter paragraph--view-mode--default"&gt;
+          
+  &lt;big class="field field--name-field-d-number field--type-integer field--label-hidden field__item" data-count="21"&gt;0&lt;/big&gt;
+
+  &lt;div class="field field--name-field-d-main-title field--type-string field--label-hidden field__item"&gt;Offices worldwide&lt;/div&gt;
+
+      &lt;/div&gt;
+&lt;/div&gt;
+              &lt;div class="single-box-wrapper col-sm-3"&gt;  &lt;div class="clearfix paragraph paragraph--type--d-p-single-counter paragraph--view-mode--default"&gt;
+          
+  &lt;big class="field field--name-field-d-number field--type-integer field--label-hidden field__item" data-count="2000"&gt;0&lt;/big&gt;
+
+  &lt;div class="field field--name-field-d-main-title field--type-string field--label-hidden field__item"&gt;Employees&lt;/div&gt;
+
+      &lt;/div&gt;
+&lt;/div&gt;
+              &lt;div class="single-box-wrapper col-sm-3"&gt;  &lt;div class="clearfix paragraph paragraph--type--d-p-single-counter paragraph--view-mode--default"&gt;
+          
+  &lt;big class="field field--name-field-d-number field--type-integer field--label-hidden field__item" data-count="15000"&gt;0&lt;/big&gt;
+
+  &lt;div class="field field--name-field-d-main-title field--type-string field--label-hidden field__item"&gt;Products and parts&lt;/div&gt;
+
+      &lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+    &lt;/section&gt;
+
+  
+                  &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+
+        &lt;section id="paragraph-d_p_text_paged-400" class="wrapper-d_p_text_paged with-long-text"&gt;
+    &lt;div class="clearfix paragraph text-page paragraph--type--d-p-text-paged paragraph--view-mode--default"&gt;
+      &lt;div class="container"&gt;
+                  &lt;h2 class="field field--name-field-d-main-title field--type-string field--label-hidden"&gt;Stay up to date&lt;/h2&gt;
+
+
+                    &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;Get in touch for career or job-related questions, find company insights and updates or meet our employees.&lt;/p&gt;&lt;/div&gt;
+            
+
+                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="http://acadimexport.localhost/contact" class="btn btn-primary"&gt;CONTACT US&lt;/a&gt;&lt;/div&gt;
+            
+              &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+      
+  &lt;section id="paragraph-d_p_subscribe_file-401" class="wrapper-d_p_subscribe_file with-long-text"&gt;
+    &lt;div class="clearfix paragraph paragraph--type--d-p-subscribe-file paragraph--view-mode--default"&gt;
+      &lt;div data-id="paragraph-d_p_subscribe_file-401" class="subscribe_file"&gt;
+                    &lt;div class="d-media-background-wrapper"&gt;
+          
+
+                    &lt;div class="field field--name-field-d-media-background field--type-entity-reference field--label-hidden field__item"&gt;&lt;div&gt;
+  
+  
+
+                    &lt;div class="field field--name-field-media-image field--type-image field--label-hidden field__item"&gt;    &lt;picture&gt;
+                  &lt;source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_2000/public/demo/demo_educational_4.jpg?itok=CZqE_6CQ 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_1200/public/demo/demo_educational_4.jpg?itok=MZ1mL2zu 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_992/public/demo/demo_educational_4.jpg?itok=AUO36P4Q 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_768_banner/public/demo/demo_educational_4.jpg?itok=X0nLN-KJ 1x"&gt;&lt;/source&gt;
+                  
+  
+  
+&lt;img alt="Education" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/responsive_image_2000/public/demo/demo_educational_4.jpg?itok=CZqE_6CQ" typeof="foaf:Image" /&gt;
+
+  &lt;/picture&gt;
+
+&lt;/div&gt;
+            
+&lt;/div&gt;
+&lt;/div&gt;
+            
+  
+  &lt;/div&gt;
+                &lt;div class="content-wrapper"&gt;
+          &lt;div class="content container"&gt;
+                                &lt;h2 class="field field--name-field-d-main-title field--type-string field--label-visually_hidden"&gt;Download our HR brochure&lt;/h2&gt;
+
+
+      &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-visually_hidden"&gt;
+      &lt;div class="field__label visually-hidden"&gt;Texto largo&lt;/div&gt;
+                    &lt;div class="field__item"&gt;&lt;p&gt;Find out more about our HR Department and recruitment process.&lt;/p&gt;&lt;/div&gt;
+                &lt;/div&gt;
+  
+  
+              &lt;form class="d-p-subscribe-file-form" data-drupal-selector="d-p-subscribe-file-form-401" action="http://acadimexport.localhost/rss.xml" method="post" id="d-p-subscribe-file-form-401" accept-charset="UTF-8"&gt;
+  
+  &lt;fieldset class="js-form-item js-form-type-textfield form-type-textfield js-form-item-name form-item-name form-no-label form-group"&gt;
+          &lt;label for="edit-name" class="sr-only js-form-required form-required"&gt;Nombre&lt;/label&gt;
+                &lt;input placeholder="Enter your name" data-drupal-selector="edit-name" type="text" id="edit-name" name="name" value="" size="60" maxlength="128" class="form-text required form-control" required="required" aria-required="true" /&gt;
+
+                  &lt;/fieldset&gt;
+
+  &lt;fieldset class="js-form-item js-form-type-email form-type-email js-form-item-mail form-item-mail form-no-label form-group"&gt;
+          &lt;label for="edit-mail" class="sr-only js-form-required form-required"&gt;Correo electrónico&lt;/label&gt;
+                &lt;input placeholder="Enter your email to get download link" data-drupal-selector="edit-mail" type="email" id="edit-mail" name="mail" value="" size="60" maxlength="254" class="form-email required form-control" required="required" aria-required="true" /&gt;
+
+                  &lt;/fieldset&gt;
+&lt;input class="btn-secondary js-form-submit form-submit btn" data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="GET DOWNLOAD LINK" /&gt;
+
+  &lt;div class="js-form-item js-form-type-checkbox checkbox form-check js-form-item-consent-0 form-item-consent-0"&gt;
+            &lt;label class="form-check-label"&gt;
+            &lt;input data-drupal-selector="edit-consent-0" type="checkbox" id="edit-consent-0" name="consent_0" value="1" class="form-checkbox required form-check-input" required="required" aria-required="true" /&gt;
+               I accept the &lt;a href="#"&gt;Terms and Conditions&lt;/a&gt;
+          &lt;/label&gt;
+              &lt;/div&gt;
+&lt;input autocomplete="off" data-drupal-selector="form-rrkoc2lzjsf5-em26nda-cctjrd0hlggg4kppqnx2pa" type="hidden" name="form_build_id" value="form-RRKoC2lzjsf5-EM26nda-CCtjRD0hLggG4kPPqNX2PA" class="form-control" /&gt;
+&lt;input data-drupal-selector="edit-d-p-subscribe-file-form-401" type="hidden" name="form_id" value="d_p_subscribe_file_form_401" class="form-control" /&gt;
+
+&lt;/form&gt;
+
+              
+                      &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+  &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Anónimo (no verificado)&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Lun, 29/06/2020 - 23:32&lt;/span&gt;
+</description>
+  <pubDate>Mon, 29 Jun 2020 21:32:59 +0000</pubDate>
+    <dc:creator>Anónimo</dc:creator>
+    <guid isPermaLink="false">58 at http://acadimexport.localhost</guid>
+    </item>
+<item>
+  <title>About us</title>
+  <link>http://acadimexport.localhost/about-us</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;About us&lt;/span&gt;
+&lt;div class="paragraph-sections field field--name-field-page-section field--type-entity-reference-revisions field--label-hidden"&gt;
+      
+&lt;section id="paragraph-d_p_side_image-389" class="wrapper-d_p_side_image user-background-defined with-long-text" style="background-color: #ac0000"&gt;
+  &lt;div class="clearfix paragraph d-p-side-image-banner paragraph--type--d-p-side-image paragraph--view-mode--default"&gt;
+    &lt;div class="image-side-left d-p-side-image-banner-wrapper clearfix position-relative"&gt;
+      &lt;div data-id="paragraph-d_p_side_image-389" class="d-image h-100 col-md-6"&gt;
+                    &lt;div class="d-media-background-wrapper"&gt;
+          
+
+                    &lt;div class="field field--name-field-d-media-background field--type-entity-reference field--label-hidden field__item"&gt;&lt;div&gt;
+  
+  
+
+                    &lt;div class="field field--name-field-media-image field--type-image field--label-hidden field__item"&gt;    &lt;picture&gt;
+                  &lt;source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_flying_jetplane.jpg?itok=o-QELLgg 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_flying_jetplane.jpg?itok=UHOshbI2 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_992/public/demo/d_demo_flying_jetplane.jpg?itok=nOvFryNC 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_flying_jetplane.jpg?itok=FM8BTgfI 1x"&gt;&lt;/source&gt;
+                  
+  
+  
+&lt;img alt="Title / Subtitle" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_flying_jetplane.jpg?itok=o-QELLgg" typeof="foaf:Image" /&gt;
+
+  &lt;/picture&gt;
+
+&lt;/div&gt;
+            
+&lt;/div&gt;
+&lt;/div&gt;
+            
+  
+  &lt;/div&gt;
+              &lt;/div&gt;
+      &lt;div class="container"&gt;
+        &lt;div class="row"&gt;
+          &lt;div class="container-half col-md-6"&gt;
+                  &lt;h1 class="field field--name-field-d-main-title field--type-string field--label-hidden"&gt;Efficiency &amp; innovation&lt;/h1&gt;
+
+
+                    &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;We have over 20 years of experience in the production of high-class engines. We not only deliver products but also provide full technical support.&lt;/p&gt;&lt;/div&gt;
+            
+
+                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="http://acadimexport.localhost/contact" class="btn btn-secondary" target="_self"&gt;Contact us&lt;/a&gt;&lt;/div&gt;
+            
+  
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+
+        &lt;section id="paragraph-d_p_text_paged-390" class="wrapper-d_p_text_paged with-long-text"&gt;
+    &lt;div class="clearfix paragraph text-page paragraph--type--d-p-text-paged paragraph--view-mode--default"&gt;
+      &lt;div class="container"&gt;
+                  &lt;h2 class="field field--name-field-d-main-title field--type-string field--label-hidden"&gt;Our Strategy&lt;/h2&gt;
+
+
+                    &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;Our company's mission is to provide excellent and reliable products&lt;br /&gt;with high-quality customer service.&lt;/p&gt;&lt;/div&gt;
+            
+              &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+      
+&lt;section id="paragraph-d_p_side_image-391" class="wrapper-d_p_side_image user-background-defined with-long-text theme-invert" style="background-color: #e4e4e4"&gt;
+  &lt;div class="clearfix paragraph d-p-side-image-banner paragraph--type--d-p-side-image paragraph--view-mode--default"&gt;
+    &lt;div class="image-side-right d-p-side-image-banner-wrapper clearfix position-relative"&gt;
+      &lt;div data-id="paragraph-d_p_side_image-391" class="d-image h-100 col-md-6"&gt;
+                    &lt;div class="d-media-background-wrapper"&gt;
+          
+
+                    &lt;div class="field field--name-field-d-media-background field--type-entity-reference field--label-hidden field__item"&gt;&lt;div&gt;
+  
+  
+
+                    &lt;div class="field field--name-field-media-image field--type-image field--label-hidden field__item"&gt;    &lt;picture&gt;
+                  &lt;source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_laptop_typing.jpg?itok=ZeN2AVG7 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_laptop_typing.jpg?itok=swAoD5D1 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_992/public/demo/d_demo_laptop_typing.jpg?itok=rZhUkS6_ 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_laptop_typing.jpg?itok=8GEjHprx 1x"&gt;&lt;/source&gt;
+                  
+  
+  
+&lt;img alt="Laptop typing" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_laptop_typing.jpg?itok=ZeN2AVG7" typeof="foaf:Image" /&gt;
+
+  &lt;/picture&gt;
+
+&lt;/div&gt;
+            
+&lt;/div&gt;
+&lt;/div&gt;
+            
+  
+  &lt;/div&gt;
+              &lt;/div&gt;
+      &lt;div class="container"&gt;
+        &lt;div class="row"&gt;
+          &lt;div class="container-half col-md-6"&gt;
+                  &lt;h2 class="field field--name-field-d-main-title field--type-string field--label-hidden"&gt;Work with Us&lt;/h2&gt;
+
+
+                    &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;We are constantly expanding our team with new employees. We are looking for experienced product designers and engineers. Check our current job offers.&lt;/p&gt;&lt;/div&gt;
+            
+
+                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="http://acadimexport.localhost/careers" class="btn btn-primary" target="_self"&gt;Careers&lt;/a&gt;&lt;/div&gt;
+            
+  
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+
+      
+  &lt;section id="paragraph-d_p_banner-392" class="wrapper-d_p_banner"&gt;
+    &lt;div class="clearfix paragraph d-p-banner paragraph--type--d-p-banner paragraph--view-mode--default"&gt;
+                &lt;div class="d-media-background-wrapper"&gt;
+          
+
+                    &lt;div class="field field--name-field-d-media-background field--type-entity-reference field--label-hidden field__item"&gt;&lt;div&gt;
+  
+  
+
+                    &lt;div class="field field--name-field-media-image field--type-image field--label-hidden field__item"&gt;    &lt;picture&gt;
+                  &lt;source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_architecture2.jpg?itok=e5DsEJNf 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_architecture2.jpg?itok=bX27nvXz 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_992/public/demo/d_demo_architecture2.jpg?itok=Uw0sRqv7 1x"&gt;&lt;/source&gt;
+              &lt;source media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_architecture2.jpg?itok=4l_X6lr2 1x"&gt;&lt;/source&gt;
+                  
+  
+  
+&lt;img alt="Motor" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_architecture2.jpg?itok=e5DsEJNf" typeof="foaf:Image" /&gt;
+
+  &lt;/picture&gt;
+
+&lt;/div&gt;
+            
+&lt;/div&gt;
+&lt;/div&gt;
+            
+  
+  &lt;/div&gt;
+            &lt;div class="content-wrapper"&gt;
+        &lt;div class="content container"&gt;
+                            &lt;h2 class="field field--name-field-d-main-title field--type-string field--label-hidden"&gt;For investors&lt;/h2&gt;
+
+
+                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="http://acadimexport.localhost/investor-relations" class="btn btn-primary" target="_self"&gt;Read more&lt;/a&gt;&lt;/div&gt;
+            
+  
+                  &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+  &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Anónimo (no verificado)&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Lun, 29/06/2020 - 23:32&lt;/span&gt;
+</description>
+  <pubDate>Mon, 29 Jun 2020 21:32:59 +0000</pubDate>
+    <dc:creator>Anónimo</dc:creator>
+    <guid isPermaLink="false">57 at http://acadimexport.localhost</guid>
+    </item>
+
   </channel>
 </rss>
