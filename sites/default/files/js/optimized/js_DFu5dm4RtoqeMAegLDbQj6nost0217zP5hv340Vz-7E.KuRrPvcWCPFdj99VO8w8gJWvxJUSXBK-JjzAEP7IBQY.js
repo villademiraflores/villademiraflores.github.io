@@ -1,0 +1,1 @@
+!function(){"use strict";Drupal.behaviors.droopler_subtheme={attach:function(t,e){}}}(jQuery);

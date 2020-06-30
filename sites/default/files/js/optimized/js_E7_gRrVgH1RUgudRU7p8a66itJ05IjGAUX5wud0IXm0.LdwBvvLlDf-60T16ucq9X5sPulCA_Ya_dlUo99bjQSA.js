@@ -1,0 +1,2 @@
+(function(Drupal,Backbone,Modernizr){Drupal.contextual.RegionView=Backbone.View.extend({events:function events(){var mapping={mouseenter:function mouseenter(){this.model.set('regionIsHovered',true);},mouseleave:function mouseleave(){this.model.close().blur().set('regionIsHovered',false);}};if(Modernizr.touchevents){mapping={};}
+return mapping;},initialize:function initialize(){this.listenTo(this.model,'change:hasFocus',this.render);},render:function render(){this.$el.toggleClass('focus',this.model.get('hasFocus'));return this;}});})(Drupal,Backbone,Modernizr);

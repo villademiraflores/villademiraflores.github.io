@@ -1,0 +1,4 @@
+(function($,Drupal){var body=$('body');var geysir_toolbar=$('.toolbar-icon-geysir');if(localStorage.getItem('Drupal.geysir.toggle')!==null){geysir_toolbar.addClass('is-active');}
+else{$('div[data-geysir-paragraph-id]').removeClass('geysir-field-paragraph-wrapper');body.addClass('geysir-off');}
+geysir_toolbar.on('click',function(){body.toggleClass('geysir-off');if(body.hasClass('geysir-off')){$('div[data-geysir-paragraph-id]').removeClass('geysir-field-paragraph-wrapper');geysir_toolbar.removeClass('is-active');localStorage.removeItem('Drupal.geysir.toggle');}
+else{$('div[data-geysir-paragraph-id]').addClass('geysir-field-paragraph-wrapper');geysir_toolbar.addClass('is-active');localStorage.setItem('Drupal.geysir.toggle','on');}});})(jQuery,Drupal);

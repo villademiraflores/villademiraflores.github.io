@@ -1,0 +1,1 @@
+(function($,Drupal){'use strict';Drupal.behaviors.facetsFilter={attach:function(context){$('.js-facets-widget',context).once('js-facet-filter').on('facets_filter.facets',function(event,url){$('.js-facets-widget').trigger('facets_filtering');window.location=url;});}};})(jQuery,Drupal);
