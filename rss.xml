@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://acadimexport.localhost/">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://villademiraflores.github.io/">
   <channel>
     <title>Villa de Miraflores</title>
-    <link>http://acadimexport.localhost/</link>
+    <link>https://villademiraflores.github.io/</link>
     <description/>
     <language>es</language>
     
     <item>
   <title>Privacy Policy</title>
-  <link>http://acadimexport.localhost/privacy-policy</link>
+  <link>https://villademiraflores.github.io/privacy-policy</link>
   <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Privacy Policy&lt;/span&gt;
 &lt;div class="paragraph-sections field field--name-field-page-section field--type-entity-reference-revisions field--label-hidden"&gt;
         &lt;section id="paragraph-d_p_text_paged-464" class="wrapper-d_p_text_paged with-long-text"&gt;
@@ -29,11 +29,11 @@
 </description>
   <pubDate>Mon, 29 Jun 2020 21:32:59 +0000</pubDate>
     <dc:creator>Anónimo</dc:creator>
-    <guid isPermaLink="false">66 at http://acadimexport.localhost</guid>
+    <guid isPermaLink="false">66 at https://villademiraflores.github.io</guid>
     </item>
 <item>
   <title>Terms of Service</title>
-  <link>http://acadimexport.localhost/terms-of-service</link>
+  <link>https://villademiraflores.github.io/terms-of-service</link>
   <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Terms of Service&lt;/span&gt;
 &lt;div class="paragraph-sections field field--name-field-page-section field--type-entity-reference-revisions field--label-hidden"&gt;
         &lt;section id="paragraph-d_p_text_paged-463" class="wrapper-d_p_text_paged with-long-text"&gt;
@@ -54,11 +54,11 @@
 </description>
   <pubDate>Mon, 29 Jun 2020 21:32:59 +0000</pubDate>
     <dc:creator>Anónimo</dc:creator>
-    <guid isPermaLink="false">65 at http://acadimexport.localhost</guid>
+    <guid isPermaLink="false">65 at https://villademiraflores.github.io</guid>
     </item>
 <item>
   <title>GDPR</title>
-  <link>http://acadimexport.localhost/gdpr</link>
+  <link>https://villademiraflores.github.io/gdpr</link>
   <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;GDPR&lt;/span&gt;
 &lt;div class="paragraph-sections field field--name-field-page-section field--type-entity-reference-revisions field--label-hidden"&gt;
         &lt;section id="paragraph-d_p_text_paged-462" class="wrapper-d_p_text_paged with-long-text"&gt;
@@ -79,11 +79,11 @@
 </description>
   <pubDate>Mon, 29 Jun 2020 21:32:59 +0000</pubDate>
     <dc:creator>Anónimo</dc:creator>
-    <guid isPermaLink="false">64 at http://acadimexport.localhost</guid>
+    <guid isPermaLink="false">64 at https://villademiraflores.github.io</guid>
     </item>
 <item>
   <title>Aircraft Engines</title>
-  <link>http://acadimexport.localhost/aircraft-engines</link>
+  <link>https://villademiraflores.github.io/aircraft-engines</link>
   <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Aircraft Engines&lt;/span&gt;
 &lt;div class="paragraph-sections field field--name-field-page-section field--type-entity-reference-revisions field--label-hidden"&gt;
       
@@ -99,14 +99,14 @@
   
 
                     &lt;div class="field field--name-field-media-image field--type-image field--label-hidden field__item"&gt;    &lt;picture&gt;
-                  &lt;source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_airplane_3.jpg?itok=HN8Z-aHk 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_engine_airplane_3.jpg?itok=IzpwGI6j 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_992/public/demo/d_demo_engine_airplane_3.jpg?itok=GIjJpzxp 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_engine_airplane_3.jpg?itok=GOsnkbpO 1x"&gt;&lt;/source&gt;
+                  &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_airplane_3.jpg?itok=HN8Z-aHk 1x" media="all and (min-width: 75em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_engine_airplane_3.jpg?itok=IzpwGI6j 1x" media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_992/public/demo/d_demo_engine_airplane_3.jpg?itok=GIjJpzxp 1x" media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_engine_airplane_3.jpg?itok=GOsnkbpO 1x" media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg"&gt;&lt;/source&gt;
                   
   
   
-&lt;img alt="Airplane" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_airplane_3.jpg?itok=HN8Z-aHk" typeof="foaf:Image" /&gt;
+&lt;img src="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_airplane_3.jpg?itok=HN8Z-aHk" alt="Airplane" typeof="foaf:Image" /&gt;
 
   &lt;/picture&gt;
 
@@ -159,14 +159,14 @@
   
 
                     &lt;div class="field field--name-field-media-image field--type-image field--label-hidden field__item"&gt;    &lt;picture&gt;
-                  &lt;source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_airplane_2.jpg?itok=6YVnoVi7 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_engine_airplane_2.jpg?itok=ToGD7E7R 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_992/public/demo/d_demo_engine_airplane_2.jpg?itok=pAcjBkz9 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_engine_airplane_2.jpg?itok=DX66Uuw9 1x"&gt;&lt;/source&gt;
+                  &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_airplane_2.jpg?itok=6YVnoVi7 1x" media="all and (min-width: 75em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_engine_airplane_2.jpg?itok=ToGD7E7R 1x" media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_992/public/demo/d_demo_engine_airplane_2.jpg?itok=pAcjBkz9 1x" media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_engine_airplane_2.jpg?itok=DX66Uuw9 1x" media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg"&gt;&lt;/source&gt;
                   
   
   
-&lt;img alt="Event 3" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_airplane_2.jpg?itok=6YVnoVi7" typeof="foaf:Image" /&gt;
+&lt;img src="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_airplane_2.jpg?itok=6YVnoVi7" alt="Event 3" typeof="foaf:Image" /&gt;
 
   &lt;/picture&gt;
 
@@ -253,25 +253,25 @@
           
 
                     &lt;div class="erd-list--d-small-box field field--name-field-d-node-reference field--type-entity-reference field--label-hidden field__item"&gt;
-&lt;div role="article" about="http://acadimexport.localhost/products/super-charged-engine-v12" class="small-box-wrapper clearfix"&gt;
+&lt;div role="article" about="https://villademiraflores.github.io/products/super-charged-engine-v12" class="small-box-wrapper clearfix"&gt;
   &lt;div class="box-content-wrapper clearfix"&gt;
     &lt;div class="box-image"&gt;
-        &lt;a href="http://acadimexport.localhost/products/super-charged-engine-v12"&gt;
+        &lt;a href="https://villademiraflores.github.io/products/super-charged-engine-v12"&gt;
 
 
-&lt;img src="http://acadimexport.localhost/sites/default/files/styles/small_box_image/public/demo/d_product_init_super-charged-engine-1.jpg?itok=Ozi3UjRT" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
+&lt;img src="https://villademiraflores.github.io/sites/default/files/styles/small_box_image/public/demo/d_product_init_super-charged-engine-1.jpg?itok=Ozi3UjRT" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
 
 &lt;/a&gt;
 
     &lt;/div&gt;
     &lt;div class="box-text-content text-center"&gt;
-      &lt;a href="http://acadimexport.localhost/products/super-charged-engine-v12" class="link"&gt;
+      &lt;a href="https://villademiraflores.github.io/products/super-charged-engine-v12" class="link"&gt;
         
         &lt;h2 class="box-title"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Super Charged Engine v12&lt;/span&gt;
 &lt;/h2&gt;
         
       &lt;/a&gt;
-      &lt;a href="http://acadimexport.localhost/products/super-charged-engine-v12" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
+      &lt;a href="https://villademiraflores.github.io/products/super-charged-engine-v12" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -283,25 +283,25 @@
           
 
                     &lt;div class="erd-list--d-small-box field field--name-field-d-node-reference field--type-entity-reference field--label-hidden field__item"&gt;
-&lt;div role="article" about="http://acadimexport.localhost/products/centurion-3000" class="small-box-wrapper clearfix"&gt;
+&lt;div role="article" about="https://villademiraflores.github.io/products/centurion-3000" class="small-box-wrapper clearfix"&gt;
   &lt;div class="box-content-wrapper clearfix"&gt;
     &lt;div class="box-image"&gt;
-        &lt;a href="http://acadimexport.localhost/products/centurion-3000"&gt;
+        &lt;a href="https://villademiraflores.github.io/products/centurion-3000"&gt;
 
 
-&lt;img src="http://acadimexport.localhost/sites/default/files/styles/small_box_image/public/demo/d_product_init_centurion-3000-1.jpg?itok=oxmesbQV" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
+&lt;img src="https://villademiraflores.github.io/sites/default/files/styles/small_box_image/public/demo/d_product_init_centurion-3000-1.jpg?itok=oxmesbQV" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
 
 &lt;/a&gt;
 
     &lt;/div&gt;
     &lt;div class="box-text-content text-center"&gt;
-      &lt;a href="http://acadimexport.localhost/products/centurion-3000" class="link"&gt;
+      &lt;a href="https://villademiraflores.github.io/products/centurion-3000" class="link"&gt;
         
         &lt;h2 class="box-title"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Centurion 3000&lt;/span&gt;
 &lt;/h2&gt;
         
       &lt;/a&gt;
-      &lt;a href="http://acadimexport.localhost/products/centurion-3000" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
+      &lt;a href="https://villademiraflores.github.io/products/centurion-3000" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -313,25 +313,25 @@
           
 
                     &lt;div class="erd-list--d-small-box field field--name-field-d-node-reference field--type-entity-reference field--label-hidden field__item"&gt;
-&lt;div role="article" about="http://acadimexport.localhost/products/marine-xt-550" class="small-box-wrapper clearfix"&gt;
+&lt;div role="article" about="https://villademiraflores.github.io/products/marine-xt-550" class="small-box-wrapper clearfix"&gt;
   &lt;div class="box-content-wrapper clearfix"&gt;
     &lt;div class="box-image"&gt;
-        &lt;a href="http://acadimexport.localhost/products/marine-xt-550"&gt;
+        &lt;a href="https://villademiraflores.github.io/products/marine-xt-550"&gt;
 
 
-&lt;img src="http://acadimexport.localhost/sites/default/files/styles/small_box_image/public/demo/d_product_init_machine-xt-550-1.jpg?itok=D9xcJ9LC" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
+&lt;img src="https://villademiraflores.github.io/sites/default/files/styles/small_box_image/public/demo/d_product_init_machine-xt-550-1.jpg?itok=D9xcJ9LC" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
 
 &lt;/a&gt;
 
     &lt;/div&gt;
     &lt;div class="box-text-content text-center"&gt;
-      &lt;a href="http://acadimexport.localhost/products/marine-xt-550" class="link"&gt;
+      &lt;a href="https://villademiraflores.github.io/products/marine-xt-550" class="link"&gt;
         
         &lt;h2 class="box-title"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Marine-XT 550&lt;/span&gt;
 &lt;/h2&gt;
         
       &lt;/a&gt;
-      &lt;a href="http://acadimexport.localhost/products/marine-xt-550" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
+      &lt;a href="https://villademiraflores.github.io/products/marine-xt-550" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -346,7 +346,7 @@
                             &lt;div class="container"&gt;
           
 
-                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="http://acadimexport.localhost/products" class="btn btn-primary mt-4"&gt;View All&lt;/a&gt;&lt;/div&gt;
+                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="https://villademiraflores.github.io/products" class="btn btn-primary mt-4"&gt;View All&lt;/a&gt;&lt;/div&gt;
             
         &lt;/div&gt;
           &lt;/div&gt;
@@ -366,9 +366,9 @@
                 &lt;div class="field field--name-field-d-p-reference-content field--type-entity-reference field--label-visually_hidden d-flex flex-wrap field--wrapper justify-content-between field__items"&gt;
                                         &lt;div class="d-flex field__item--wrapper col-lg-3 col-sm-6 col-xs-12 field__item"&gt;
 
-&lt;article role="article" about="http://acadimexport.localhost/blog/centurion-v750-fastest-airplane-engine-planet-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
+&lt;article role="article" about="https://villademiraflores.github.io/blog/centurion-v750-fastest-airplane-engine-planet-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
     &lt;div class="d-flex flex-column box"&gt;
-                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="http://acadimexport.localhost/blog/centurion-v750-fastest-airplane-engine-planet-0"&gt;
+                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="https://villademiraflores.github.io/blog/centurion-v750-fastest-airplane-engine-planet-0"&gt;
 
 
 &lt;img width="320" height="240" alt="Mechanism" loading="lazy" class="lazyload image-style-gallery-thumbnail" data-src="/sites/default/files/styles/gallery_thumbnail/public/demo/d_demo_mechanism.jpg?itok=Hyo_0V5Q" typeof="foaf:Image" /&gt;
@@ -378,14 +378,14 @@
       
         &lt;div class="text-area"&gt;
             &lt;h2 class="node__title"&gt;
-                &lt;a href="http://acadimexport.localhost/blog/centurion-v750-fastest-airplane-engine-planet-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Centurion V750 is the fastest airplane engine on the planet&lt;/span&gt;
+                &lt;a href="https://villademiraflores.github.io/blog/centurion-v750-fastest-airplane-engine-planet-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Centurion V750 is the fastest airplane engine on the planet&lt;/span&gt;
 &lt;/a&gt;
             &lt;/h2&gt;
             
 
                     &lt;div class="clearfix text-formatted field field--name-field-blog-teaser field--type-text-long field--label-hidden field__item"&gt;DrooplerEngines together with Airplanes Pro tested new aircraft engine Centurion V750 on Mojave desert in California, USA.&lt;/div&gt;
             
-            &lt;a href="http://acadimexport.localhost/blog/centurion-v750-fastest-airplane-engine-planet-0" class="link"&gt;Learn more&lt;/a&gt;
+            &lt;a href="https://villademiraflores.github.io/blog/centurion-v750-fastest-airplane-engine-planet-0" class="link"&gt;Learn more&lt;/a&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 
@@ -393,9 +393,9 @@
 &lt;/div&gt;
                             &lt;div class="d-flex field__item--wrapper col-lg-3 col-sm-6 col-xs-12 field__item"&gt;
 
-&lt;article role="article" about="http://acadimexport.localhost/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
+&lt;article role="article" about="https://villademiraflores.github.io/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
     &lt;div class="d-flex flex-column box"&gt;
-                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="http://acadimexport.localhost/blog/abc-automotive-bought-10-000-engines-drooplerengines-0"&gt;
+                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="https://villademiraflores.github.io/blog/abc-automotive-bought-10-000-engines-drooplerengines-0"&gt;
 
 
 &lt;img width="320" height="240" alt="New cars" loading="lazy" class="lazyload image-style-gallery-thumbnail" data-src="/sites/default/files/styles/gallery_thumbnail/public/demo/d_demo_new_cars.jpg?itok=20Dkow8z" typeof="foaf:Image" /&gt;
@@ -405,14 +405,14 @@
       
         &lt;div class="text-area"&gt;
             &lt;h2 class="node__title"&gt;
-                &lt;a href="http://acadimexport.localhost/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;ABC Automotive bought 10 000 engines from DrooplerEngines&lt;/span&gt;
+                &lt;a href="https://villademiraflores.github.io/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;ABC Automotive bought 10 000 engines from DrooplerEngines&lt;/span&gt;
 &lt;/a&gt;
             &lt;/h2&gt;
             
 
                     &lt;div class="clearfix text-formatted field field--name-field-blog-teaser field--type-text-long field--label-hidden field__item"&gt;ABC Automotive is world leader in car manufacturing. Our engines will be used in their new car models UMI 4S coupe.&lt;/div&gt;
             
-            &lt;a href="http://acadimexport.localhost/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" class="link"&gt;Learn more&lt;/a&gt;
+            &lt;a href="https://villademiraflores.github.io/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" class="link"&gt;Learn more&lt;/a&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 
@@ -420,9 +420,9 @@
 &lt;/div&gt;
                             &lt;div class="d-flex field__item--wrapper col-lg-3 col-sm-6 col-xs-12 field__item"&gt;
 
-&lt;article role="article" about="http://acadimexport.localhost/blog/drooplerengines-automotive-expo-2019-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
+&lt;article role="article" about="https://villademiraflores.github.io/blog/drooplerengines-automotive-expo-2019-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
     &lt;div class="d-flex flex-column box"&gt;
-                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="http://acadimexport.localhost/blog/drooplerengines-automotive-expo-2019-0"&gt;
+                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="https://villademiraflores.github.io/blog/drooplerengines-automotive-expo-2019-0"&gt;
 
 
 &lt;img width="320" height="240" alt="Future car" loading="lazy" class="lazyload image-style-gallery-thumbnail" data-src="/sites/default/files/styles/gallery_thumbnail/public/demo/d_demo_future_car.jpg?itok=MtyGVGkt" typeof="foaf:Image" /&gt;
@@ -432,14 +432,14 @@
       
         &lt;div class="text-area"&gt;
             &lt;h2 class="node__title"&gt;
-                &lt;a href="http://acadimexport.localhost/blog/drooplerengines-automotive-expo-2019-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;DrooplerEngines at Automotive Expo 2019&lt;/span&gt;
+                &lt;a href="https://villademiraflores.github.io/blog/drooplerengines-automotive-expo-2019-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;DrooplerEngines at Automotive Expo 2019&lt;/span&gt;
 &lt;/a&gt;
             &lt;/h2&gt;
             
 
                     &lt;div class="clearfix text-formatted field field--name-field-blog-teaser field--type-text-long field--label-hidden field__item"&gt;In last week we presented our engines on the biggest expo in the Europe in Hannover, Germany.&lt;/div&gt;
             
-            &lt;a href="http://acadimexport.localhost/blog/drooplerengines-automotive-expo-2019-0" class="link"&gt;Learn more&lt;/a&gt;
+            &lt;a href="https://villademiraflores.github.io/blog/drooplerengines-automotive-expo-2019-0" class="link"&gt;Learn more&lt;/a&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 
@@ -447,9 +447,9 @@
 &lt;/div&gt;
                             &lt;div class="d-flex field__item--wrapper col-lg-3 col-sm-6 col-xs-12 field__item"&gt;
 
-&lt;article role="article" about="http://acadimexport.localhost/blog/new-factory-location-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
+&lt;article role="article" about="https://villademiraflores.github.io/blog/new-factory-location-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
     &lt;div class="d-flex flex-column box"&gt;
-                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="http://acadimexport.localhost/blog/new-factory-location-0"&gt;
+                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="https://villademiraflores.github.io/blog/new-factory-location-0"&gt;
 
 
 &lt;img width="320" height="240" alt="Factory" loading="lazy" class="lazyload image-style-gallery-thumbnail" data-src="/sites/default/files/styles/gallery_thumbnail/public/demo/d_demo_factory.jpg?itok=RDm1wBIx" typeof="foaf:Image" /&gt;
@@ -459,14 +459,14 @@
       
         &lt;div class="text-area"&gt;
             &lt;h2 class="node__title"&gt;
-                &lt;a href="http://acadimexport.localhost/blog/new-factory-location-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;New factory location&lt;/span&gt;
+                &lt;a href="https://villademiraflores.github.io/blog/new-factory-location-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;New factory location&lt;/span&gt;
 &lt;/a&gt;
             &lt;/h2&gt;
             
 
                     &lt;div class="clearfix text-formatted field field--name-field-blog-teaser field--type-text-long field--label-hidden field__item"&gt;Finally we have another factory. Factory is located in Radom in Poland. This location is well communicated with rest of the Europe.&lt;/div&gt;
             
-            &lt;a href="http://acadimexport.localhost/blog/new-factory-location-0" class="link"&gt;Learn more&lt;/a&gt;
+            &lt;a href="https://villademiraflores.github.io/blog/new-factory-location-0" class="link"&gt;Learn more&lt;/a&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 
@@ -477,7 +477,7 @@
 
   &lt;div class="field field--name-field-d-cta-link field--type-link field--label-visually_hidden container text-center"&gt;
     &lt;div class="field__label visually-hidden"&gt;Call To Action&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://acadimexport.localhost/blog" class="btn btn-primary mt-5"&gt;View all&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://villademiraflores.github.io/blog" class="btn btn-primary mt-5"&gt;View all&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
             &lt;/div&gt;
@@ -495,14 +495,14 @@
   
 
                     &lt;div class="field field--name-field-media-image field--type-image field--label-hidden field__item"&gt;    &lt;picture&gt;
-                  &lt;source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_ad_hoc_enginge_repairs_2.jpg?itok=k2JbnaqK 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_ad_hoc_enginge_repairs_2.jpg?itok=jD7R8NeR 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_992/public/demo/d_demo_ad_hoc_enginge_repairs_2.jpg?itok=va-ufEjH 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_ad_hoc_enginge_repairs_2.jpg?itok=tdLBaSoX 1x"&gt;&lt;/source&gt;
+                  &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_ad_hoc_enginge_repairs_2.jpg?itok=k2JbnaqK 1x" media="all and (min-width: 75em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_ad_hoc_enginge_repairs_2.jpg?itok=jD7R8NeR 1x" media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_992/public/demo/d_demo_ad_hoc_enginge_repairs_2.jpg?itok=va-ufEjH 1x" media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_ad_hoc_enginge_repairs_2.jpg?itok=tdLBaSoX 1x" media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg"&gt;&lt;/source&gt;
                   
   
   
-&lt;img alt="Engine" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_ad_hoc_enginge_repairs_2.jpg?itok=k2JbnaqK" typeof="foaf:Image" /&gt;
+&lt;img src="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_ad_hoc_enginge_repairs_2.jpg?itok=k2JbnaqK" alt="Engine" typeof="foaf:Image" /&gt;
 
   &lt;/picture&gt;
 
@@ -521,7 +521,7 @@
                     &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p class="text-align-center"&gt;Contact our sales team to schedule product presentation.&lt;/p&gt;&lt;/div&gt;
             
 
-                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="http://acadimexport.localhost/contact" class="btn btn-primary"&gt;CONTACT US&lt;/a&gt;&lt;/div&gt;
+                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="https://villademiraflores.github.io/contact" class="btn btn-primary"&gt;CONTACT US&lt;/a&gt;&lt;/div&gt;
             
   
                   &lt;/div&gt;
@@ -535,11 +535,11 @@
 </description>
   <pubDate>Mon, 29 Jun 2020 21:32:59 +0000</pubDate>
     <dc:creator>Anónimo</dc:creator>
-    <guid isPermaLink="false">63 at http://acadimexport.localhost</guid>
+    <guid isPermaLink="false">63 at https://villademiraflores.github.io</guid>
     </item>
 <item>
   <title>Boat Engines</title>
-  <link>http://acadimexport.localhost/boat-engines</link>
+  <link>https://villademiraflores.github.io/boat-engines</link>
   <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Boat Engines&lt;/span&gt;
 &lt;div class="paragraph-sections field field--name-field-page-section field--type-entity-reference-revisions field--label-hidden"&gt;
       
@@ -555,14 +555,14 @@
   
 
                     &lt;div class="field field--name-field-media-image field--type-image field--label-hidden field__item"&gt;    &lt;picture&gt;
-                  &lt;source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_boat_1.jpg?itok=wV1qF0u6 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_engine_boat_1.jpg?itok=Q6pFkBqp 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_992/public/demo/d_demo_engine_boat_1.jpg?itok=tG8mT9zW 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_engine_boat_1.jpg?itok=dQlZj4DE 1x"&gt;&lt;/source&gt;
+                  &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_boat_1.jpg?itok=wV1qF0u6 1x" media="all and (min-width: 75em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_engine_boat_1.jpg?itok=Q6pFkBqp 1x" media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_992/public/demo/d_demo_engine_boat_1.jpg?itok=tG8mT9zW 1x" media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_engine_boat_1.jpg?itok=dQlZj4DE 1x" media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg"&gt;&lt;/source&gt;
                   
   
   
-&lt;img alt="Event 3" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_boat_1.jpg?itok=wV1qF0u6" typeof="foaf:Image" /&gt;
+&lt;img src="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_boat_1.jpg?itok=wV1qF0u6" alt="Event 3" typeof="foaf:Image" /&gt;
 
   &lt;/picture&gt;
 
@@ -615,14 +615,14 @@
   
 
                     &lt;div class="field field--name-field-media-image field--type-image field--label-hidden field__item"&gt;    &lt;picture&gt;
-                  &lt;source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_boat_2.jpg?itok=VjcW_tjB 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_engine_boat_2.jpg?itok=4wRnWYmm 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_992/public/demo/d_demo_engine_boat_2.jpg?itok=dxF2eosq 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_engine_boat_2.jpg?itok=wOm0QL48 1x"&gt;&lt;/source&gt;
+                  &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_boat_2.jpg?itok=VjcW_tjB 1x" media="all and (min-width: 75em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_engine_boat_2.jpg?itok=4wRnWYmm 1x" media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_992/public/demo/d_demo_engine_boat_2.jpg?itok=dxF2eosq 1x" media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_engine_boat_2.jpg?itok=wOm0QL48 1x" media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg"&gt;&lt;/source&gt;
                   
   
   
-&lt;img alt="Boat engine" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_boat_2.jpg?itok=VjcW_tjB" typeof="foaf:Image" /&gt;
+&lt;img src="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_boat_2.jpg?itok=VjcW_tjB" alt="Boat engine" typeof="foaf:Image" /&gt;
 
   &lt;/picture&gt;
 
@@ -709,25 +709,25 @@
           
 
                     &lt;div class="erd-list--d-small-box field field--name-field-d-node-reference field--type-entity-reference field--label-hidden field__item"&gt;
-&lt;div role="article" about="http://acadimexport.localhost/products/super-charged-engine-v12" class="small-box-wrapper clearfix"&gt;
+&lt;div role="article" about="https://villademiraflores.github.io/products/super-charged-engine-v12" class="small-box-wrapper clearfix"&gt;
   &lt;div class="box-content-wrapper clearfix"&gt;
     &lt;div class="box-image"&gt;
-        &lt;a href="http://acadimexport.localhost/products/super-charged-engine-v12"&gt;
+        &lt;a href="https://villademiraflores.github.io/products/super-charged-engine-v12"&gt;
 
 
-&lt;img src="http://acadimexport.localhost/sites/default/files/styles/small_box_image/public/demo/d_product_init_super-charged-engine-1.jpg?itok=Ozi3UjRT" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
+&lt;img src="https://villademiraflores.github.io/sites/default/files/styles/small_box_image/public/demo/d_product_init_super-charged-engine-1.jpg?itok=Ozi3UjRT" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
 
 &lt;/a&gt;
 
     &lt;/div&gt;
     &lt;div class="box-text-content text-center"&gt;
-      &lt;a href="http://acadimexport.localhost/products/super-charged-engine-v12" class="link"&gt;
+      &lt;a href="https://villademiraflores.github.io/products/super-charged-engine-v12" class="link"&gt;
         
         &lt;h2 class="box-title"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Super Charged Engine v12&lt;/span&gt;
 &lt;/h2&gt;
         
       &lt;/a&gt;
-      &lt;a href="http://acadimexport.localhost/products/super-charged-engine-v12" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
+      &lt;a href="https://villademiraflores.github.io/products/super-charged-engine-v12" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -739,25 +739,25 @@
           
 
                     &lt;div class="erd-list--d-small-box field field--name-field-d-node-reference field--type-entity-reference field--label-hidden field__item"&gt;
-&lt;div role="article" about="http://acadimexport.localhost/products/centurion-3000" class="small-box-wrapper clearfix"&gt;
+&lt;div role="article" about="https://villademiraflores.github.io/products/centurion-3000" class="small-box-wrapper clearfix"&gt;
   &lt;div class="box-content-wrapper clearfix"&gt;
     &lt;div class="box-image"&gt;
-        &lt;a href="http://acadimexport.localhost/products/centurion-3000"&gt;
+        &lt;a href="https://villademiraflores.github.io/products/centurion-3000"&gt;
 
 
-&lt;img src="http://acadimexport.localhost/sites/default/files/styles/small_box_image/public/demo/d_product_init_centurion-3000-1.jpg?itok=oxmesbQV" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
+&lt;img src="https://villademiraflores.github.io/sites/default/files/styles/small_box_image/public/demo/d_product_init_centurion-3000-1.jpg?itok=oxmesbQV" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
 
 &lt;/a&gt;
 
     &lt;/div&gt;
     &lt;div class="box-text-content text-center"&gt;
-      &lt;a href="http://acadimexport.localhost/products/centurion-3000" class="link"&gt;
+      &lt;a href="https://villademiraflores.github.io/products/centurion-3000" class="link"&gt;
         
         &lt;h2 class="box-title"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Centurion 3000&lt;/span&gt;
 &lt;/h2&gt;
         
       &lt;/a&gt;
-      &lt;a href="http://acadimexport.localhost/products/centurion-3000" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
+      &lt;a href="https://villademiraflores.github.io/products/centurion-3000" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -769,25 +769,25 @@
           
 
                     &lt;div class="erd-list--d-small-box field field--name-field-d-node-reference field--type-entity-reference field--label-hidden field__item"&gt;
-&lt;div role="article" about="http://acadimexport.localhost/products/marine-xt-550" class="small-box-wrapper clearfix"&gt;
+&lt;div role="article" about="https://villademiraflores.github.io/products/marine-xt-550" class="small-box-wrapper clearfix"&gt;
   &lt;div class="box-content-wrapper clearfix"&gt;
     &lt;div class="box-image"&gt;
-        &lt;a href="http://acadimexport.localhost/products/marine-xt-550"&gt;
+        &lt;a href="https://villademiraflores.github.io/products/marine-xt-550"&gt;
 
 
-&lt;img src="http://acadimexport.localhost/sites/default/files/styles/small_box_image/public/demo/d_product_init_machine-xt-550-1.jpg?itok=D9xcJ9LC" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
+&lt;img src="https://villademiraflores.github.io/sites/default/files/styles/small_box_image/public/demo/d_product_init_machine-xt-550-1.jpg?itok=D9xcJ9LC" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
 
 &lt;/a&gt;
 
     &lt;/div&gt;
     &lt;div class="box-text-content text-center"&gt;
-      &lt;a href="http://acadimexport.localhost/products/marine-xt-550" class="link"&gt;
+      &lt;a href="https://villademiraflores.github.io/products/marine-xt-550" class="link"&gt;
         
         &lt;h2 class="box-title"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Marine-XT 550&lt;/span&gt;
 &lt;/h2&gt;
         
       &lt;/a&gt;
-      &lt;a href="http://acadimexport.localhost/products/marine-xt-550" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
+      &lt;a href="https://villademiraflores.github.io/products/marine-xt-550" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -802,7 +802,7 @@
                             &lt;div class="container"&gt;
           
 
-                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="http://acadimexport.localhost/products" class="btn btn-primary mt-4"&gt;View All&lt;/a&gt;&lt;/div&gt;
+                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="https://villademiraflores.github.io/products" class="btn btn-primary mt-4"&gt;View All&lt;/a&gt;&lt;/div&gt;
             
         &lt;/div&gt;
           &lt;/div&gt;
@@ -822,9 +822,9 @@
                 &lt;div class="field field--name-field-d-p-reference-content field--type-entity-reference field--label-visually_hidden d-flex flex-wrap field--wrapper justify-content-between field__items"&gt;
                                         &lt;div class="d-flex field__item--wrapper col-lg-3 col-sm-6 col-xs-12 field__item"&gt;
 
-&lt;article role="article" about="http://acadimexport.localhost/blog/centurion-v750-fastest-airplane-engine-planet-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
+&lt;article role="article" about="https://villademiraflores.github.io/blog/centurion-v750-fastest-airplane-engine-planet-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
     &lt;div class="d-flex flex-column box"&gt;
-                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="http://acadimexport.localhost/blog/centurion-v750-fastest-airplane-engine-planet-0"&gt;
+                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="https://villademiraflores.github.io/blog/centurion-v750-fastest-airplane-engine-planet-0"&gt;
 
 
 &lt;img width="320" height="240" alt="Mechanism" loading="lazy" class="lazyload image-style-gallery-thumbnail" data-src="/sites/default/files/styles/gallery_thumbnail/public/demo/d_demo_mechanism.jpg?itok=Hyo_0V5Q" typeof="foaf:Image" /&gt;
@@ -834,14 +834,14 @@
       
         &lt;div class="text-area"&gt;
             &lt;h2 class="node__title"&gt;
-                &lt;a href="http://acadimexport.localhost/blog/centurion-v750-fastest-airplane-engine-planet-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Centurion V750 is the fastest airplane engine on the planet&lt;/span&gt;
+                &lt;a href="https://villademiraflores.github.io/blog/centurion-v750-fastest-airplane-engine-planet-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Centurion V750 is the fastest airplane engine on the planet&lt;/span&gt;
 &lt;/a&gt;
             &lt;/h2&gt;
             
 
                     &lt;div class="clearfix text-formatted field field--name-field-blog-teaser field--type-text-long field--label-hidden field__item"&gt;DrooplerEngines together with Airplanes Pro tested new aircraft engine Centurion V750 on Mojave desert in California, USA.&lt;/div&gt;
             
-            &lt;a href="http://acadimexport.localhost/blog/centurion-v750-fastest-airplane-engine-planet-0" class="link"&gt;Learn more&lt;/a&gt;
+            &lt;a href="https://villademiraflores.github.io/blog/centurion-v750-fastest-airplane-engine-planet-0" class="link"&gt;Learn more&lt;/a&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 
@@ -849,9 +849,9 @@
 &lt;/div&gt;
                             &lt;div class="d-flex field__item--wrapper col-lg-3 col-sm-6 col-xs-12 field__item"&gt;
 
-&lt;article role="article" about="http://acadimexport.localhost/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
+&lt;article role="article" about="https://villademiraflores.github.io/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
     &lt;div class="d-flex flex-column box"&gt;
-                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="http://acadimexport.localhost/blog/abc-automotive-bought-10-000-engines-drooplerengines-0"&gt;
+                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="https://villademiraflores.github.io/blog/abc-automotive-bought-10-000-engines-drooplerengines-0"&gt;
 
 
 &lt;img width="320" height="240" alt="New cars" loading="lazy" class="lazyload image-style-gallery-thumbnail" data-src="/sites/default/files/styles/gallery_thumbnail/public/demo/d_demo_new_cars.jpg?itok=20Dkow8z" typeof="foaf:Image" /&gt;
@@ -861,14 +861,14 @@
       
         &lt;div class="text-area"&gt;
             &lt;h2 class="node__title"&gt;
-                &lt;a href="http://acadimexport.localhost/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;ABC Automotive bought 10 000 engines from DrooplerEngines&lt;/span&gt;
+                &lt;a href="https://villademiraflores.github.io/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;ABC Automotive bought 10 000 engines from DrooplerEngines&lt;/span&gt;
 &lt;/a&gt;
             &lt;/h2&gt;
             
 
                     &lt;div class="clearfix text-formatted field field--name-field-blog-teaser field--type-text-long field--label-hidden field__item"&gt;ABC Automotive is world leader in car manufacturing. Our engines will be used in their new car models UMI 4S coupe.&lt;/div&gt;
             
-            &lt;a href="http://acadimexport.localhost/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" class="link"&gt;Learn more&lt;/a&gt;
+            &lt;a href="https://villademiraflores.github.io/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" class="link"&gt;Learn more&lt;/a&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 
@@ -876,9 +876,9 @@
 &lt;/div&gt;
                             &lt;div class="d-flex field__item--wrapper col-lg-3 col-sm-6 col-xs-12 field__item"&gt;
 
-&lt;article role="article" about="http://acadimexport.localhost/blog/drooplerengines-automotive-expo-2019-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
+&lt;article role="article" about="https://villademiraflores.github.io/blog/drooplerengines-automotive-expo-2019-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
     &lt;div class="d-flex flex-column box"&gt;
-                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="http://acadimexport.localhost/blog/drooplerengines-automotive-expo-2019-0"&gt;
+                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="https://villademiraflores.github.io/blog/drooplerengines-automotive-expo-2019-0"&gt;
 
 
 &lt;img width="320" height="240" alt="Future car" loading="lazy" class="lazyload image-style-gallery-thumbnail" data-src="/sites/default/files/styles/gallery_thumbnail/public/demo/d_demo_future_car.jpg?itok=MtyGVGkt" typeof="foaf:Image" /&gt;
@@ -888,14 +888,14 @@
       
         &lt;div class="text-area"&gt;
             &lt;h2 class="node__title"&gt;
-                &lt;a href="http://acadimexport.localhost/blog/drooplerengines-automotive-expo-2019-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;DrooplerEngines at Automotive Expo 2019&lt;/span&gt;
+                &lt;a href="https://villademiraflores.github.io/blog/drooplerengines-automotive-expo-2019-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;DrooplerEngines at Automotive Expo 2019&lt;/span&gt;
 &lt;/a&gt;
             &lt;/h2&gt;
             
 
                     &lt;div class="clearfix text-formatted field field--name-field-blog-teaser field--type-text-long field--label-hidden field__item"&gt;In last week we presented our engines on the biggest expo in the Europe in Hannover, Germany.&lt;/div&gt;
             
-            &lt;a href="http://acadimexport.localhost/blog/drooplerengines-automotive-expo-2019-0" class="link"&gt;Learn more&lt;/a&gt;
+            &lt;a href="https://villademiraflores.github.io/blog/drooplerengines-automotive-expo-2019-0" class="link"&gt;Learn more&lt;/a&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 
@@ -903,9 +903,9 @@
 &lt;/div&gt;
                             &lt;div class="d-flex field__item--wrapper col-lg-3 col-sm-6 col-xs-12 field__item"&gt;
 
-&lt;article role="article" about="http://acadimexport.localhost/blog/new-factory-location-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
+&lt;article role="article" about="https://villademiraflores.github.io/blog/new-factory-location-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
     &lt;div class="d-flex flex-column box"&gt;
-                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="http://acadimexport.localhost/blog/new-factory-location-0"&gt;
+                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="https://villademiraflores.github.io/blog/new-factory-location-0"&gt;
 
 
 &lt;img width="320" height="240" alt="Factory" loading="lazy" class="lazyload image-style-gallery-thumbnail" data-src="/sites/default/files/styles/gallery_thumbnail/public/demo/d_demo_factory.jpg?itok=RDm1wBIx" typeof="foaf:Image" /&gt;
@@ -915,14 +915,14 @@
       
         &lt;div class="text-area"&gt;
             &lt;h2 class="node__title"&gt;
-                &lt;a href="http://acadimexport.localhost/blog/new-factory-location-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;New factory location&lt;/span&gt;
+                &lt;a href="https://villademiraflores.github.io/blog/new-factory-location-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;New factory location&lt;/span&gt;
 &lt;/a&gt;
             &lt;/h2&gt;
             
 
                     &lt;div class="clearfix text-formatted field field--name-field-blog-teaser field--type-text-long field--label-hidden field__item"&gt;Finally we have another factory. Factory is located in Radom in Poland. This location is well communicated with rest of the Europe.&lt;/div&gt;
             
-            &lt;a href="http://acadimexport.localhost/blog/new-factory-location-0" class="link"&gt;Learn more&lt;/a&gt;
+            &lt;a href="https://villademiraflores.github.io/blog/new-factory-location-0" class="link"&gt;Learn more&lt;/a&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 
@@ -933,7 +933,7 @@
 
   &lt;div class="field field--name-field-d-cta-link field--type-link field--label-visually_hidden container text-center"&gt;
     &lt;div class="field__label visually-hidden"&gt;Call To Action&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://acadimexport.localhost/blog" class="btn btn-primary mt-5"&gt;View all&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://villademiraflores.github.io/blog" class="btn btn-primary mt-5"&gt;View all&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
             &lt;/div&gt;
@@ -951,14 +951,14 @@
   
 
                     &lt;div class="field field--name-field-media-image field--type-image field--label-hidden field__item"&gt;    &lt;picture&gt;
-                  &lt;source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_boat_3.jpg?itok=AK-xBK61 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_engine_boat_3.jpg?itok=qnJtWu0k 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_992/public/demo/d_demo_engine_boat_3.jpg?itok=e2LEzarJ 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_engine_boat_3.jpg?itok=ZwJZC4Jm 1x"&gt;&lt;/source&gt;
+                  &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_boat_3.jpg?itok=AK-xBK61 1x" media="all and (min-width: 75em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_engine_boat_3.jpg?itok=qnJtWu0k 1x" media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_992/public/demo/d_demo_engine_boat_3.jpg?itok=e2LEzarJ 1x" media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_engine_boat_3.jpg?itok=ZwJZC4Jm 1x" media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg"&gt;&lt;/source&gt;
                   
   
   
-&lt;img alt="Boat engine" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_boat_3.jpg?itok=AK-xBK61" typeof="foaf:Image" /&gt;
+&lt;img src="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_boat_3.jpg?itok=AK-xBK61" alt="Boat engine" typeof="foaf:Image" /&gt;
 
   &lt;/picture&gt;
 
@@ -977,7 +977,7 @@
                     &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p class="text-align-center"&gt;Contact our sales team to schedule product presentation.&lt;/p&gt;&lt;/div&gt;
             
 
-                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="http://acadimexport.localhost/contact" class="btn btn-primary"&gt;CONTACT US&lt;/a&gt;&lt;/div&gt;
+                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="https://villademiraflores.github.io/contact" class="btn btn-primary"&gt;CONTACT US&lt;/a&gt;&lt;/div&gt;
             
   
                   &lt;/div&gt;
@@ -991,11 +991,11 @@
 </description>
   <pubDate>Mon, 29 Jun 2020 21:32:59 +0000</pubDate>
     <dc:creator>Anónimo</dc:creator>
-    <guid isPermaLink="false">62 at http://acadimexport.localhost</guid>
+    <guid isPermaLink="false">62 at https://villademiraflores.github.io</guid>
     </item>
 <item>
   <title>Gasoline Engines</title>
-  <link>http://acadimexport.localhost/gasoline-engines</link>
+  <link>https://villademiraflores.github.io/gasoline-engines</link>
   <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Gasoline Engines&lt;/span&gt;
 &lt;div class="paragraph-sections field field--name-field-page-section field--type-entity-reference-revisions field--label-hidden"&gt;
       
@@ -1011,14 +1011,14 @@
   
 
                     &lt;div class="field field--name-field-media-image field--type-image field--label-hidden field__item"&gt;    &lt;picture&gt;
-                  &lt;source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_car_4.jpg?itok=gL3DL0l_ 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_engine_car_4.jpg?itok=qMZbYvJ7 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_992/public/demo/d_demo_engine_car_4.jpg?itok=JWtQnPJr 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_engine_car_4.jpg?itok=8e5XbhLV 1x"&gt;&lt;/source&gt;
+                  &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_car_4.jpg?itok=gL3DL0l_ 1x" media="all and (min-width: 75em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_engine_car_4.jpg?itok=qMZbYvJ7 1x" media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_992/public/demo/d_demo_engine_car_4.jpg?itok=JWtQnPJr 1x" media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_engine_car_4.jpg?itok=8e5XbhLV 1x" media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg"&gt;&lt;/source&gt;
                   
   
   
-&lt;img alt="Engine" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_car_4.jpg?itok=gL3DL0l_" typeof="foaf:Image" /&gt;
+&lt;img src="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_car_4.jpg?itok=gL3DL0l_" alt="Engine" typeof="foaf:Image" /&gt;
 
   &lt;/picture&gt;
 
@@ -1071,14 +1071,14 @@
   
 
                     &lt;div class="field field--name-field-media-image field--type-image field--label-hidden field__item"&gt;    &lt;picture&gt;
-                  &lt;source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_car_engine_gasoline.jpg?itok=RhoM3RXD 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_engine_car_engine_gasoline.jpg?itok=T83AZ5n_ 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_992/public/demo/d_demo_engine_car_engine_gasoline.jpg?itok=wd2mFBN- 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_engine_car_engine_gasoline.jpg?itok=FB5trrXD 1x"&gt;&lt;/source&gt;
+                  &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_car_engine_gasoline.jpg?itok=RhoM3RXD 1x" media="all and (min-width: 75em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_engine_car_engine_gasoline.jpg?itok=T83AZ5n_ 1x" media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_992/public/demo/d_demo_engine_car_engine_gasoline.jpg?itok=wd2mFBN- 1x" media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_engine_car_engine_gasoline.jpg?itok=FB5trrXD 1x" media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg"&gt;&lt;/source&gt;
                   
   
   
-&lt;img alt="Car Engine" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_car_engine_gasoline.jpg?itok=RhoM3RXD" typeof="foaf:Image" /&gt;
+&lt;img src="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_car_engine_gasoline.jpg?itok=RhoM3RXD" alt="Car Engine" typeof="foaf:Image" /&gt;
 
   &lt;/picture&gt;
 
@@ -1165,25 +1165,25 @@
           
 
                     &lt;div class="erd-list--d-small-box field field--name-field-d-node-reference field--type-entity-reference field--label-hidden field__item"&gt;
-&lt;div role="article" about="http://acadimexport.localhost/products/super-charged-engine-v12" class="small-box-wrapper clearfix"&gt;
+&lt;div role="article" about="https://villademiraflores.github.io/products/super-charged-engine-v12" class="small-box-wrapper clearfix"&gt;
   &lt;div class="box-content-wrapper clearfix"&gt;
     &lt;div class="box-image"&gt;
-        &lt;a href="http://acadimexport.localhost/products/super-charged-engine-v12"&gt;
+        &lt;a href="https://villademiraflores.github.io/products/super-charged-engine-v12"&gt;
 
 
-&lt;img src="http://acadimexport.localhost/sites/default/files/styles/small_box_image/public/demo/d_product_init_super-charged-engine-1.jpg?itok=Ozi3UjRT" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
+&lt;img src="https://villademiraflores.github.io/sites/default/files/styles/small_box_image/public/demo/d_product_init_super-charged-engine-1.jpg?itok=Ozi3UjRT" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
 
 &lt;/a&gt;
 
     &lt;/div&gt;
     &lt;div class="box-text-content text-center"&gt;
-      &lt;a href="http://acadimexport.localhost/products/super-charged-engine-v12" class="link"&gt;
+      &lt;a href="https://villademiraflores.github.io/products/super-charged-engine-v12" class="link"&gt;
         
         &lt;h2 class="box-title"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Super Charged Engine v12&lt;/span&gt;
 &lt;/h2&gt;
         
       &lt;/a&gt;
-      &lt;a href="http://acadimexport.localhost/products/super-charged-engine-v12" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
+      &lt;a href="https://villademiraflores.github.io/products/super-charged-engine-v12" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -1195,25 +1195,25 @@
           
 
                     &lt;div class="erd-list--d-small-box field field--name-field-d-node-reference field--type-entity-reference field--label-hidden field__item"&gt;
-&lt;div role="article" about="http://acadimexport.localhost/products/centurion-3000" class="small-box-wrapper clearfix"&gt;
+&lt;div role="article" about="https://villademiraflores.github.io/products/centurion-3000" class="small-box-wrapper clearfix"&gt;
   &lt;div class="box-content-wrapper clearfix"&gt;
     &lt;div class="box-image"&gt;
-        &lt;a href="http://acadimexport.localhost/products/centurion-3000"&gt;
+        &lt;a href="https://villademiraflores.github.io/products/centurion-3000"&gt;
 
 
-&lt;img src="http://acadimexport.localhost/sites/default/files/styles/small_box_image/public/demo/d_product_init_centurion-3000-1.jpg?itok=oxmesbQV" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
+&lt;img src="https://villademiraflores.github.io/sites/default/files/styles/small_box_image/public/demo/d_product_init_centurion-3000-1.jpg?itok=oxmesbQV" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
 
 &lt;/a&gt;
 
     &lt;/div&gt;
     &lt;div class="box-text-content text-center"&gt;
-      &lt;a href="http://acadimexport.localhost/products/centurion-3000" class="link"&gt;
+      &lt;a href="https://villademiraflores.github.io/products/centurion-3000" class="link"&gt;
         
         &lt;h2 class="box-title"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Centurion 3000&lt;/span&gt;
 &lt;/h2&gt;
         
       &lt;/a&gt;
-      &lt;a href="http://acadimexport.localhost/products/centurion-3000" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
+      &lt;a href="https://villademiraflores.github.io/products/centurion-3000" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -1225,25 +1225,25 @@
           
 
                     &lt;div class="erd-list--d-small-box field field--name-field-d-node-reference field--type-entity-reference field--label-hidden field__item"&gt;
-&lt;div role="article" about="http://acadimexport.localhost/products/marine-xt-550" class="small-box-wrapper clearfix"&gt;
+&lt;div role="article" about="https://villademiraflores.github.io/products/marine-xt-550" class="small-box-wrapper clearfix"&gt;
   &lt;div class="box-content-wrapper clearfix"&gt;
     &lt;div class="box-image"&gt;
-        &lt;a href="http://acadimexport.localhost/products/marine-xt-550"&gt;
+        &lt;a href="https://villademiraflores.github.io/products/marine-xt-550"&gt;
 
 
-&lt;img src="http://acadimexport.localhost/sites/default/files/styles/small_box_image/public/demo/d_product_init_machine-xt-550-1.jpg?itok=D9xcJ9LC" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
+&lt;img src="https://villademiraflores.github.io/sites/default/files/styles/small_box_image/public/demo/d_product_init_machine-xt-550-1.jpg?itok=D9xcJ9LC" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
 
 &lt;/a&gt;
 
     &lt;/div&gt;
     &lt;div class="box-text-content text-center"&gt;
-      &lt;a href="http://acadimexport.localhost/products/marine-xt-550" class="link"&gt;
+      &lt;a href="https://villademiraflores.github.io/products/marine-xt-550" class="link"&gt;
         
         &lt;h2 class="box-title"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Marine-XT 550&lt;/span&gt;
 &lt;/h2&gt;
         
       &lt;/a&gt;
-      &lt;a href="http://acadimexport.localhost/products/marine-xt-550" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
+      &lt;a href="https://villademiraflores.github.io/products/marine-xt-550" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -1258,7 +1258,7 @@
                             &lt;div class="container"&gt;
           
 
-                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="http://acadimexport.localhost/products" class="btn btn-primary mt-4"&gt;View All&lt;/a&gt;&lt;/div&gt;
+                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="https://villademiraflores.github.io/products" class="btn btn-primary mt-4"&gt;View All&lt;/a&gt;&lt;/div&gt;
             
         &lt;/div&gt;
           &lt;/div&gt;
@@ -1278,9 +1278,9 @@
                 &lt;div class="field field--name-field-d-p-reference-content field--type-entity-reference field--label-visually_hidden d-flex flex-wrap field--wrapper justify-content-between field__items"&gt;
                                         &lt;div class="d-flex field__item--wrapper col-lg-3 col-sm-6 col-xs-12 field__item"&gt;
 
-&lt;article role="article" about="http://acadimexport.localhost/blog/centurion-v750-fastest-airplane-engine-planet-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
+&lt;article role="article" about="https://villademiraflores.github.io/blog/centurion-v750-fastest-airplane-engine-planet-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
     &lt;div class="d-flex flex-column box"&gt;
-                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="http://acadimexport.localhost/blog/centurion-v750-fastest-airplane-engine-planet-0"&gt;
+                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="https://villademiraflores.github.io/blog/centurion-v750-fastest-airplane-engine-planet-0"&gt;
 
 
 &lt;img width="320" height="240" alt="Mechanism" loading="lazy" class="lazyload image-style-gallery-thumbnail" data-src="/sites/default/files/styles/gallery_thumbnail/public/demo/d_demo_mechanism.jpg?itok=Hyo_0V5Q" typeof="foaf:Image" /&gt;
@@ -1290,14 +1290,14 @@
       
         &lt;div class="text-area"&gt;
             &lt;h2 class="node__title"&gt;
-                &lt;a href="http://acadimexport.localhost/blog/centurion-v750-fastest-airplane-engine-planet-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Centurion V750 is the fastest airplane engine on the planet&lt;/span&gt;
+                &lt;a href="https://villademiraflores.github.io/blog/centurion-v750-fastest-airplane-engine-planet-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Centurion V750 is the fastest airplane engine on the planet&lt;/span&gt;
 &lt;/a&gt;
             &lt;/h2&gt;
             
 
                     &lt;div class="clearfix text-formatted field field--name-field-blog-teaser field--type-text-long field--label-hidden field__item"&gt;DrooplerEngines together with Airplanes Pro tested new aircraft engine Centurion V750 on Mojave desert in California, USA.&lt;/div&gt;
             
-            &lt;a href="http://acadimexport.localhost/blog/centurion-v750-fastest-airplane-engine-planet-0" class="link"&gt;Learn more&lt;/a&gt;
+            &lt;a href="https://villademiraflores.github.io/blog/centurion-v750-fastest-airplane-engine-planet-0" class="link"&gt;Learn more&lt;/a&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 
@@ -1305,9 +1305,9 @@
 &lt;/div&gt;
                             &lt;div class="d-flex field__item--wrapper col-lg-3 col-sm-6 col-xs-12 field__item"&gt;
 
-&lt;article role="article" about="http://acadimexport.localhost/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
+&lt;article role="article" about="https://villademiraflores.github.io/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
     &lt;div class="d-flex flex-column box"&gt;
-                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="http://acadimexport.localhost/blog/abc-automotive-bought-10-000-engines-drooplerengines-0"&gt;
+                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="https://villademiraflores.github.io/blog/abc-automotive-bought-10-000-engines-drooplerengines-0"&gt;
 
 
 &lt;img width="320" height="240" alt="New cars" loading="lazy" class="lazyload image-style-gallery-thumbnail" data-src="/sites/default/files/styles/gallery_thumbnail/public/demo/d_demo_new_cars.jpg?itok=20Dkow8z" typeof="foaf:Image" /&gt;
@@ -1317,14 +1317,14 @@
       
         &lt;div class="text-area"&gt;
             &lt;h2 class="node__title"&gt;
-                &lt;a href="http://acadimexport.localhost/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;ABC Automotive bought 10 000 engines from DrooplerEngines&lt;/span&gt;
+                &lt;a href="https://villademiraflores.github.io/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;ABC Automotive bought 10 000 engines from DrooplerEngines&lt;/span&gt;
 &lt;/a&gt;
             &lt;/h2&gt;
             
 
                     &lt;div class="clearfix text-formatted field field--name-field-blog-teaser field--type-text-long field--label-hidden field__item"&gt;ABC Automotive is world leader in car manufacturing. Our engines will be used in their new car models UMI 4S coupe.&lt;/div&gt;
             
-            &lt;a href="http://acadimexport.localhost/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" class="link"&gt;Learn more&lt;/a&gt;
+            &lt;a href="https://villademiraflores.github.io/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" class="link"&gt;Learn more&lt;/a&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 
@@ -1332,9 +1332,9 @@
 &lt;/div&gt;
                             &lt;div class="d-flex field__item--wrapper col-lg-3 col-sm-6 col-xs-12 field__item"&gt;
 
-&lt;article role="article" about="http://acadimexport.localhost/blog/drooplerengines-automotive-expo-2019-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
+&lt;article role="article" about="https://villademiraflores.github.io/blog/drooplerengines-automotive-expo-2019-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
     &lt;div class="d-flex flex-column box"&gt;
-                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="http://acadimexport.localhost/blog/drooplerengines-automotive-expo-2019-0"&gt;
+                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="https://villademiraflores.github.io/blog/drooplerengines-automotive-expo-2019-0"&gt;
 
 
 &lt;img width="320" height="240" alt="Future car" loading="lazy" class="lazyload image-style-gallery-thumbnail" data-src="/sites/default/files/styles/gallery_thumbnail/public/demo/d_demo_future_car.jpg?itok=MtyGVGkt" typeof="foaf:Image" /&gt;
@@ -1344,14 +1344,14 @@
       
         &lt;div class="text-area"&gt;
             &lt;h2 class="node__title"&gt;
-                &lt;a href="http://acadimexport.localhost/blog/drooplerengines-automotive-expo-2019-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;DrooplerEngines at Automotive Expo 2019&lt;/span&gt;
+                &lt;a href="https://villademiraflores.github.io/blog/drooplerengines-automotive-expo-2019-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;DrooplerEngines at Automotive Expo 2019&lt;/span&gt;
 &lt;/a&gt;
             &lt;/h2&gt;
             
 
                     &lt;div class="clearfix text-formatted field field--name-field-blog-teaser field--type-text-long field--label-hidden field__item"&gt;In last week we presented our engines on the biggest expo in the Europe in Hannover, Germany.&lt;/div&gt;
             
-            &lt;a href="http://acadimexport.localhost/blog/drooplerengines-automotive-expo-2019-0" class="link"&gt;Learn more&lt;/a&gt;
+            &lt;a href="https://villademiraflores.github.io/blog/drooplerengines-automotive-expo-2019-0" class="link"&gt;Learn more&lt;/a&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 
@@ -1359,9 +1359,9 @@
 &lt;/div&gt;
                             &lt;div class="d-flex field__item--wrapper col-lg-3 col-sm-6 col-xs-12 field__item"&gt;
 
-&lt;article role="article" about="http://acadimexport.localhost/blog/new-factory-location-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
+&lt;article role="article" about="https://villademiraflores.github.io/blog/new-factory-location-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
     &lt;div class="d-flex flex-column box"&gt;
-                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="http://acadimexport.localhost/blog/new-factory-location-0"&gt;
+                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="https://villademiraflores.github.io/blog/new-factory-location-0"&gt;
 
 
 &lt;img width="320" height="240" alt="Factory" loading="lazy" class="lazyload image-style-gallery-thumbnail" data-src="/sites/default/files/styles/gallery_thumbnail/public/demo/d_demo_factory.jpg?itok=RDm1wBIx" typeof="foaf:Image" /&gt;
@@ -1371,14 +1371,14 @@
       
         &lt;div class="text-area"&gt;
             &lt;h2 class="node__title"&gt;
-                &lt;a href="http://acadimexport.localhost/blog/new-factory-location-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;New factory location&lt;/span&gt;
+                &lt;a href="https://villademiraflores.github.io/blog/new-factory-location-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;New factory location&lt;/span&gt;
 &lt;/a&gt;
             &lt;/h2&gt;
             
 
                     &lt;div class="clearfix text-formatted field field--name-field-blog-teaser field--type-text-long field--label-hidden field__item"&gt;Finally we have another factory. Factory is located in Radom in Poland. This location is well communicated with rest of the Europe.&lt;/div&gt;
             
-            &lt;a href="http://acadimexport.localhost/blog/new-factory-location-0" class="link"&gt;Learn more&lt;/a&gt;
+            &lt;a href="https://villademiraflores.github.io/blog/new-factory-location-0" class="link"&gt;Learn more&lt;/a&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 
@@ -1389,7 +1389,7 @@
 
   &lt;div class="field field--name-field-d-cta-link field--type-link field--label-visually_hidden container text-center"&gt;
     &lt;div class="field__label visually-hidden"&gt;Call To Action&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://acadimexport.localhost/blog" class="btn btn-primary mt-5"&gt;View all&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://villademiraflores.github.io/blog" class="btn btn-primary mt-5"&gt;View all&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
             &lt;/div&gt;
@@ -1407,14 +1407,14 @@
   
 
                     &lt;div class="field field--name-field-media-image field--type-image field--label-hidden field__item"&gt;    &lt;picture&gt;
-                  &lt;source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=C0600HGh 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=2uBS14Al 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_992/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=Uo78VznS 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=7WN8PJmx 1x"&gt;&lt;/source&gt;
+                  &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=C0600HGh 1x" media="all and (min-width: 75em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=2uBS14Al 1x" media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_992/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=Uo78VznS 1x" media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=7WN8PJmx 1x" media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg"&gt;&lt;/source&gt;
                   
   
   
-&lt;img alt="Car Engine" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=C0600HGh" typeof="foaf:Image" /&gt;
+&lt;img src="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=C0600HGh" alt="Car Engine" typeof="foaf:Image" /&gt;
 
   &lt;/picture&gt;
 
@@ -1433,7 +1433,7 @@
                     &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p class="text-align-center"&gt;Contact our sales team to schedule product presentation.&lt;/p&gt;&lt;/div&gt;
             
 
-                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="http://acadimexport.localhost/contact" class="btn btn-primary"&gt;CONTACT US&lt;/a&gt;&lt;/div&gt;
+                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="https://villademiraflores.github.io/contact" class="btn btn-primary"&gt;CONTACT US&lt;/a&gt;&lt;/div&gt;
             
   
                   &lt;/div&gt;
@@ -1447,11 +1447,11 @@
 </description>
   <pubDate>Mon, 29 Jun 2020 21:32:59 +0000</pubDate>
     <dc:creator>Anónimo</dc:creator>
-    <guid isPermaLink="false">61 at http://acadimexport.localhost</guid>
+    <guid isPermaLink="false">61 at https://villademiraflores.github.io</guid>
     </item>
 <item>
   <title>Diesel Engines</title>
-  <link>http://acadimexport.localhost/diesel-engines</link>
+  <link>https://villademiraflores.github.io/diesel-engines</link>
   <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Diesel Engines&lt;/span&gt;
 &lt;div class="paragraph-sections field field--name-field-page-section field--type-entity-reference-revisions field--label-hidden"&gt;
       
@@ -1467,14 +1467,14 @@
   
 
                     &lt;div class="field field--name-field-media-image field--type-image field--label-hidden field__item"&gt;    &lt;picture&gt;
-                  &lt;source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_car_2.jpg?itok=asBD_IeL 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_engine_car_2.jpg?itok=TeGUrmyE 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_992/public/demo/d_demo_engine_car_2.jpg?itok=dXuupWS_ 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_engine_car_2.jpg?itok=HvFwjlFS 1x"&gt;&lt;/source&gt;
+                  &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_car_2.jpg?itok=asBD_IeL 1x" media="all and (min-width: 75em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_engine_car_2.jpg?itok=TeGUrmyE 1x" media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_992/public/demo/d_demo_engine_car_2.jpg?itok=dXuupWS_ 1x" media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_engine_car_2.jpg?itok=HvFwjlFS 1x" media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg"&gt;&lt;/source&gt;
                   
   
   
-&lt;img alt="Event 3" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_car_2.jpg?itok=asBD_IeL" typeof="foaf:Image" /&gt;
+&lt;img src="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_car_2.jpg?itok=asBD_IeL" alt="Event 3" typeof="foaf:Image" /&gt;
 
   &lt;/picture&gt;
 
@@ -1527,14 +1527,14 @@
   
 
                     &lt;div class="field field--name-field-media-image field--type-image field--label-hidden field__item"&gt;    &lt;picture&gt;
-                  &lt;source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_car_engine_centurion.jpg?itok=gBC0e-CV 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_car_engine_centurion.jpg?itok=YM1h15KQ 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_992/public/demo/d_demo_car_engine_centurion.jpg?itok=3QxAbEOZ 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_car_engine_centurion.jpg?itok=Tnp6uK0J 1x"&gt;&lt;/source&gt;
+                  &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_car_engine_centurion.jpg?itok=gBC0e-CV 1x" media="all and (min-width: 75em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_car_engine_centurion.jpg?itok=YM1h15KQ 1x" media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_992/public/demo/d_demo_car_engine_centurion.jpg?itok=3QxAbEOZ 1x" media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_car_engine_centurion.jpg?itok=Tnp6uK0J 1x" media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg"&gt;&lt;/source&gt;
                   
   
   
-&lt;img alt="Portfolio" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_car_engine_centurion.jpg?itok=gBC0e-CV" typeof="foaf:Image" /&gt;
+&lt;img src="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_car_engine_centurion.jpg?itok=gBC0e-CV" alt="Portfolio" typeof="foaf:Image" /&gt;
 
   &lt;/picture&gt;
 
@@ -1621,25 +1621,25 @@
           
 
                     &lt;div class="erd-list--d-small-box field field--name-field-d-node-reference field--type-entity-reference field--label-hidden field__item"&gt;
-&lt;div role="article" about="http://acadimexport.localhost/products/super-charged-engine-v12" class="small-box-wrapper clearfix"&gt;
+&lt;div role="article" about="https://villademiraflores.github.io/products/super-charged-engine-v12" class="small-box-wrapper clearfix"&gt;
   &lt;div class="box-content-wrapper clearfix"&gt;
     &lt;div class="box-image"&gt;
-        &lt;a href="http://acadimexport.localhost/products/super-charged-engine-v12"&gt;
+        &lt;a href="https://villademiraflores.github.io/products/super-charged-engine-v12"&gt;
 
 
-&lt;img src="http://acadimexport.localhost/sites/default/files/styles/small_box_image/public/demo/d_product_init_super-charged-engine-1.jpg?itok=Ozi3UjRT" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
+&lt;img src="https://villademiraflores.github.io/sites/default/files/styles/small_box_image/public/demo/d_product_init_super-charged-engine-1.jpg?itok=Ozi3UjRT" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
 
 &lt;/a&gt;
 
     &lt;/div&gt;
     &lt;div class="box-text-content text-center"&gt;
-      &lt;a href="http://acadimexport.localhost/products/super-charged-engine-v12" class="link"&gt;
+      &lt;a href="https://villademiraflores.github.io/products/super-charged-engine-v12" class="link"&gt;
         
         &lt;h2 class="box-title"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Super Charged Engine v12&lt;/span&gt;
 &lt;/h2&gt;
         
       &lt;/a&gt;
-      &lt;a href="http://acadimexport.localhost/products/super-charged-engine-v12" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
+      &lt;a href="https://villademiraflores.github.io/products/super-charged-engine-v12" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -1651,25 +1651,25 @@
           
 
                     &lt;div class="erd-list--d-small-box field field--name-field-d-node-reference field--type-entity-reference field--label-hidden field__item"&gt;
-&lt;div role="article" about="http://acadimexport.localhost/products/centurion-3000" class="small-box-wrapper clearfix"&gt;
+&lt;div role="article" about="https://villademiraflores.github.io/products/centurion-3000" class="small-box-wrapper clearfix"&gt;
   &lt;div class="box-content-wrapper clearfix"&gt;
     &lt;div class="box-image"&gt;
-        &lt;a href="http://acadimexport.localhost/products/centurion-3000"&gt;
+        &lt;a href="https://villademiraflores.github.io/products/centurion-3000"&gt;
 
 
-&lt;img src="http://acadimexport.localhost/sites/default/files/styles/small_box_image/public/demo/d_product_init_centurion-3000-1.jpg?itok=oxmesbQV" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
+&lt;img src="https://villademiraflores.github.io/sites/default/files/styles/small_box_image/public/demo/d_product_init_centurion-3000-1.jpg?itok=oxmesbQV" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
 
 &lt;/a&gt;
 
     &lt;/div&gt;
     &lt;div class="box-text-content text-center"&gt;
-      &lt;a href="http://acadimexport.localhost/products/centurion-3000" class="link"&gt;
+      &lt;a href="https://villademiraflores.github.io/products/centurion-3000" class="link"&gt;
         
         &lt;h2 class="box-title"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Centurion 3000&lt;/span&gt;
 &lt;/h2&gt;
         
       &lt;/a&gt;
-      &lt;a href="http://acadimexport.localhost/products/centurion-3000" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
+      &lt;a href="https://villademiraflores.github.io/products/centurion-3000" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -1681,25 +1681,25 @@
           
 
                     &lt;div class="erd-list--d-small-box field field--name-field-d-node-reference field--type-entity-reference field--label-hidden field__item"&gt;
-&lt;div role="article" about="http://acadimexport.localhost/products/marine-xt-550" class="small-box-wrapper clearfix"&gt;
+&lt;div role="article" about="https://villademiraflores.github.io/products/marine-xt-550" class="small-box-wrapper clearfix"&gt;
   &lt;div class="box-content-wrapper clearfix"&gt;
     &lt;div class="box-image"&gt;
-        &lt;a href="http://acadimexport.localhost/products/marine-xt-550"&gt;
+        &lt;a href="https://villademiraflores.github.io/products/marine-xt-550"&gt;
 
 
-&lt;img src="http://acadimexport.localhost/sites/default/files/styles/small_box_image/public/demo/d_product_init_machine-xt-550-1.jpg?itok=D9xcJ9LC" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
+&lt;img src="https://villademiraflores.github.io/sites/default/files/styles/small_box_image/public/demo/d_product_init_machine-xt-550-1.jpg?itok=D9xcJ9LC" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
 
 &lt;/a&gt;
 
     &lt;/div&gt;
     &lt;div class="box-text-content text-center"&gt;
-      &lt;a href="http://acadimexport.localhost/products/marine-xt-550" class="link"&gt;
+      &lt;a href="https://villademiraflores.github.io/products/marine-xt-550" class="link"&gt;
         
         &lt;h2 class="box-title"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Marine-XT 550&lt;/span&gt;
 &lt;/h2&gt;
         
       &lt;/a&gt;
-      &lt;a href="http://acadimexport.localhost/products/marine-xt-550" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
+      &lt;a href="https://villademiraflores.github.io/products/marine-xt-550" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -1714,7 +1714,7 @@
                             &lt;div class="container"&gt;
           
 
-                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="http://acadimexport.localhost/products" class="btn btn-primary mt-4"&gt;View All&lt;/a&gt;&lt;/div&gt;
+                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="https://villademiraflores.github.io/products" class="btn btn-primary mt-4"&gt;View All&lt;/a&gt;&lt;/div&gt;
             
         &lt;/div&gt;
           &lt;/div&gt;
@@ -1734,9 +1734,9 @@
                 &lt;div class="field field--name-field-d-p-reference-content field--type-entity-reference field--label-visually_hidden d-flex flex-wrap field--wrapper justify-content-between field__items"&gt;
                                         &lt;div class="d-flex field__item--wrapper col-lg-3 col-sm-6 col-xs-12 field__item"&gt;
 
-&lt;article role="article" about="http://acadimexport.localhost/blog/centurion-v750-fastest-airplane-engine-planet-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
+&lt;article role="article" about="https://villademiraflores.github.io/blog/centurion-v750-fastest-airplane-engine-planet-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
     &lt;div class="d-flex flex-column box"&gt;
-                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="http://acadimexport.localhost/blog/centurion-v750-fastest-airplane-engine-planet-0"&gt;
+                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="https://villademiraflores.github.io/blog/centurion-v750-fastest-airplane-engine-planet-0"&gt;
 
 
 &lt;img width="320" height="240" alt="Mechanism" loading="lazy" class="lazyload image-style-gallery-thumbnail" data-src="/sites/default/files/styles/gallery_thumbnail/public/demo/d_demo_mechanism.jpg?itok=Hyo_0V5Q" typeof="foaf:Image" /&gt;
@@ -1746,14 +1746,14 @@
       
         &lt;div class="text-area"&gt;
             &lt;h2 class="node__title"&gt;
-                &lt;a href="http://acadimexport.localhost/blog/centurion-v750-fastest-airplane-engine-planet-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Centurion V750 is the fastest airplane engine on the planet&lt;/span&gt;
+                &lt;a href="https://villademiraflores.github.io/blog/centurion-v750-fastest-airplane-engine-planet-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Centurion V750 is the fastest airplane engine on the planet&lt;/span&gt;
 &lt;/a&gt;
             &lt;/h2&gt;
             
 
                     &lt;div class="clearfix text-formatted field field--name-field-blog-teaser field--type-text-long field--label-hidden field__item"&gt;DrooplerEngines together with Airplanes Pro tested new aircraft engine Centurion V750 on Mojave desert in California, USA.&lt;/div&gt;
             
-            &lt;a href="http://acadimexport.localhost/blog/centurion-v750-fastest-airplane-engine-planet-0" class="link"&gt;Learn more&lt;/a&gt;
+            &lt;a href="https://villademiraflores.github.io/blog/centurion-v750-fastest-airplane-engine-planet-0" class="link"&gt;Learn more&lt;/a&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 
@@ -1761,9 +1761,9 @@
 &lt;/div&gt;
                             &lt;div class="d-flex field__item--wrapper col-lg-3 col-sm-6 col-xs-12 field__item"&gt;
 
-&lt;article role="article" about="http://acadimexport.localhost/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
+&lt;article role="article" about="https://villademiraflores.github.io/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
     &lt;div class="d-flex flex-column box"&gt;
-                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="http://acadimexport.localhost/blog/abc-automotive-bought-10-000-engines-drooplerengines-0"&gt;
+                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="https://villademiraflores.github.io/blog/abc-automotive-bought-10-000-engines-drooplerengines-0"&gt;
 
 
 &lt;img width="320" height="240" alt="New cars" loading="lazy" class="lazyload image-style-gallery-thumbnail" data-src="/sites/default/files/styles/gallery_thumbnail/public/demo/d_demo_new_cars.jpg?itok=20Dkow8z" typeof="foaf:Image" /&gt;
@@ -1773,14 +1773,14 @@
       
         &lt;div class="text-area"&gt;
             &lt;h2 class="node__title"&gt;
-                &lt;a href="http://acadimexport.localhost/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;ABC Automotive bought 10 000 engines from DrooplerEngines&lt;/span&gt;
+                &lt;a href="https://villademiraflores.github.io/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;ABC Automotive bought 10 000 engines from DrooplerEngines&lt;/span&gt;
 &lt;/a&gt;
             &lt;/h2&gt;
             
 
                     &lt;div class="clearfix text-formatted field field--name-field-blog-teaser field--type-text-long field--label-hidden field__item"&gt;ABC Automotive is world leader in car manufacturing. Our engines will be used in their new car models UMI 4S coupe.&lt;/div&gt;
             
-            &lt;a href="http://acadimexport.localhost/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" class="link"&gt;Learn more&lt;/a&gt;
+            &lt;a href="https://villademiraflores.github.io/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" class="link"&gt;Learn more&lt;/a&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 
@@ -1788,9 +1788,9 @@
 &lt;/div&gt;
                             &lt;div class="d-flex field__item--wrapper col-lg-3 col-sm-6 col-xs-12 field__item"&gt;
 
-&lt;article role="article" about="http://acadimexport.localhost/blog/drooplerengines-automotive-expo-2019-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
+&lt;article role="article" about="https://villademiraflores.github.io/blog/drooplerengines-automotive-expo-2019-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
     &lt;div class="d-flex flex-column box"&gt;
-                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="http://acadimexport.localhost/blog/drooplerengines-automotive-expo-2019-0"&gt;
+                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="https://villademiraflores.github.io/blog/drooplerengines-automotive-expo-2019-0"&gt;
 
 
 &lt;img width="320" height="240" alt="Future car" loading="lazy" class="lazyload image-style-gallery-thumbnail" data-src="/sites/default/files/styles/gallery_thumbnail/public/demo/d_demo_future_car.jpg?itok=MtyGVGkt" typeof="foaf:Image" /&gt;
@@ -1800,14 +1800,14 @@
       
         &lt;div class="text-area"&gt;
             &lt;h2 class="node__title"&gt;
-                &lt;a href="http://acadimexport.localhost/blog/drooplerengines-automotive-expo-2019-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;DrooplerEngines at Automotive Expo 2019&lt;/span&gt;
+                &lt;a href="https://villademiraflores.github.io/blog/drooplerengines-automotive-expo-2019-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;DrooplerEngines at Automotive Expo 2019&lt;/span&gt;
 &lt;/a&gt;
             &lt;/h2&gt;
             
 
                     &lt;div class="clearfix text-formatted field field--name-field-blog-teaser field--type-text-long field--label-hidden field__item"&gt;In last week we presented our engines on the biggest expo in the Europe in Hannover, Germany.&lt;/div&gt;
             
-            &lt;a href="http://acadimexport.localhost/blog/drooplerengines-automotive-expo-2019-0" class="link"&gt;Learn more&lt;/a&gt;
+            &lt;a href="https://villademiraflores.github.io/blog/drooplerengines-automotive-expo-2019-0" class="link"&gt;Learn more&lt;/a&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 
@@ -1815,9 +1815,9 @@
 &lt;/div&gt;
                             &lt;div class="d-flex field__item--wrapper col-lg-3 col-sm-6 col-xs-12 field__item"&gt;
 
-&lt;article role="article" about="http://acadimexport.localhost/blog/new-factory-location-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
+&lt;article role="article" about="https://villademiraflores.github.io/blog/new-factory-location-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
     &lt;div class="d-flex flex-column box"&gt;
-                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="http://acadimexport.localhost/blog/new-factory-location-0"&gt;
+                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="https://villademiraflores.github.io/blog/new-factory-location-0"&gt;
 
 
 &lt;img width="320" height="240" alt="Factory" loading="lazy" class="lazyload image-style-gallery-thumbnail" data-src="/sites/default/files/styles/gallery_thumbnail/public/demo/d_demo_factory.jpg?itok=RDm1wBIx" typeof="foaf:Image" /&gt;
@@ -1827,14 +1827,14 @@
       
         &lt;div class="text-area"&gt;
             &lt;h2 class="node__title"&gt;
-                &lt;a href="http://acadimexport.localhost/blog/new-factory-location-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;New factory location&lt;/span&gt;
+                &lt;a href="https://villademiraflores.github.io/blog/new-factory-location-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;New factory location&lt;/span&gt;
 &lt;/a&gt;
             &lt;/h2&gt;
             
 
                     &lt;div class="clearfix text-formatted field field--name-field-blog-teaser field--type-text-long field--label-hidden field__item"&gt;Finally we have another factory. Factory is located in Radom in Poland. This location is well communicated with rest of the Europe.&lt;/div&gt;
             
-            &lt;a href="http://acadimexport.localhost/blog/new-factory-location-0" class="link"&gt;Learn more&lt;/a&gt;
+            &lt;a href="https://villademiraflores.github.io/blog/new-factory-location-0" class="link"&gt;Learn more&lt;/a&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 
@@ -1845,7 +1845,7 @@
 
   &lt;div class="field field--name-field-d-cta-link field--type-link field--label-visually_hidden container text-center"&gt;
     &lt;div class="field__label visually-hidden"&gt;Call To Action&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://acadimexport.localhost/blog" class="btn btn-primary mt-5"&gt;View all&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://villademiraflores.github.io/blog" class="btn btn-primary mt-5"&gt;View all&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
             &lt;/div&gt;
@@ -1863,14 +1863,14 @@
   
 
                     &lt;div class="field field--name-field-media-image field--type-image field--label-hidden field__item"&gt;    &lt;picture&gt;
-                  &lt;source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=C0600HGh 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=2uBS14Al 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_992/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=Uo78VznS 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=7WN8PJmx 1x"&gt;&lt;/source&gt;
+                  &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=C0600HGh 1x" media="all and (min-width: 75em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=2uBS14Al 1x" media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_992/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=Uo78VznS 1x" media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=7WN8PJmx 1x" media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg"&gt;&lt;/source&gt;
                   
   
   
-&lt;img alt="Car Engine" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=C0600HGh" typeof="foaf:Image" /&gt;
+&lt;img src="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=C0600HGh" alt="Car Engine" typeof="foaf:Image" /&gt;
 
   &lt;/picture&gt;
 
@@ -1889,7 +1889,7 @@
                     &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p class="text-align-center"&gt;Contact our sales team to schedule product presentation.&lt;/p&gt;&lt;/div&gt;
             
 
-                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="http://acadimexport.localhost/contact" class="btn btn-primary"&gt;CONTACT US&lt;/a&gt;&lt;/div&gt;
+                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="https://villademiraflores.github.io/contact" class="btn btn-primary"&gt;CONTACT US&lt;/a&gt;&lt;/div&gt;
             
   
                   &lt;/div&gt;
@@ -1903,11 +1903,11 @@
 </description>
   <pubDate>Mon, 29 Jun 2020 21:32:59 +0000</pubDate>
     <dc:creator>Anónimo</dc:creator>
-    <guid isPermaLink="false">60 at http://acadimexport.localhost</guid>
+    <guid isPermaLink="false">60 at https://villademiraflores.github.io</guid>
     </item>
 <item>
   <title>Car engines</title>
-  <link>http://acadimexport.localhost/car-engines</link>
+  <link>https://villademiraflores.github.io/car-engines</link>
   <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Car engines&lt;/span&gt;
 &lt;div class="paragraph-sections field field--name-field-page-section field--type-entity-reference-revisions field--label-hidden"&gt;
       
@@ -1923,14 +1923,14 @@
   
 
                     &lt;div class="field field--name-field-media-image field--type-image field--label-hidden field__item"&gt;    &lt;picture&gt;
-                  &lt;source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_testing_services_1.jpg?itok=3iRI-3Jp 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_engine_testing_services_1.jpg?itok=v7qQ4ocG 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_992/public/demo/d_demo_engine_testing_services_1.jpg?itok=_rZfKsir 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_engine_testing_services_1.jpg?itok=9k8Mfcq4 1x"&gt;&lt;/source&gt;
+                  &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_testing_services_1.jpg?itok=3iRI-3Jp 1x" media="all and (min-width: 75em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_engine_testing_services_1.jpg?itok=v7qQ4ocG 1x" media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_992/public/demo/d_demo_engine_testing_services_1.jpg?itok=_rZfKsir 1x" media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_engine_testing_services_1.jpg?itok=9k8Mfcq4 1x" media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg"&gt;&lt;/source&gt;
                   
   
   
-&lt;img alt="Engine" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_testing_services_1.jpg?itok=3iRI-3Jp" typeof="foaf:Image" /&gt;
+&lt;img src="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_engine_testing_services_1.jpg?itok=3iRI-3Jp" alt="Engine" typeof="foaf:Image" /&gt;
 
   &lt;/picture&gt;
 
@@ -1983,14 +1983,14 @@
   
 
                     &lt;div class="field field--name-field-media-image field--type-image field--label-hidden field__item"&gt;    &lt;picture&gt;
-                  &lt;source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_car_engine_centurion.jpg?itok=gBC0e-CV 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_car_engine_centurion.jpg?itok=YM1h15KQ 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_992/public/demo/d_demo_car_engine_centurion.jpg?itok=3QxAbEOZ 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_car_engine_centurion.jpg?itok=Tnp6uK0J 1x"&gt;&lt;/source&gt;
+                  &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_car_engine_centurion.jpg?itok=gBC0e-CV 1x" media="all and (min-width: 75em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_car_engine_centurion.jpg?itok=YM1h15KQ 1x" media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_992/public/demo/d_demo_car_engine_centurion.jpg?itok=3QxAbEOZ 1x" media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_car_engine_centurion.jpg?itok=Tnp6uK0J 1x" media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg"&gt;&lt;/source&gt;
                   
   
   
-&lt;img alt="Portfolio" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_car_engine_centurion.jpg?itok=gBC0e-CV" typeof="foaf:Image" /&gt;
+&lt;img src="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_car_engine_centurion.jpg?itok=gBC0e-CV" alt="Portfolio" typeof="foaf:Image" /&gt;
 
   &lt;/picture&gt;
 
@@ -2077,25 +2077,25 @@
           
 
                     &lt;div class="erd-list--d-small-box field field--name-field-d-node-reference field--type-entity-reference field--label-hidden field__item"&gt;
-&lt;div role="article" about="http://acadimexport.localhost/products/super-charged-engine-v12" class="small-box-wrapper clearfix"&gt;
+&lt;div role="article" about="https://villademiraflores.github.io/products/super-charged-engine-v12" class="small-box-wrapper clearfix"&gt;
   &lt;div class="box-content-wrapper clearfix"&gt;
     &lt;div class="box-image"&gt;
-        &lt;a href="http://acadimexport.localhost/products/super-charged-engine-v12"&gt;
+        &lt;a href="https://villademiraflores.github.io/products/super-charged-engine-v12"&gt;
 
 
-&lt;img src="http://acadimexport.localhost/sites/default/files/styles/small_box_image/public/demo/d_product_init_super-charged-engine-1.jpg?itok=Ozi3UjRT" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
+&lt;img src="https://villademiraflores.github.io/sites/default/files/styles/small_box_image/public/demo/d_product_init_super-charged-engine-1.jpg?itok=Ozi3UjRT" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
 
 &lt;/a&gt;
 
     &lt;/div&gt;
     &lt;div class="box-text-content text-center"&gt;
-      &lt;a href="http://acadimexport.localhost/products/super-charged-engine-v12" class="link"&gt;
+      &lt;a href="https://villademiraflores.github.io/products/super-charged-engine-v12" class="link"&gt;
         
         &lt;h2 class="box-title"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Super Charged Engine v12&lt;/span&gt;
 &lt;/h2&gt;
         
       &lt;/a&gt;
-      &lt;a href="http://acadimexport.localhost/products/super-charged-engine-v12" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
+      &lt;a href="https://villademiraflores.github.io/products/super-charged-engine-v12" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -2107,25 +2107,25 @@
           
 
                     &lt;div class="erd-list--d-small-box field field--name-field-d-node-reference field--type-entity-reference field--label-hidden field__item"&gt;
-&lt;div role="article" about="http://acadimexport.localhost/products/centurion-3000" class="small-box-wrapper clearfix"&gt;
+&lt;div role="article" about="https://villademiraflores.github.io/products/centurion-3000" class="small-box-wrapper clearfix"&gt;
   &lt;div class="box-content-wrapper clearfix"&gt;
     &lt;div class="box-image"&gt;
-        &lt;a href="http://acadimexport.localhost/products/centurion-3000"&gt;
+        &lt;a href="https://villademiraflores.github.io/products/centurion-3000"&gt;
 
 
-&lt;img src="http://acadimexport.localhost/sites/default/files/styles/small_box_image/public/demo/d_product_init_centurion-3000-1.jpg?itok=oxmesbQV" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
+&lt;img src="https://villademiraflores.github.io/sites/default/files/styles/small_box_image/public/demo/d_product_init_centurion-3000-1.jpg?itok=oxmesbQV" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
 
 &lt;/a&gt;
 
     &lt;/div&gt;
     &lt;div class="box-text-content text-center"&gt;
-      &lt;a href="http://acadimexport.localhost/products/centurion-3000" class="link"&gt;
+      &lt;a href="https://villademiraflores.github.io/products/centurion-3000" class="link"&gt;
         
         &lt;h2 class="box-title"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Centurion 3000&lt;/span&gt;
 &lt;/h2&gt;
         
       &lt;/a&gt;
-      &lt;a href="http://acadimexport.localhost/products/centurion-3000" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
+      &lt;a href="https://villademiraflores.github.io/products/centurion-3000" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -2137,25 +2137,25 @@
           
 
                     &lt;div class="erd-list--d-small-box field field--name-field-d-node-reference field--type-entity-reference field--label-hidden field__item"&gt;
-&lt;div role="article" about="http://acadimexport.localhost/products/marine-xt-550" class="small-box-wrapper clearfix"&gt;
+&lt;div role="article" about="https://villademiraflores.github.io/products/marine-xt-550" class="small-box-wrapper clearfix"&gt;
   &lt;div class="box-content-wrapper clearfix"&gt;
     &lt;div class="box-image"&gt;
-        &lt;a href="http://acadimexport.localhost/products/marine-xt-550"&gt;
+        &lt;a href="https://villademiraflores.github.io/products/marine-xt-550"&gt;
 
 
-&lt;img src="http://acadimexport.localhost/sites/default/files/styles/small_box_image/public/demo/d_product_init_machine-xt-550-1.jpg?itok=D9xcJ9LC" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
+&lt;img src="https://villademiraflores.github.io/sites/default/files/styles/small_box_image/public/demo/d_product_init_machine-xt-550-1.jpg?itok=D9xcJ9LC" width="490" height="370" alt="Title / Subtitle" typeof="foaf:Image" class="image-style-small-box-image" /&gt;
 
 &lt;/a&gt;
 
     &lt;/div&gt;
     &lt;div class="box-text-content text-center"&gt;
-      &lt;a href="http://acadimexport.localhost/products/marine-xt-550" class="link"&gt;
+      &lt;a href="https://villademiraflores.github.io/products/marine-xt-550" class="link"&gt;
         
         &lt;h2 class="box-title"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Marine-XT 550&lt;/span&gt;
 &lt;/h2&gt;
         
       &lt;/a&gt;
-      &lt;a href="http://acadimexport.localhost/products/marine-xt-550" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
+      &lt;a href="https://villademiraflores.github.io/products/marine-xt-550" class="link"&gt;&lt;span class="box-subtitle text-uppercase"&gt;Detalles&lt;/span&gt;&lt;/a&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -2170,7 +2170,7 @@
                             &lt;div class="container"&gt;
           
 
-                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="http://acadimexport.localhost/products" class="btn btn-primary mt-4"&gt;View All&lt;/a&gt;&lt;/div&gt;
+                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="https://villademiraflores.github.io/products" class="btn btn-primary mt-4"&gt;View All&lt;/a&gt;&lt;/div&gt;
             
         &lt;/div&gt;
           &lt;/div&gt;
@@ -2190,9 +2190,9 @@
                 &lt;div class="field field--name-field-d-p-reference-content field--type-entity-reference field--label-visually_hidden d-flex flex-wrap field--wrapper justify-content-between field__items"&gt;
                                         &lt;div class="d-flex field__item--wrapper col-lg-3 col-sm-6 col-xs-12 field__item"&gt;
 
-&lt;article role="article" about="http://acadimexport.localhost/blog/centurion-v750-fastest-airplane-engine-planet-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
+&lt;article role="article" about="https://villademiraflores.github.io/blog/centurion-v750-fastest-airplane-engine-planet-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
     &lt;div class="d-flex flex-column box"&gt;
-                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="http://acadimexport.localhost/blog/centurion-v750-fastest-airplane-engine-planet-0"&gt;
+                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="https://villademiraflores.github.io/blog/centurion-v750-fastest-airplane-engine-planet-0"&gt;
 
 
 &lt;img width="320" height="240" alt="Mechanism" loading="lazy" class="lazyload image-style-gallery-thumbnail" data-src="/sites/default/files/styles/gallery_thumbnail/public/demo/d_demo_mechanism.jpg?itok=Hyo_0V5Q" typeof="foaf:Image" /&gt;
@@ -2202,14 +2202,14 @@
       
         &lt;div class="text-area"&gt;
             &lt;h2 class="node__title"&gt;
-                &lt;a href="http://acadimexport.localhost/blog/centurion-v750-fastest-airplane-engine-planet-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Centurion V750 is the fastest airplane engine on the planet&lt;/span&gt;
+                &lt;a href="https://villademiraflores.github.io/blog/centurion-v750-fastest-airplane-engine-planet-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Centurion V750 is the fastest airplane engine on the planet&lt;/span&gt;
 &lt;/a&gt;
             &lt;/h2&gt;
             
 
                     &lt;div class="clearfix text-formatted field field--name-field-blog-teaser field--type-text-long field--label-hidden field__item"&gt;DrooplerEngines together with Airplanes Pro tested new aircraft engine Centurion V750 on Mojave desert in California, USA.&lt;/div&gt;
             
-            &lt;a href="http://acadimexport.localhost/blog/centurion-v750-fastest-airplane-engine-planet-0" class="link"&gt;Learn more&lt;/a&gt;
+            &lt;a href="https://villademiraflores.github.io/blog/centurion-v750-fastest-airplane-engine-planet-0" class="link"&gt;Learn more&lt;/a&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 
@@ -2217,9 +2217,9 @@
 &lt;/div&gt;
                             &lt;div class="d-flex field__item--wrapper col-lg-3 col-sm-6 col-xs-12 field__item"&gt;
 
-&lt;article role="article" about="http://acadimexport.localhost/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
+&lt;article role="article" about="https://villademiraflores.github.io/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
     &lt;div class="d-flex flex-column box"&gt;
-                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="http://acadimexport.localhost/blog/abc-automotive-bought-10-000-engines-drooplerengines-0"&gt;
+                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="https://villademiraflores.github.io/blog/abc-automotive-bought-10-000-engines-drooplerengines-0"&gt;
 
 
 &lt;img width="320" height="240" alt="New cars" loading="lazy" class="lazyload image-style-gallery-thumbnail" data-src="/sites/default/files/styles/gallery_thumbnail/public/demo/d_demo_new_cars.jpg?itok=20Dkow8z" typeof="foaf:Image" /&gt;
@@ -2229,14 +2229,14 @@
       
         &lt;div class="text-area"&gt;
             &lt;h2 class="node__title"&gt;
-                &lt;a href="http://acadimexport.localhost/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;ABC Automotive bought 10 000 engines from DrooplerEngines&lt;/span&gt;
+                &lt;a href="https://villademiraflores.github.io/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;ABC Automotive bought 10 000 engines from DrooplerEngines&lt;/span&gt;
 &lt;/a&gt;
             &lt;/h2&gt;
             
 
                     &lt;div class="clearfix text-formatted field field--name-field-blog-teaser field--type-text-long field--label-hidden field__item"&gt;ABC Automotive is world leader in car manufacturing. Our engines will be used in their new car models UMI 4S coupe.&lt;/div&gt;
             
-            &lt;a href="http://acadimexport.localhost/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" class="link"&gt;Learn more&lt;/a&gt;
+            &lt;a href="https://villademiraflores.github.io/blog/abc-automotive-bought-10-000-engines-drooplerengines-0" class="link"&gt;Learn more&lt;/a&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 
@@ -2244,9 +2244,9 @@
 &lt;/div&gt;
                             &lt;div class="d-flex field__item--wrapper col-lg-3 col-sm-6 col-xs-12 field__item"&gt;
 
-&lt;article role="article" about="http://acadimexport.localhost/blog/drooplerengines-automotive-expo-2019-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
+&lt;article role="article" about="https://villademiraflores.github.io/blog/drooplerengines-automotive-expo-2019-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
     &lt;div class="d-flex flex-column box"&gt;
-                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="http://acadimexport.localhost/blog/drooplerengines-automotive-expo-2019-0"&gt;
+                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="https://villademiraflores.github.io/blog/drooplerengines-automotive-expo-2019-0"&gt;
 
 
 &lt;img width="320" height="240" alt="Future car" loading="lazy" class="lazyload image-style-gallery-thumbnail" data-src="/sites/default/files/styles/gallery_thumbnail/public/demo/d_demo_future_car.jpg?itok=MtyGVGkt" typeof="foaf:Image" /&gt;
@@ -2256,14 +2256,14 @@
       
         &lt;div class="text-area"&gt;
             &lt;h2 class="node__title"&gt;
-                &lt;a href="http://acadimexport.localhost/blog/drooplerengines-automotive-expo-2019-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;DrooplerEngines at Automotive Expo 2019&lt;/span&gt;
+                &lt;a href="https://villademiraflores.github.io/blog/drooplerengines-automotive-expo-2019-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;DrooplerEngines at Automotive Expo 2019&lt;/span&gt;
 &lt;/a&gt;
             &lt;/h2&gt;
             
 
                     &lt;div class="clearfix text-formatted field field--name-field-blog-teaser field--type-text-long field--label-hidden field__item"&gt;In last week we presented our engines on the biggest expo in the Europe in Hannover, Germany.&lt;/div&gt;
             
-            &lt;a href="http://acadimexport.localhost/blog/drooplerengines-automotive-expo-2019-0" class="link"&gt;Learn more&lt;/a&gt;
+            &lt;a href="https://villademiraflores.github.io/blog/drooplerengines-automotive-expo-2019-0" class="link"&gt;Learn more&lt;/a&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 
@@ -2271,9 +2271,9 @@
 &lt;/div&gt;
                             &lt;div class="d-flex field__item--wrapper col-lg-3 col-sm-6 col-xs-12 field__item"&gt;
 
-&lt;article role="article" about="http://acadimexport.localhost/blog/new-factory-location-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
+&lt;article role="article" about="https://villademiraflores.github.io/blog/new-factory-location-0" class="node node--type-blog-post node--view-mode-teaser-small clearfix d-flex"&gt;
     &lt;div class="d-flex flex-column box"&gt;
-                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="http://acadimexport.localhost/blog/new-factory-location-0"&gt;
+                    &lt;div class="field field--name-field-blog-media-main-image field--type-entity-reference field--label-hidden field__item"&gt;  &lt;a href="https://villademiraflores.github.io/blog/new-factory-location-0"&gt;
 
 
 &lt;img width="320" height="240" alt="Factory" loading="lazy" class="lazyload image-style-gallery-thumbnail" data-src="/sites/default/files/styles/gallery_thumbnail/public/demo/d_demo_factory.jpg?itok=RDm1wBIx" typeof="foaf:Image" /&gt;
@@ -2283,14 +2283,14 @@
       
         &lt;div class="text-area"&gt;
             &lt;h2 class="node__title"&gt;
-                &lt;a href="http://acadimexport.localhost/blog/new-factory-location-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;New factory location&lt;/span&gt;
+                &lt;a href="https://villademiraflores.github.io/blog/new-factory-location-0" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;New factory location&lt;/span&gt;
 &lt;/a&gt;
             &lt;/h2&gt;
             
 
                     &lt;div class="clearfix text-formatted field field--name-field-blog-teaser field--type-text-long field--label-hidden field__item"&gt;Finally we have another factory. Factory is located in Radom in Poland. This location is well communicated with rest of the Europe.&lt;/div&gt;
             
-            &lt;a href="http://acadimexport.localhost/blog/new-factory-location-0" class="link"&gt;Learn more&lt;/a&gt;
+            &lt;a href="https://villademiraflores.github.io/blog/new-factory-location-0" class="link"&gt;Learn more&lt;/a&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 
@@ -2301,7 +2301,7 @@
 
   &lt;div class="field field--name-field-d-cta-link field--type-link field--label-visually_hidden container text-center"&gt;
     &lt;div class="field__label visually-hidden"&gt;Call To Action&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://acadimexport.localhost/blog" class="btn btn-primary mt-5"&gt;View all&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://villademiraflores.github.io/blog" class="btn btn-primary mt-5"&gt;View all&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
             &lt;/div&gt;
@@ -2319,14 +2319,14 @@
   
 
                     &lt;div class="field field--name-field-media-image field--type-image field--label-hidden field__item"&gt;    &lt;picture&gt;
-                  &lt;source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=C0600HGh 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=2uBS14Al 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_992/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=Uo78VznS 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=7WN8PJmx 1x"&gt;&lt;/source&gt;
+                  &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=C0600HGh 1x" media="all and (min-width: 75em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=2uBS14Al 1x" media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_992/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=Uo78VznS 1x" media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=7WN8PJmx 1x" media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg"&gt;&lt;/source&gt;
                   
   
   
-&lt;img alt="Car Engine" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=C0600HGh" typeof="foaf:Image" /&gt;
+&lt;img src="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_car_diesel_gasoline_engine_contact.jpg?itok=C0600HGh" alt="Car Engine" typeof="foaf:Image" /&gt;
 
   &lt;/picture&gt;
 
@@ -2345,7 +2345,7 @@
                     &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p class="text-align-center"&gt;Contact our sales team to schedule product presentation.&lt;/p&gt;&lt;/div&gt;
             
 
-                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="http://acadimexport.localhost/contact" class="btn btn-primary"&gt;CONTACT US&lt;/a&gt;&lt;/div&gt;
+                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="https://villademiraflores.github.io/contact" class="btn btn-primary"&gt;CONTACT US&lt;/a&gt;&lt;/div&gt;
             
   
                   &lt;/div&gt;
@@ -2359,11 +2359,11 @@
 </description>
   <pubDate>Mon, 29 Jun 2020 21:32:59 +0000</pubDate>
     <dc:creator>Anónimo</dc:creator>
-    <guid isPermaLink="false">59 at http://acadimexport.localhost</guid>
+    <guid isPermaLink="false">59 at https://villademiraflores.github.io</guid>
     </item>
 <item>
   <title>Careers</title>
-  <link>http://acadimexport.localhost/careers</link>
+  <link>https://villademiraflores.github.io/careers</link>
   <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Careers&lt;/span&gt;
 &lt;div class="paragraph-sections field field--name-field-page-section field--type-entity-reference-revisions field--label-hidden"&gt;
       
@@ -2458,7 +2458,7 @@
                     &lt;div class="field field--name-field-media-image field--type-image field--label-hidden field__item"&gt;  
 
 
-&lt;img width="1920" height="1280" alt="Abstract Background" loading="lazy" class="lazyload" data-src="/sites/default/files/demo/demo_bg_2.jpg" typeof="foaf:Image" /&gt;
+&lt;img src="https://villademiraflores.github.io/sites/default/files/demo/demo_bg_2.jpg" width="1920" height="1280" alt="Abstract Background" typeof="foaf:Image" /&gt;
 
 &lt;/div&gt;
             
@@ -2523,7 +2523,7 @@
                     &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;Get in touch for career or job-related questions, find company insights and updates or meet our employees.&lt;/p&gt;&lt;/div&gt;
             
 
-                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="http://acadimexport.localhost/contact" class="btn btn-primary"&gt;CONTACT US&lt;/a&gt;&lt;/div&gt;
+                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="https://villademiraflores.github.io/contact" class="btn btn-primary"&gt;CONTACT US&lt;/a&gt;&lt;/div&gt;
             
               &lt;/div&gt;
     &lt;/div&gt;
@@ -2570,7 +2570,7 @@
                 &lt;/div&gt;
   
   
-              &lt;form class="d-p-subscribe-file-form" data-drupal-selector="d-p-subscribe-file-form-401" action="http://acadimexport.localhost/rss.xml" method="post" id="d-p-subscribe-file-form-401" accept-charset="UTF-8"&gt;
+              &lt;form class="d-p-subscribe-file-form" data-drupal-selector="d-p-subscribe-file-form-401" action="https://villademiraflores.github.io/rss.xml" method="post" id="d-p-subscribe-file-form-401" accept-charset="UTF-8"&gt;
   
   &lt;fieldset class="js-form-item js-form-type-textfield form-type-textfield js-form-item-name form-item-name form-no-label form-group"&gt;
           &lt;label for="edit-name" class="sr-only js-form-required form-required"&gt;Nombre&lt;/label&gt;
@@ -2591,7 +2591,7 @@
                I accept the &lt;a href="#"&gt;Terms and Conditions&lt;/a&gt;
           &lt;/label&gt;
               &lt;/div&gt;
-&lt;input autocomplete="off" data-drupal-selector="form-rrkoc2lzjsf5-em26nda-cctjrd0hlggg4kppqnx2pa" type="hidden" name="form_build_id" value="form-RRKoC2lzjsf5-EM26nda-CCtjRD0hLggG4kPPqNX2PA" class="form-control" /&gt;
+&lt;input autocomplete="off" data-drupal-selector="form-vwwh0lkrpkhp7ifjaqmphtjqwgz7vsix9ibhzyv58bk" type="hidden" name="form_build_id" value="form-VWWH0LKrpKhp7IFjAqmPhTjqwGz7Vsix9ibhZyv58bk" class="form-control" /&gt;
 &lt;input data-drupal-selector="edit-d-p-subscribe-file-form-401" type="hidden" name="form_id" value="d_p_subscribe_file_form_401" class="form-control" /&gt;
 
 &lt;/form&gt;
@@ -2609,11 +2609,11 @@
 </description>
   <pubDate>Mon, 29 Jun 2020 21:32:59 +0000</pubDate>
     <dc:creator>Anónimo</dc:creator>
-    <guid isPermaLink="false">58 at http://acadimexport.localhost</guid>
+    <guid isPermaLink="false">58 at https://villademiraflores.github.io</guid>
     </item>
 <item>
   <title>About us</title>
-  <link>http://acadimexport.localhost/about-us</link>
+  <link>https://villademiraflores.github.io/about-us</link>
   <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;About us&lt;/span&gt;
 &lt;div class="paragraph-sections field field--name-field-page-section field--type-entity-reference-revisions field--label-hidden"&gt;
       
@@ -2629,14 +2629,14 @@
   
 
                     &lt;div class="field field--name-field-media-image field--type-image field--label-hidden field__item"&gt;    &lt;picture&gt;
-                  &lt;source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_flying_jetplane.jpg?itok=o-QELLgg 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_flying_jetplane.jpg?itok=UHOshbI2 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_992/public/demo/d_demo_flying_jetplane.jpg?itok=nOvFryNC 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_flying_jetplane.jpg?itok=FM8BTgfI 1x"&gt;&lt;/source&gt;
+                  &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_flying_jetplane.jpg?itok=o-QELLgg 1x" media="all and (min-width: 75em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_flying_jetplane.jpg?itok=UHOshbI2 1x" media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_992/public/demo/d_demo_flying_jetplane.jpg?itok=nOvFryNC 1x" media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_flying_jetplane.jpg?itok=FM8BTgfI 1x" media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg"&gt;&lt;/source&gt;
                   
   
   
-&lt;img alt="Title / Subtitle" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_flying_jetplane.jpg?itok=o-QELLgg" typeof="foaf:Image" /&gt;
+&lt;img src="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_flying_jetplane.jpg?itok=o-QELLgg" alt="Title / Subtitle" typeof="foaf:Image" /&gt;
 
   &lt;/picture&gt;
 
@@ -2657,7 +2657,7 @@
                     &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;We have over 20 years of experience in the production of high-class engines. We not only deliver products but also provide full technical support.&lt;/p&gt;&lt;/div&gt;
             
 
-                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="http://acadimexport.localhost/contact" class="btn btn-secondary" target="_self"&gt;Contact us&lt;/a&gt;&lt;/div&gt;
+                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="https://villademiraflores.github.io/contact" class="btn btn-secondary" target="_self"&gt;Contact us&lt;/a&gt;&lt;/div&gt;
             
   
           &lt;/div&gt;
@@ -2692,14 +2692,14 @@
   
 
                     &lt;div class="field field--name-field-media-image field--type-image field--label-hidden field__item"&gt;    &lt;picture&gt;
-                  &lt;source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_laptop_typing.jpg?itok=ZeN2AVG7 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_laptop_typing.jpg?itok=swAoD5D1 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_992/public/demo/d_demo_laptop_typing.jpg?itok=rZhUkS6_ 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_laptop_typing.jpg?itok=8GEjHprx 1x"&gt;&lt;/source&gt;
+                  &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_laptop_typing.jpg?itok=ZeN2AVG7 1x" media="all and (min-width: 75em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_laptop_typing.jpg?itok=swAoD5D1 1x" media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_992/public/demo/d_demo_laptop_typing.jpg?itok=rZhUkS6_ 1x" media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_laptop_typing.jpg?itok=8GEjHprx 1x" media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg"&gt;&lt;/source&gt;
                   
   
   
-&lt;img alt="Laptop typing" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_laptop_typing.jpg?itok=ZeN2AVG7" typeof="foaf:Image" /&gt;
+&lt;img src="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_laptop_typing.jpg?itok=ZeN2AVG7" alt="Laptop typing" typeof="foaf:Image" /&gt;
 
   &lt;/picture&gt;
 
@@ -2720,7 +2720,7 @@
                     &lt;div class="clearfix text-formatted field field--name-field-d-long-text field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;We are constantly expanding our team with new employees. We are looking for experienced product designers and engineers. Check our current job offers.&lt;/p&gt;&lt;/div&gt;
             
 
-                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="http://acadimexport.localhost/careers" class="btn btn-primary" target="_self"&gt;Careers&lt;/a&gt;&lt;/div&gt;
+                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="https://villademiraflores.github.io/careers" class="btn btn-primary" target="_self"&gt;Careers&lt;/a&gt;&lt;/div&gt;
             
   
           &lt;/div&gt;
@@ -2741,14 +2741,14 @@
   
 
                     &lt;div class="field field--name-field-media-image field--type-image field--label-hidden field__item"&gt;    &lt;picture&gt;
-                  &lt;source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_architecture2.jpg?itok=e5DsEJNf 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_architecture2.jpg?itok=bX27nvXz 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_992/public/demo/d_demo_architecture2.jpg?itok=Uw0sRqv7 1x"&gt;&lt;/source&gt;
-              &lt;source media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg" data-srcset="/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_architecture2.jpg?itok=4l_X6lr2 1x"&gt;&lt;/source&gt;
+                  &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_architecture2.jpg?itok=e5DsEJNf 1x" media="all and (min-width: 75em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_1200/public/demo/d_demo_architecture2.jpg?itok=bX27nvXz 1x" media="all and (min-width: 62em) and (max-width: 74em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_992/public/demo/d_demo_architecture2.jpg?itok=Uw0sRqv7 1x" media="all and (min-width: 48em) and (max-width: 61em)" type="image/jpeg"&gt;&lt;/source&gt;
+              &lt;source srcset="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_768_banner/public/demo/d_demo_architecture2.jpg?itok=4l_X6lr2 1x" media="all and (min-width: 34em) and (max-width: 47em)" type="image/jpeg"&gt;&lt;/source&gt;
                   
   
   
-&lt;img alt="Motor" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_architecture2.jpg?itok=e5DsEJNf" typeof="foaf:Image" /&gt;
+&lt;img src="https://villademiraflores.github.io/sites/default/files/styles/responsive_image_2000/public/demo/d_demo_architecture2.jpg?itok=e5DsEJNf" alt="Motor" typeof="foaf:Image" /&gt;
 
   &lt;/picture&gt;
 
@@ -2764,7 +2764,7 @@
                             &lt;h2 class="field field--name-field-d-main-title field--type-string field--label-hidden"&gt;For investors&lt;/h2&gt;
 
 
-                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="http://acadimexport.localhost/investor-relations" class="btn btn-primary" target="_self"&gt;Read more&lt;/a&gt;&lt;/div&gt;
+                    &lt;div class="field field--name-field-d-cta-link field--type-link field--label-hidden field__item"&gt;&lt;a href="https://villademiraflores.github.io/investor-relations" class="btn btn-primary" target="_self"&gt;Read more&lt;/a&gt;&lt;/div&gt;
             
   
                   &lt;/div&gt;
@@ -2778,7 +2778,7 @@
 </description>
   <pubDate>Mon, 29 Jun 2020 21:32:59 +0000</pubDate>
     <dc:creator>Anónimo</dc:creator>
-    <guid isPermaLink="false">57 at http://acadimexport.localhost</guid>
+    <guid isPermaLink="false">57 at https://villademiraflores.github.io</guid>
     </item>
 
   </channel>
